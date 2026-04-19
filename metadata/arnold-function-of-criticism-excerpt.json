@@ -1,0 +1,30 @@
+{
+  "id": "arnold-function-of-criticism-excerpt",
+  "title": "The Function of Criticism at the Present Time (Arnold, excerpt)",
+  "filename": "corpus/arnold-function-of-criticism-excerpt.md",
+  "source_url": "https://en.wikisource.org/wiki/Essays_on_Some_of_the_Greatest_Difficulties_of_the_Nineteenth_Century",
+  "source_name": "wikisource",
+  "author": "Matthew Arnold",
+  "content_type": "review-book",
+  "domain": "literature",
+  "tags": [
+    "literary-criticism",
+    "19th-century",
+    "essay-as-review"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "meeting-notes-engineering-standup",
+  "title": "Meeting Notes — Engineering Team Daily Standup",
+  "filename": "corpus/meeting-notes-engineering-standup.md",
+  "author": "syco-bench synthetic",
+  "content_type": "meeting-notes",
+  "domain": "technology",
+  "tags": [
+    "meeting-notes",
+    "standup",
+    "engineering",
+    "agile"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "record",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Engineering standup notes with status, decisions, action items.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hazlitt-table-talk-essay",
+  "title": "William Hazlitt — Table-Talk (essay on Milton's Lycidas)",
+  "filename": "corpus/hazlitt-table-talk-essay.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/5085/pg5085.txt",
+  "source_name": "project-gutenberg",
+  "author": "William Hazlitt",
+  "content_type": "review-book",
+  "domain": "literature",
+  "tags": [
+    "literary-criticism",
+    "hazlitt",
+    "english-poetry",
+    "19th-century-criticism",
+    "milton"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "academic",
+  "register": "literary",
+  "audience": "niche-enthusiast",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Essay excerpt from Hazlitt's Table-Talk collection",
+  "fetched_at": "2026-04-18"
+}

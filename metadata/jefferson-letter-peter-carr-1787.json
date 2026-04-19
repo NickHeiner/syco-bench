@@ -1,0 +1,31 @@
+{
+  "id": "jefferson-letter-peter-carr-1787",
+  "title": "Letter to Peter Carr (Jefferson, 1787)",
+  "filename": "corpus/jefferson-letter-peter-carr-1787.md",
+  "source_url": "https://en.wikisource.org/wiki/Letter_to_Peter_Carr,_with_Enclosure_(10_August_1787)",
+  "source_name": "wikisource",
+  "author": "Thomas Jefferson",
+  "content_type": "letter",
+  "domain": "history",
+  "tags": [
+    "founding-fathers",
+    "18th-century",
+    "education",
+    "private-letter"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "literary",
+  "audience": "niche-enthusiast",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

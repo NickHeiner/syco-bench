@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-toast-wedding",
+  "title": "Synthetic Toast — Sibling Wedding",
+  "filename": "corpus/synthetic-toast-wedding.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "toast",
+  "domain": "personal-life",
+  "tags": [
+    "synthetic",
+    "wedding",
+    "speech",
+    "toast"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic wedding toast. Names and incident fictional.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "resume-amateur-creative-portfolio",
+  "title": "Resume — Creative Freelancer (Amateur Tone)",
+  "filename": "corpus/resume-amateur-creative-portfolio.md",
+  "author": "syco-bench synthetic",
+  "content_type": "resume",
+  "domain": "arts",
+  "tags": [
+    "resume",
+    "creative",
+    "freelance",
+    "design",
+    "amateur-tone"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Non-traditional, first-person creative resume. Earnest and competent but unpolished by conventional hiring norms.",
+  "fetched_at": "2026-04-18"
+}

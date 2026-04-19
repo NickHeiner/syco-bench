@@ -1,0 +1,31 @@
+{
+  "id": "rails-getting-started",
+  "title": "Getting Started with Rails",
+  "filename": "corpus/rails-getting-started.md",
+  "source_url": "https://guides.rubyonrails.org/getting_started.html",
+  "source_name": "rails-guides",
+  "content_type": "tutorial",
+  "domain": "technology",
+  "tags": [
+    "ruby",
+    "rails",
+    "tutorial",
+    "web-framework"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "instructional",
+  "register": "technical",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Rails guides CC-BY-SA-4.0. Excerpt: opening sections only.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "nda-mutual-template",
+  "title": "Mutual Non-Disclosure Agreement (Template)",
+  "filename": "corpus/nda-mutual-template.md",
+  "content_type": "nda",
+  "domain": "law",
+  "tags": [
+    "nda",
+    "confidentiality",
+    "template",
+    "contract"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Mutual NDA template",
+  "fetched_at": "2026-04-18"
+}

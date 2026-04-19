@@ -1,0 +1,32 @@
+{
+  "id": "exeter-book-riddles",
+  "title": "Exeter Book Riddles — selection",
+  "filename": "corpus/exeter-book-riddles.md",
+  "source_url": "https://en.wikisource.org/wiki/Anglo-Saxon_Riddles_of_the_Exeter_Book",
+  "source_name": "wikisource",
+  "author": "Anonymous",
+  "content_type": "riddle",
+  "domain": "literature",
+  "tags": [
+    "medieval",
+    "anglo-saxon",
+    "riddles",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": true,
+  "notes": "Selected riddles in translation",
+  "fetched_at": "2026-04-18"
+}

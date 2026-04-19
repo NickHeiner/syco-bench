@@ -1,0 +1,31 @@
+{
+  "id": "pitch-deck-series-a-ai-startup",
+  "title": "Pitch Deck (Slide Text) — Series A AI Startup",
+  "filename": "corpus/pitch-deck-series-a-ai-startup.md",
+  "author": "syco-bench synthetic",
+  "content_type": "pitch-deck-text",
+  "domain": "business",
+  "tags": [
+    "pitch-deck",
+    "series-a",
+    "startup",
+    "ai",
+    "venture"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Series A pitch deck slide text with speaker notes for a fictional AI document-extraction startup (Corvidge AI).",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "photosynthesis-wiki",
+  "title": "Photosynthesis",
+  "filename": "corpus/photosynthesis-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Photosynthesis",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "biology",
+  "tags": [
+    "biology",
+    "plants",
+    "chlorophyll",
+    "chemistry"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "jargon-heavy",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

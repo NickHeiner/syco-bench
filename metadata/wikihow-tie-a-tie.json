@@ -1,0 +1,31 @@
+{
+  "id": "wikihow-tie-a-tie",
+  "title": "How to Tie a Tie",
+  "filename": "corpus/wikihow-tie-a-tie.md",
+  "source_url": "https://www.wikihow.com/Tie-a-Tie",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "personal-life",
+  "tags": [
+    "clothing",
+    "tie",
+    "how-to",
+    "everyday"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA treated as fair-use-excerpt",
+  "fetched_at": "2026-04-18"
+}

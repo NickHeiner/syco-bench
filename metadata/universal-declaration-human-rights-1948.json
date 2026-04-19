@@ -1,0 +1,30 @@
+{
+  "id": "universal-declaration-human-rights-1948",
+  "title": "Universal Declaration of Human Rights (1948)",
+  "filename": "corpus/universal-declaration-human-rights-1948.md",
+  "source_url": "https://en.wikisource.org/wiki/Universal_Declaration_of_Human_Rights",
+  "source_name": "wikisource",
+  "author": "United Nations General Assembly",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "international-law",
+    "human-rights",
+    "postwar"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

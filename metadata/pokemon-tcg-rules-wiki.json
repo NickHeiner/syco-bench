@@ -1,0 +1,31 @@
+{
+  "id": "pokemon-tcg-rules-wiki",
+  "title": "Pokémon Trading Card Game",
+  "filename": "corpus/pokemon-tcg-rules-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Trading_Card_Game",
+  "source_name": "wikipedia",
+  "content_type": "rules-of-game",
+  "domain": "games",
+  "tags": [
+    "pokemon",
+    "trading-cards",
+    "card-game",
+    "rules"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "TCG rules article",
+  "fetched_at": "2026-04-18"
+}

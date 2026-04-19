@@ -1,0 +1,31 @@
+{
+  "id": "shakespeare-sonnet-18",
+  "title": "Sonnet 18 (Shall I compare thee to a summer's day)",
+  "filename": "corpus/shakespeare-sonnet-18.md",
+  "source_url": "https://en.wikisource.org/wiki/Shakespeare%27s_Sonnets_(1923)_Yale/18",
+  "source_name": "wikisource",
+  "author": "William Shakespeare",
+  "content_type": "sonnet",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "renaissance",
+    "love",
+    "sonnet"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

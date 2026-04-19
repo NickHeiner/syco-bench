@@ -1,0 +1,32 @@
+{
+  "id": "homer-iliad-book-1-pope",
+  "title": "The Iliad — Book 1 (Pope translation)",
+  "filename": "corpus/homer-iliad-book-1-pope.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Iliad_(Pope)/Book_1",
+  "source_name": "wikisource",
+  "author": "Homer",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "greek-epic",
+    "classical",
+    "translation",
+    "epic-verse"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Book 1; Pope translation",
+  "fetched_at": "2026-04-18"
+}

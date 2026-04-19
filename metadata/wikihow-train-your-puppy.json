@@ -1,0 +1,30 @@
+{
+  "id": "wikihow-train-your-puppy",
+  "title": "How to Train Your Puppy",
+  "filename": "corpus/wikihow-train-your-puppy.md",
+  "source_url": "https://www.wikihow.com/Train-Your-Puppy",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "personal-life",
+  "tags": [
+    "puppy",
+    "dog-training",
+    "pet-care"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA as fair-use",
+  "fetched_at": "2026-04-18"
+}

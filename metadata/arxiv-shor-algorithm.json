@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-shor-algorithm",
+  "title": "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms (Shor)",
+  "filename": "corpus/arxiv-shor-algorithm.md",
+  "source_name": "arxiv",
+  "author": "Peter W. Shor",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "quantum-computing",
+    "shor-algorithm",
+    "quantum-algorithms",
+    "cryptography",
+    "factoring"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

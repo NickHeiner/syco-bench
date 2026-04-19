@@ -1,0 +1,31 @@
+{
+  "id": "shakespeare-midsummer-nights-dream-act1",
+  "title": "A Midsummer Night's Dream — Act I",
+  "filename": "corpus/shakespeare-midsummer-nights-dream-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/A_Midsummer_Night%27s_Dream/Act_I",
+  "source_name": "wikisource",
+  "author": "William Shakespeare",
+  "content_type": "stage-play",
+  "domain": "literature",
+  "tags": [
+    "english-drama",
+    "shakespeare",
+    "comedy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

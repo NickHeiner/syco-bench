@@ -1,0 +1,33 @@
+{
+  "id": "hamlet-act3-scene1",
+  "title": "Hamlet, Act III, Scene I (To Be or Not To Be)",
+  "filename": "corpus/hamlet-act3-scene1.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/1524/pg1524.txt",
+  "source_name": "project-gutenberg",
+  "author": "William Shakespeare",
+  "content_type": "stage-play",
+  "domain": "literature",
+  "tags": [
+    "shakespeare",
+    "tragedy",
+    "soliloquy",
+    "elizabethan",
+    "hamlet"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act III Scene I including the 'To be, or not to be' soliloquy",
+  "fetched_at": "2026-04-18"
+}

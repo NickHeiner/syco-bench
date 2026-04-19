@@ -1,0 +1,31 @@
+{
+  "id": "cervantes-don-quixote-ch1",
+  "title": "Don Quixote — Part 1 Chapter 1 (Ormsby translation)",
+  "filename": "corpus/cervantes-don-quixote-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/Don_Quixote_(Ormsby)/Volume_1/Part_1/Chapter_1",
+  "source_name": "wikisource",
+  "author": "Miguel de Cervantes",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "spanish-novel",
+    "translation",
+    "picaresque"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1; Ormsby translation",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "frost-the-road-not-taken",
+  "title": "The Road Not Taken",
+  "filename": "corpus/frost-the-road-not-taken.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Road_Not_Taken",
+  "source_name": "wikisource",
+  "author": "Robert Frost",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "modernist",
+    "nature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

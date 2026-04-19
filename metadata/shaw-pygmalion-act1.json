@@ -1,0 +1,32 @@
+{
+  "id": "shaw-pygmalion-act1",
+  "title": "Pygmalion — Act I",
+  "filename": "corpus/shaw-pygmalion-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/Pygmalion_(Shaw)/Act_I",
+  "source_name": "wikisource",
+  "author": "George Bernard Shaw",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "20th-century",
+    "british-drama",
+    "edwardian",
+    "class"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

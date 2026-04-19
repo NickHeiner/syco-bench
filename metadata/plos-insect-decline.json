@@ -1,0 +1,32 @@
+{
+  "id": "plos-insect-decline",
+  "title": "More than 75 percent decline over 27 years in total flying insect biomass in protected areas (PLOS ONE)",
+  "filename": "corpus/plos-insect-decline.md",
+  "source_name": "plos",
+  "author": "Hallmann et al.",
+  "content_type": "academic-paper",
+  "domain": "biology",
+  "tags": [
+    "entomology",
+    "biodiversity",
+    "ecology",
+    "insect-decline",
+    "conservation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Abstract, intro, methods excerpt, conclusion only",
+  "fetched_at": "2026-04-18"
+}

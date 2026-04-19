@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-double-unet",
+  "title": "DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation",
+  "filename": "corpus/arxiv-double-unet.md",
+  "source_name": "arxiv",
+  "author": "Jha et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "medicine",
+  "tags": [
+    "medical-imaging",
+    "unet",
+    "segmentation",
+    "deep-learning",
+    "computer-vision"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

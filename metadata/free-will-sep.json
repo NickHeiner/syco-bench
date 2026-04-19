@@ -1,0 +1,31 @@
+{
+  "id": "free-will-sep",
+  "title": "Free Will (Stanford Encyclopedia of Philosophy)",
+  "filename": "corpus/free-will-sep.md",
+  "source_url": "https://plato.stanford.edu/entries/freewill/",
+  "source_name": "stanford-encyclopedia-philosophy",
+  "content_type": "encyclopedia-entry",
+  "domain": "philosophy",
+  "tags": [
+    "philosophy",
+    "metaphysics",
+    "free-will",
+    "determinism",
+    "ethics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "unknown",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

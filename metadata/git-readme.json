@@ -1,0 +1,28 @@
+{
+  "id": "git-readme",
+  "title": "Git README",
+  "filename": "corpus/git-readme.md",
+  "source_name": "github",
+  "content_type": "readme",
+  "domain": "technology",
+  "tags": [
+    "git",
+    "version-control",
+    "scm"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

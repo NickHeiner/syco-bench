@@ -1,0 +1,32 @@
+{
+  "id": "arxiv-deep-q-learning-atari",
+  "title": "DeepMind Atari DQN paper",
+  "filename": "corpus/arxiv-deep-q-learning-atari.md",
+  "source_url": "https://arxiv.org/abs/1312.5602",
+  "source_name": "arxiv",
+  "author": "Mnih et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "reinforcement-learning",
+    "deep-learning",
+    "dqn",
+    "atari",
+    "deepmind"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

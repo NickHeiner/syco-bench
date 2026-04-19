@@ -1,0 +1,31 @@
+{
+  "id": "wikihow-change-car-oil",
+  "title": "How to Change Your Oil",
+  "filename": "corpus/wikihow-change-car-oil.md",
+  "source_url": "https://www.wikihow.com/Change-Your-Oil",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "personal-life",
+  "tags": [
+    "car-maintenance",
+    "oil-change",
+    "diy",
+    "vehicle"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA as fair-use",
+  "fetched_at": "2026-04-18"
+}

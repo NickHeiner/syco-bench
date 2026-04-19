@@ -1,0 +1,29 @@
+{
+  "id": "patagonia-our-footprint",
+  "title": "Patagonia — Our Footprint (marketing copy)",
+  "filename": "corpus/patagonia-our-footprint.md",
+  "source_url": "https://www.patagonia.com/our-footprint/",
+  "source_name": "patagonia-com",
+  "content_type": "marketing-copy",
+  "domain": "fashion",
+  "tags": [
+    "sustainability",
+    "apparel",
+    "brand-copy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "reverent",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

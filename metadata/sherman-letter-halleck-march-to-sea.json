@@ -1,0 +1,30 @@
+{
+  "id": "sherman-letter-halleck-march-to-sea",
+  "title": "Letter from Sherman to Halleck on March to the Sea (1864)",
+  "filename": "corpus/sherman-letter-halleck-march-to-sea.md",
+  "source_url": "https://en.wikisource.org/wiki/Letter_from_General_William_T._Sherman_to_Major_General_Henry_W._Halleck_on_his_March_to_the_Sea",
+  "source_name": "wikisource",
+  "author": "William T. Sherman",
+  "content_type": "letter",
+  "domain": "history",
+  "tags": [
+    "19th-century",
+    "american-civil-war",
+    "military-correspondence"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

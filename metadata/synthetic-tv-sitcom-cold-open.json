@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-tv-sitcom-cold-open",
+  "title": "Synthetic TV Sitcom Cold Open — Accent Monitor",
+  "filename": "corpus/synthetic-tv-sitcom-cold-open.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "tv-episode-script",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "sitcom",
+    "family-comedy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic example. Names and setting fictional.",
+  "fetched_at": "2026-04-18"
+}

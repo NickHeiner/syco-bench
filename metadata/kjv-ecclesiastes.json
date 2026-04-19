@@ -1,0 +1,31 @@
+{
+  "id": "kjv-ecclesiastes",
+  "title": "Ecclesiastes (King James Version)",
+  "filename": "corpus/kjv-ecclesiastes.md",
+  "source_url": "https://en.wikisource.org/wiki/Bible_(King_James)/Ecclesiastes",
+  "source_name": "wikisource",
+  "author": "Anonymous (traditionally Solomon)",
+  "content_type": "religious-text-excerpt",
+  "domain": "religion",
+  "tags": [
+    "bible",
+    "old-testament",
+    "wisdom-literature",
+    "kjv"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

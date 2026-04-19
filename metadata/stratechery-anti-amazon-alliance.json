@@ -1,0 +1,32 @@
+{
+  "id": "stratechery-anti-amazon-alliance",
+  "title": "The Anti-Amazon Alliance",
+  "filename": "corpus/stratechery-anti-amazon-alliance.md",
+  "source_url": "https://stratechery.com/2020/the-anti-amazon-alliance/",
+  "source_name": "stratechery.com",
+  "author": "Ben Thompson",
+  "content_type": "blog-post",
+  "domain": "business",
+  "tags": [
+    "amazon",
+    "tech",
+    "antitrust",
+    "business",
+    "stratechery"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

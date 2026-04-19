@@ -1,0 +1,31 @@
+{
+  "id": "email-customer-service-complaint-response",
+  "title": "Email — Customer Service Response to a Gear-Failure Complaint",
+  "filename": "corpus/email-customer-service-complaint-response.md",
+  "author": "syco-bench synthetic",
+  "content_type": "email",
+  "domain": "business",
+  "tags": [
+    "email",
+    "customer-service",
+    "apology",
+    "gear-failure",
+    "complaint-response"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Honest customer-service email with concrete remediation. Fictional outdoor-gear brand.",
+  "fetched_at": "2026-04-18"
+}

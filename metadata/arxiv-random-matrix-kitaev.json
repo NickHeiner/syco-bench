@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-random-matrix-kitaev",
+  "title": "Boundary Conditions for Scaled Random Matrix Ensembles in the Bulk of the Spectrum",
+  "filename": "corpus/arxiv-random-matrix-kitaev.md",
+  "source_name": "arxiv",
+  "author": "A.V. Kitaev, N.S. Witte",
+  "content_type": "arxiv-abstract",
+  "domain": "mathematics",
+  "tags": [
+    "random-matrix-theory",
+    "mathematical-physics",
+    "painleve",
+    "tau-function"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

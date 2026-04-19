@@ -1,0 +1,31 @@
+{
+  "id": "react-learn-tutorial",
+  "title": "React: Quick Start",
+  "filename": "corpus/react-learn-tutorial.md",
+  "source_url": "https://react.dev/learn",
+  "source_name": "react-docs",
+  "content_type": "tutorial",
+  "domain": "technology",
+  "tags": [
+    "react",
+    "javascript",
+    "tutorial",
+    "frontend"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "instructional",
+  "register": "technical",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "notes": "React docs Meta (Facebook) CC-BY-4.0",
+  "fetched_at": "2026-04-18"
+}

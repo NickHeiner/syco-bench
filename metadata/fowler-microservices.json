@@ -1,0 +1,31 @@
+{
+  "id": "fowler-microservices",
+  "title": "Microservices",
+  "filename": "corpus/fowler-microservices.md",
+  "source_url": "https://martinfowler.com/articles/microservices.html",
+  "source_name": "martinfowler.com",
+  "author": "James Lewis, Martin Fowler",
+  "content_type": "essay",
+  "domain": "technology",
+  "tags": [
+    "microservices",
+    "architecture",
+    "software",
+    "fowler"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

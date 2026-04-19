@@ -1,0 +1,31 @@
+{
+  "id": "medlineplus-diabetes",
+  "title": "MedlinePlus: Diabetes Patient Education",
+  "filename": "corpus/medlineplus-diabetes.md",
+  "source_url": "https://medlineplus.gov/diabetes.html",
+  "source_name": "medlineplus",
+  "content_type": "patient-education",
+  "domain": "medicine",
+  "tags": [
+    "diabetes",
+    "patient-education",
+    "nih",
+    "medlineplus",
+    "chronic-disease"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "us-first-amendment-annotation",
+  "title": "US First Amendment — Text and Annotation (Cornell LII)",
+  "filename": "corpus/us-first-amendment-annotation.md",
+  "source_url": "https://www.law.cornell.edu/constitution/first_amendment",
+  "source_name": "cornell-lii",
+  "content_type": "statute-excerpt",
+  "domain": "law",
+  "tags": [
+    "first-amendment",
+    "constitution",
+    "free-speech",
+    "religion"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Constitutional text + modern annotation",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ruskin-modern-painters-vol1-intro",
+  "title": "Modern Painters Vol. 1 — Introduction (Ruskin)",
+  "filename": "corpus/ruskin-modern-painters-vol1-intro.md",
+  "source_url": "https://en.wikisource.org/wiki/Modern_Painters/Volume_1",
+  "source_name": "wikisource",
+  "author": "John Ruskin",
+  "content_type": "review-product",
+  "domain": "arts",
+  "tags": [
+    "art-criticism",
+    "19th-century",
+    "painting"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Introduction only",
+  "fetched_at": "2026-04-18"
+}

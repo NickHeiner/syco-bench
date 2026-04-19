@@ -1,0 +1,30 @@
+{
+  "id": "tardigrade-wiki",
+  "title": "Tardigrade",
+  "filename": "corpus/tardigrade-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Tardigrade",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "biology",
+  "tags": [
+    "microorganism",
+    "extremophile",
+    "biology",
+    "invertebrate"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-podcast-transcript-opening",
+  "title": "Synthetic Podcast Transcript — Later Tonight (opening)",
+  "filename": "corpus/synthetic-podcast-transcript-opening.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "podcast-transcript",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "podcast",
+    "interview",
+    "opening"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic podcast transcript opening. All names, show, book fictional.",
+  "fetched_at": "2026-04-18"
+}

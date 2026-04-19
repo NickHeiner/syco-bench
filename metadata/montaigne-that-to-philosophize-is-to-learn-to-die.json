@@ -1,0 +1,30 @@
+{
+  "id": "montaigne-that-to-philosophize-is-to-learn-to-die",
+  "title": "That to Philosophize Is to Learn to Die (Montaigne)",
+  "filename": "corpus/montaigne-that-to-philosophize-is-to-learn-to-die.md",
+  "source_url": "https://en.wikisource.org/wiki/Essays_of_Montaigne/Book_I/Chapter_XX",
+  "source_name": "wikisource",
+  "author": "Michel de Montaigne",
+  "content_type": "essay",
+  "domain": "philosophy",
+  "tags": [
+    "french-essay",
+    "philosophy",
+    "renaissance"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

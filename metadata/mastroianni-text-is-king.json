@@ -1,0 +1,32 @@
+{
+  "id": "mastroianni-text-is-king",
+  "title": "Text Is King",
+  "filename": "corpus/mastroianni-text-is-king.md",
+  "source_url": "https://www.experimental-history.com/p/text-is-king",
+  "source_name": "substack",
+  "author": "Adam Mastroianni",
+  "content_type": "substack-article",
+  "domain": "psychology",
+  "tags": [
+    "text",
+    "writing",
+    "science",
+    "knowledge",
+    "experimental-history"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-joint-ctc-asr",
+  "title": "Advances in Joint CTC-Attention based End-to-End Speech Recognition (Hori et al.)",
+  "filename": "corpus/arxiv-joint-ctc-asr.md",
+  "source_name": "arxiv",
+  "author": "Hori, Watanabe, Zhang, Chan",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "speech-recognition",
+    "ctc",
+    "attention",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

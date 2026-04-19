@@ -1,0 +1,30 @@
+{
+  "id": "federal-reserve-wiki",
+  "title": "Federal Reserve",
+  "filename": "corpus/federal-reserve-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Federal_Reserve",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "finance",
+  "tags": [
+    "central-bank",
+    "monetary-policy",
+    "usa",
+    "federal-reserve"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

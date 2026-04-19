@@ -1,0 +1,31 @@
+{
+  "id": "wikihow-make-kombucha",
+  "title": "How to Make Kombucha",
+  "filename": "corpus/wikihow-make-kombucha.md",
+  "source_url": "https://www.wikihow.com/Make-Kombucha",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "food",
+  "tags": [
+    "kombucha",
+    "fermentation",
+    "beverage",
+    "cooking"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA as fair-use",
+  "fetched_at": "2026-04-18"
+}

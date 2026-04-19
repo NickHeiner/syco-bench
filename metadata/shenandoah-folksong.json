@@ -1,0 +1,30 @@
+{
+  "id": "shenandoah-folksong",
+  "title": "Shenandoah (American folk song)",
+  "filename": "corpus/shenandoah-folksong.md",
+  "source_url": "https://en.wikisource.org/wiki/Shenandoah",
+  "source_name": "wikisource",
+  "author": "Anonymous",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "american-folk",
+    "19th-century",
+    "sea-shanty"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

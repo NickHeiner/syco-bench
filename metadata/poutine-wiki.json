@@ -1,0 +1,31 @@
+{
+  "id": "poutine-wiki",
+  "title": "Poutine",
+  "filename": "corpus/poutine-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Poutine",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "food",
+  "tags": [
+    "canadian-cuisine",
+    "quebec",
+    "fries",
+    "gravy",
+    "fast-food"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

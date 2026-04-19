@@ -1,0 +1,30 @@
+{
+  "id": "project-plan-product-launch",
+  "title": "Project Plan — Product General Availability Launch",
+  "filename": "corpus/project-plan-product-launch.md",
+  "author": "syco-bench synthetic",
+  "content_type": "project-plan",
+  "domain": "business",
+  "tags": [
+    "project-plan",
+    "product-launch",
+    "cross-functional",
+    "saas"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Multi-phase GA launch plan. Fictional product (Kestrel / Vantage Platform).",
+  "fetched_at": "2026-04-18"
+}

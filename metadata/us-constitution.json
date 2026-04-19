@@ -1,0 +1,30 @@
+{
+  "id": "us-constitution",
+  "title": "Constitution of the United States (1787)",
+  "filename": "corpus/us-constitution.md",
+  "source_url": "https://en.wikisource.org/wiki/Constitution_of_the_United_States_of_America",
+  "source_name": "wikisource",
+  "author": "Constitutional Convention",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "founding-documents",
+    "18th-century",
+    "constitutional-law"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

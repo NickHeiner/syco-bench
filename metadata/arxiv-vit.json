@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-vit",
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (ViT)",
+  "filename": "corpus/arxiv-vit.md",
+  "source_url": "https://arxiv.org/abs/2010.11929",
+  "source_name": "arxiv",
+  "author": "Dosovitskiy et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "vision-transformer",
+    "computer-vision",
+    "transformer",
+    "image-recognition"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

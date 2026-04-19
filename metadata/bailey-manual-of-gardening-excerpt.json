@@ -1,0 +1,32 @@
+{
+  "id": "bailey-manual-of-gardening-excerpt",
+  "title": "Manual of Gardening (Excerpt)",
+  "filename": "corpus/bailey-manual-of-gardening-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/9550/pg9550.txt",
+  "source_name": "project-gutenberg",
+  "author": "L. H. Bailey",
+  "content_type": "instruction-manual",
+  "domain": "agriculture",
+  "tags": [
+    "gardening",
+    "horticulture",
+    "historical",
+    "manual"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "1910 Second Edition; excerpt of opening chapters",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "apple-privacy-policy",
+  "title": "Apple Privacy Policy",
+  "filename": "corpus/apple-privacy-policy.md",
+  "source_url": "https://www.apple.com/legal/privacy/en-ww/",
+  "source_name": "apple",
+  "content_type": "privacy-policy",
+  "domain": "business",
+  "tags": [
+    "privacy",
+    "apple",
+    "big-tech",
+    "data-protection"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Apple privacy policy",
+  "fetched_at": "2026-04-18"
+}

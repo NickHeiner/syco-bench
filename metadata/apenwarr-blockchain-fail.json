@@ -1,0 +1,31 @@
+{
+  "id": "apenwarr-blockchain-fail",
+  "title": "10 years of... whatever this has been",
+  "filename": "corpus/apenwarr-blockchain-fail.md",
+  "source_url": "https://apenwarr.ca/log/20211129",
+  "source_name": "apenwarr.ca",
+  "author": "Avery Pennarun",
+  "content_type": "blog-post",
+  "domain": "technology",
+  "tags": [
+    "bitcoin",
+    "blockchain",
+    "critique",
+    "reflection"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "sardonic",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

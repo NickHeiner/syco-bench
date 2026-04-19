@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-large-scale-structure-review",
+  "title": "Large-Scale Structure of the Universe and Cosmological Perturbation Theory",
+  "filename": "corpus/arxiv-large-scale-structure-review.md",
+  "source_name": "arxiv",
+  "author": "Bernardeau, Colombi, Gaztanaga, Scoccimarro",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "cosmology",
+    "perturbation-theory",
+    "large-scale-structure",
+    "astrophysics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

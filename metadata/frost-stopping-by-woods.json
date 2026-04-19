@@ -1,0 +1,30 @@
+{
+  "id": "frost-stopping-by-woods",
+  "title": "Stopping by Woods on a Snowy Evening",
+  "filename": "corpus/frost-stopping-by-woods.md",
+  "source_url": "https://en.wikisource.org/wiki/Stopping_by_Woods_on_a_Snowy_Evening",
+  "source_name": "wikisource",
+  "author": "Robert Frost",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "modernist",
+    "winter"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

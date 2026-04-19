@@ -1,0 +1,32 @@
+{
+  "id": "federalist-51",
+  "title": "Federalist No. 51 — Structure of the Government",
+  "filename": "corpus/federalist-51.md",
+  "source_name": "project-gutenberg",
+  "author": "James Madison",
+  "content_type": "historical-document",
+  "domain": "politics",
+  "tags": [
+    "federalist-papers",
+    "founding-era",
+    "james-madison",
+    "separation-of-powers",
+    "checks-and-balances"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "1788 essay on separation of powers; Gutenberg edition",
+  "fetched_at": "2026-04-18"
+}

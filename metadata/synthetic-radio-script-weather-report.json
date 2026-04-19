@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-radio-script-weather-report",
+  "title": "Synthetic Radio Script — Morning Weather Report",
+  "filename": "corpus/synthetic-radio-script-weather-report.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "radio-script",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "radio",
+    "broadcasting",
+    "weather"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "dialogue",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic example. Station and names fictional.",
+  "fetched_at": "2026-04-18"
+}

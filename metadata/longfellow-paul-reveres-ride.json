@@ -1,0 +1,31 @@
+{
+  "id": "longfellow-paul-reveres-ride",
+  "title": "Paul Revere's Ride",
+  "filename": "corpus/longfellow-paul-reveres-ride.md",
+  "source_url": "https://en.wikisource.org/wiki/Paul_Revere%27s_Ride",
+  "source_name": "wikisource",
+  "author": "Henry Wadsworth Longfellow",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "19th-century",
+    "history",
+    "narrative-verse"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

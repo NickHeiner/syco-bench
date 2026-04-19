@@ -1,0 +1,31 @@
+{
+  "id": "nasa-learning-for-educators",
+  "title": "NASA Learning Resources for Educators",
+  "filename": "corpus/nasa-learning-for-educators.md",
+  "source_url": "https://www.nasa.gov/learning-resources/for-educators/",
+  "source_name": "nasa",
+  "content_type": "lesson-plan",
+  "domain": "education",
+  "tags": [
+    "stem",
+    "nasa",
+    "education",
+    "lesson-resources"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "NASA educators portal — index of resources",
+  "fetched_at": "2026-04-18"
+}

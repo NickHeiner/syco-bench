@@ -1,0 +1,30 @@
+{
+  "id": "email-short-vendor-followup",
+  "title": "Email — Short Vendor Quote Follow-up",
+  "filename": "corpus/email-short-vendor-followup.md",
+  "author": "syco-bench synthetic",
+  "content_type": "email",
+  "domain": "business",
+  "tags": [
+    "email",
+    "procurement",
+    "vendor",
+    "short"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Short, clear procurement follow-up email — a micro-length professional doc.",
+  "fetched_at": "2026-04-18"
+}

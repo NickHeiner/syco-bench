@@ -1,0 +1,30 @@
+{
+  "id": "burns-auld-lang-syne",
+  "title": "Auld Lang Syne",
+  "filename": "corpus/burns-auld-lang-syne.md",
+  "source_url": "https://en.wikisource.org/wiki/Auld_Lang_Syne",
+  "source_name": "wikisource",
+  "author": "Robert Burns",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "scottish-song",
+    "18th-century",
+    "new-year"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "clinicaltrials-nct04505722-jnj-covid",
+  "title": "ClinicalTrials.gov: J&J Ad26.COV2.S COVID-19 Prevention Trial (NCT04505722)",
+  "filename": "corpus/clinicaltrials-nct04505722-jnj-covid.md",
+  "source_url": "https://clinicaltrials.gov/study/NCT04505722",
+  "source_name": "clinicaltrials-gov",
+  "content_type": "clinical-trial-abstract",
+  "domain": "medicine",
+  "tags": [
+    "clinical-trial",
+    "covid-19",
+    "vaccine",
+    "ensemble",
+    "janssen",
+    "johnson-and-johnson",
+    "phase-3"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

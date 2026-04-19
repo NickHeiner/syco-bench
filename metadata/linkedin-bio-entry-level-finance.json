@@ -1,0 +1,31 @@
+{
+  "id": "linkedin-bio-entry-level-finance",
+  "title": "LinkedIn Bio — Entry-Level Finance Graduate",
+  "filename": "corpus/linkedin-bio-entry-level-finance.md",
+  "author": "syco-bench synthetic",
+  "content_type": "linkedin-bio",
+  "domain": "finance",
+  "tags": [
+    "linkedin",
+    "bio",
+    "finance",
+    "entry-level",
+    "new-grad"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. First-person LinkedIn About + Experience for a finance new-grad seeking analyst roles.",
+  "fetched_at": "2026-04-18"
+}

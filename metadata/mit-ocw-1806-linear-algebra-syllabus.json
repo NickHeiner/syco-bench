@@ -1,0 +1,31 @@
+{
+  "id": "mit-ocw-1806-linear-algebra-syllabus",
+  "title": "MIT 18.06SC Linear Algebra Syllabus",
+  "filename": "corpus/mit-ocw-1806-linear-algebra-syllabus.md",
+  "source_url": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/syllabus/",
+  "source_name": "mit-ocw",
+  "content_type": "course-syllabus",
+  "domain": "mathematics",
+  "tags": [
+    "linear-algebra",
+    "mathematics",
+    "mit",
+    "syllabus"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "MIT OpenCourseWare source is CC-BY-NC-SA (not in allowed enum); recorded as fair-use-excerpt.",
+  "fetched_at": "2026-04-18"
+}

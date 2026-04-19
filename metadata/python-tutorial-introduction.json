@@ -1,0 +1,31 @@
+{
+  "id": "python-tutorial-introduction",
+  "title": "Python Tutorial: An Informal Introduction to Python",
+  "filename": "corpus/python-tutorial-introduction.md",
+  "source_url": "https://docs.python.org/3/tutorial/introduction.html",
+  "source_name": "python-docs",
+  "content_type": "tutorial",
+  "domain": "technology",
+  "tags": [
+    "python",
+    "programming",
+    "tutorial",
+    "beginners"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "Python Software Foundation tutorial",
+  "fetched_at": "2026-04-18"
+}

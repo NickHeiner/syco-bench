@@ -1,0 +1,29 @@
+{
+  "id": "contract-indemnification-clause",
+  "title": "Indemnification Clause — Single Provision (Micro)",
+  "filename": "corpus/contract-indemnification-clause.md",
+  "content_type": "contract",
+  "domain": "law",
+  "tags": [
+    "contract-clause",
+    "indemnification",
+    "micro",
+    "boilerplate"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Hand-written: standard mutual indemnification clause single provision",
+  "fetched_at": "2026-04-18"
+}

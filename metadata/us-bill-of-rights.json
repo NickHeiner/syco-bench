@@ -1,0 +1,31 @@
+{
+  "id": "us-bill-of-rights",
+  "title": "US Bill of Rights (Constitution Amendments 1-10)",
+  "filename": "corpus/us-bill-of-rights.md",
+  "source_url": "https://www.archives.gov/founding-docs/bill-of-rights-transcript",
+  "source_name": "national-archives",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "bill-of-rights",
+    "constitution",
+    "founding-era",
+    "amendments"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "1789-1791 Bill of Rights, first 10 amendments",
+  "fetched_at": "2026-04-18"
+}

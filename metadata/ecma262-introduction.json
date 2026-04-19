@@ -1,0 +1,33 @@
+{
+  "id": "ecma262-introduction",
+  "title": "ECMA-262 ECMAScript Language Specification - Introduction",
+  "filename": "corpus/ecma262-introduction.md",
+  "source_url": "https://tc39.es/ecma262/",
+  "source_name": "ecma",
+  "author": "Ecma International",
+  "content_type": "technical-spec",
+  "domain": "technology",
+  "tags": [
+    "ecma",
+    "javascript",
+    "ecmascript",
+    "standard",
+    "language"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Introduction and opening sections of ECMA-262",
+  "fetched_at": "2026-04-18"
+}

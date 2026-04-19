@@ -1,0 +1,33 @@
+{
+  "id": "macbeth-act5-scene5",
+  "title": "Macbeth, Act V, Scene V (Tomorrow and Tomorrow)",
+  "filename": "corpus/macbeth-act5-scene5.md",
+  "source_url": "https://www.gutenberg.org/files/1533/1533-0.txt",
+  "source_name": "project-gutenberg",
+  "author": "William Shakespeare",
+  "content_type": "stage-play",
+  "domain": "literature",
+  "tags": [
+    "shakespeare",
+    "tragedy",
+    "soliloquy",
+    "elizabethan",
+    "macbeth"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act V Scene V — 'Tomorrow and tomorrow' soliloquy",
+  "fetched_at": "2026-04-18"
+}

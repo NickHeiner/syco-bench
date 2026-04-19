@@ -1,0 +1,32 @@
+{
+  "id": "propublica-colorado-hemp-crackdown",
+  "title": "ProPublica: Colorado Marijuana Regulators Pledge Crackdown on Intoxicating Hemp",
+  "filename": "corpus/propublica-colorado-hemp-crackdown.md",
+  "source_url": "https://www.propublica.org/article/colorado-marijuana-regulators-crackdown-intoxicating-hemp",
+  "source_name": "propublica",
+  "content_type": "investigative-report",
+  "domain": "law",
+  "tags": [
+    "investigative",
+    "marijuana",
+    "hemp",
+    "colorado",
+    "regulation",
+    "propublica"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

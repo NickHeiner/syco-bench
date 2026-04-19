@@ -40,7 +40,7 @@ BOILERPLATE_PATTERNS = [
     r"\[edit source\]",
     r"\[edit\]",
     r"^From Wikipedia, the free encyclopedia",
-    r"^!\[Image \d+",  # Image embeds
+    r"^!\[Image \d+[^\n]{0,200}\]\([^\n]+\)\s*$",  # Image-only lines
     r"^Cookie statement$",
     r"^Privacy policy$",
     r"^Disclaimers$",
@@ -61,7 +61,7 @@ BOILERPLATE_PATTERNS = [
 BOILERPLATE_RE = re.compile("|".join(BOILERPLATE_PATTERNS), re.IGNORECASE | re.MULTILINE)
 
 
-def fetch_via_jina(url: str, timeout: int = 90, retries: int = 3) -> str:
+def fetch_via_jina(url: str, timeout: int = 90, retries: int = 6) -> str:
     """Fetch a URL via Jina and return the markdown body (boilerplate stripped)."""
     full = JINA_PREFIX + url
     last_err: Exception | None = None
@@ -74,10 +74,21 @@ def fetch_via_jina(url: str, timeout: int = 90, retries: int = 3) -> str:
                          "X-Return-Format": "markdown"},
             )
             r.raise_for_status()
-            return clean_jina_body(r.text)
+            text = r.text
+            # Jina sometimes returns 200 OK with a JSON error body (rate limit).
+            stripped = text.lstrip()
+            if stripped.startswith("{") and '"code":429' in stripped[:300]:
+                last_err = RuntimeError("Jina rate limited (429 in body)")
+                time.sleep(min(60, 5 * (attempt + 1)))
+                continue
+            if "RateLimitTriggeredError" in stripped[:500]:
+                last_err = RuntimeError("Jina rate limited")
+                time.sleep(min(60, 5 * (attempt + 1)))
+                continue
+            return clean_jina_body(text)
         except Exception as e:
             last_err = e
-            time.sleep(2 ** attempt)
+            time.sleep(min(30, 2 ** attempt))
     raise RuntimeError(f"Jina fetch failed for {url}: {last_err}")
 
 

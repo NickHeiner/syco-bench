@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-kingma-vae",
+  "title": "Auto-Encoding Variational Bayes (Kingma, Welling)",
+  "filename": "corpus/arxiv-kingma-vae.md",
+  "source_url": "https://arxiv.org/abs/1312.6114",
+  "source_name": "arxiv",
+  "author": "Diederik P. Kingma, Max Welling",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "variational-autoencoder",
+    "generative-models",
+    "deep-learning",
+    "bayesian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

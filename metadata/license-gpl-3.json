@@ -1,0 +1,32 @@
+{
+  "id": "license-gpl-3",
+  "title": "GNU General Public License v3.0",
+  "filename": "corpus/license-gpl-3.md",
+  "source_url": "https://www.gnu.org/licenses/gpl-3.0.txt",
+  "source_name": "gnu-org",
+  "author": "Free Software Foundation",
+  "content_type": "eula",
+  "domain": "law",
+  "tags": [
+    "open-source-license",
+    "gpl",
+    "copyleft",
+    "free-software"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "GPL v3 copyleft license full text",
+  "fetched_at": "2026-04-18"
+}

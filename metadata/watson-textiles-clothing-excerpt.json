@@ -1,0 +1,33 @@
+{
+  "id": "watson-textiles-clothing-excerpt",
+  "title": "Textiles and Clothing (Excerpt)",
+  "filename": "corpus/watson-textiles-clothing-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/21534/pg21534.txt",
+  "source_name": "project-gutenberg",
+  "author": "Kate Heintz Watson",
+  "content_type": "instruction-manual",
+  "domain": "fashion",
+  "tags": [
+    "textiles",
+    "sewing",
+    "clothing",
+    "historical",
+    "manual"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "students",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "1907 home-economics textbook; excerpt of sections on clothing",
+  "fetched_at": "2026-04-18"
+}

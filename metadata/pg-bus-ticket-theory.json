@@ -1,0 +1,31 @@
+{
+  "id": "pg-bus-ticket-theory",
+  "title": "The Bus Ticket Theory of Genius",
+  "filename": "corpus/pg-bus-ticket-theory.md",
+  "source_url": "https://paulgraham.com/genius.html",
+  "source_name": "paulgraham.com",
+  "author": "Paul Graham",
+  "content_type": "essay",
+  "domain": "philosophy",
+  "tags": [
+    "essay",
+    "genius",
+    "obsession",
+    "psychology"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

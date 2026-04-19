@@ -1,0 +1,33 @@
+{
+  "id": "rfc-8259-json",
+  "title": "RFC 8259 - The JavaScript Object Notation (JSON) Data Interchange Format",
+  "filename": "corpus/rfc-8259-json.md",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc8259",
+  "source_name": "ietf",
+  "author": "T. Bray",
+  "content_type": "rfc",
+  "domain": "technology",
+  "tags": [
+    "rfc",
+    "standards",
+    "json",
+    "data-format",
+    "web"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Short concise RFC",
+  "fetched_at": "2026-04-18"
+}

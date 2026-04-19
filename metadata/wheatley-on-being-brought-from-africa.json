@@ -1,0 +1,30 @@
+{
+  "id": "wheatley-on-being-brought-from-africa",
+  "title": "On Being Brought from Africa to America",
+  "filename": "corpus/wheatley-on-being-brought-from-africa.md",
+  "source_url": "https://en.wikisource.org/wiki/Poems_on_Various_Subjects,_Religious_and_Moral/On_Being_Brought_from_Africa_to_America",
+  "source_name": "wikisource",
+  "author": "Phillis Wheatley",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "18th-century",
+    "religion"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

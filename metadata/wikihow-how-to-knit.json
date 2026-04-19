@@ -1,0 +1,30 @@
+{
+  "id": "wikihow-how-to-knit",
+  "title": "How to Knit",
+  "filename": "corpus/wikihow-how-to-knit.md",
+  "source_url": "https://www.wikihow.com/Knit",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "personal-life",
+  "tags": [
+    "knitting",
+    "crafts",
+    "hobby"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA as fair-use",
+  "fetched_at": "2026-04-18"
+}

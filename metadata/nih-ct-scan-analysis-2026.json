@@ -1,0 +1,32 @@
+{
+  "id": "nih-ct-scan-analysis-2026",
+  "title": "NIH: Automated CT scan analysis could fast-track clinical assessments",
+  "filename": "corpus/nih-ct-scan-analysis-2026.md",
+  "source_url": "https://www.nih.gov/news-events/news-releases/automated-ct-scan-analysis-could-fast-track-clinical-assessments",
+  "source_name": "nih",
+  "content_type": "press-release",
+  "domain": "medicine",
+  "tags": [
+    "medicine",
+    "ai",
+    "imaging",
+    "nih",
+    "press-release",
+    "ct-scan"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

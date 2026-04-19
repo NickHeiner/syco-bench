@@ -1,0 +1,29 @@
+{
+  "id": "arxiv-quantum-logic-qc",
+  "title": "Quantum logic as motivated by quantum computing (Dunn et al.)",
+  "filename": "corpus/arxiv-quantum-logic-qc.md",
+  "source_name": "arxiv",
+  "author": "Dunn, Hagge, Moss, Wang",
+  "content_type": "arxiv-abstract",
+  "domain": "mathematics",
+  "tags": [
+    "logic",
+    "quantum-computing",
+    "mathematical-logic"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

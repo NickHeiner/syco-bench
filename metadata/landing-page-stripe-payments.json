@@ -1,0 +1,33 @@
+{
+  "id": "landing-page-stripe-payments",
+  "title": "Landing Page Copy — Stripe Payments",
+  "filename": "corpus/landing-page-stripe-payments.md",
+  "source_url": "https://stripe.com/payments",
+  "source_name": "stripe",
+  "author": "Stripe, Inc.",
+  "content_type": "landing-page-copy",
+  "domain": "business",
+  "tags": [
+    "landing-page",
+    "fintech",
+    "saas",
+    "payments",
+    "product-marketing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "persuasive",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "notes": "Fetched from stripe.com/payments — actual landing-page copy. Fair-use excerpt.",
+  "fetched_at": "2026-04-18"
+}

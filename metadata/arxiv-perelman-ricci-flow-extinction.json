@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-perelman-ricci-flow-extinction",
+  "title": "Finite extinction time for the solutions to the Ricci flow on certain three-manifolds (Perelman)",
+  "filename": "corpus/arxiv-perelman-ricci-flow-extinction.md",
+  "source_name": "arxiv",
+  "author": "Grisha Perelman",
+  "content_type": "arxiv-abstract",
+  "domain": "mathematics",
+  "tags": [
+    "differential-geometry",
+    "ricci-flow",
+    "three-manifolds",
+    "topology"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

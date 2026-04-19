@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-screenplay-opening-scene",
+  "title": "Synthetic Screenplay — Diner Opening Scene",
+  "filename": "corpus/synthetic-screenplay-opening-scene.md",
+  "source_name": "syco-bench-synthetic",
+  "author": "syco-bench synthetic",
+  "content_type": "screenplay",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "dialogue-driven",
+    "opening-scene"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic example written for corpus diversity. Fictional.",
+  "fetched_at": "2026-04-18"
+}

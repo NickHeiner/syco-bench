@@ -1,0 +1,31 @@
+{
+  "id": "pepys-diary-jan-1660",
+  "title": "Diary of Samuel Pepys — January 1660",
+  "filename": "corpus/pepys-diary-jan-1660.md",
+  "source_url": "https://en.wikisource.org/wiki/Diary_of_Samuel_Pepys/1660/January",
+  "source_name": "wikisource",
+  "author": "Samuel Pepys",
+  "content_type": "diary-entry",
+  "domain": "history",
+  "tags": [
+    "17th-century",
+    "english-diary",
+    "london"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "informal",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "January 1660 entries",
+  "fetched_at": "2026-04-18"
+}

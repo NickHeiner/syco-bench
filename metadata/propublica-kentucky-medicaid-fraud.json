@@ -1,0 +1,32 @@
+{
+  "id": "propublica-kentucky-medicaid-fraud",
+  "title": "ProPublica: They Needed Treatment for Drug Addiction. The Company They Turned to May Have Used Them to Commit Fraud.",
+  "filename": "corpus/propublica-kentucky-medicaid-fraud.md",
+  "source_url": "https://www.propublica.org/article/kentucky-addiction-recovery-care-medicaid-fraud",
+  "source_name": "propublica",
+  "content_type": "investigative-report",
+  "domain": "health",
+  "tags": [
+    "investigative",
+    "medicaid",
+    "fraud",
+    "kentucky",
+    "addiction",
+    "propublica"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

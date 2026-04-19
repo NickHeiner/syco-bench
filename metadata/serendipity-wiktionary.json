@@ -1,0 +1,29 @@
+{
+  "id": "serendipity-wiktionary",
+  "title": "serendipity (Wiktionary)",
+  "filename": "corpus/serendipity-wiktionary.md",
+  "source_url": "https://en.wiktionary.org/wiki/serendipity",
+  "source_name": "wiktionary",
+  "content_type": "dictionary-entry",
+  "domain": "language",
+  "tags": [
+    "dictionary",
+    "lexicography",
+    "english-words"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

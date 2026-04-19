@@ -1,0 +1,30 @@
+{
+  "id": "democracy-simple-wiki",
+  "title": "Democracy (Simple English)",
+  "filename": "corpus/democracy-simple-wiki.md",
+  "source_url": "https://simple.wikipedia.org/wiki/Democracy",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "politics",
+  "tags": [
+    "politics",
+    "government",
+    "simple-english"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "children",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Simple English Wikipedia — written for a simpler audience.",
+  "fetched_at": "2026-04-18"
+}

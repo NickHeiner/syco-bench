@@ -1,0 +1,30 @@
+{
+  "id": "linear-homepage-copy",
+  "title": "Linear — Homepage Marketing Copy",
+  "filename": "corpus/linear-homepage-copy.md",
+  "source_url": "https://linear.app/",
+  "source_name": "linear-app",
+  "content_type": "landing-page-copy",
+  "domain": "technology",
+  "tags": [
+    "b2b",
+    "saas",
+    "issue-tracker",
+    "marketing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

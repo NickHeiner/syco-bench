@@ -1,0 +1,32 @@
+{
+  "id": "python-asyncio-docs",
+  "title": "Python asyncio Library Documentation",
+  "filename": "corpus/python-asyncio-docs.md",
+  "source_url": "https://docs.python.org/3/library/asyncio.html",
+  "source_name": "python-docs",
+  "author": "Python Software Foundation",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "python",
+    "asyncio",
+    "async",
+    "concurrency",
+    "documentation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

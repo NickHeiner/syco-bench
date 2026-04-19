@@ -1,0 +1,32 @@
+{
+  "id": "bbc-kyiv-gunman-attack",
+  "title": "BBC: At least six killed in Kyiv as gunman opens fire and takes hostages",
+  "filename": "corpus/bbc-kyiv-gunman-attack.md",
+  "source_url": "https://www.bbc.com/news/articles/cm25r1vkx4lo",
+  "source_name": "bbc",
+  "content_type": "news-article",
+  "domain": "crime",
+  "tags": [
+    "crime",
+    "ukraine",
+    "kyiv",
+    "shooting",
+    "bbc",
+    "breaking-news"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

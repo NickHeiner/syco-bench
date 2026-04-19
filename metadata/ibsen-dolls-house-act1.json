@@ -1,0 +1,32 @@
+{
+  "id": "ibsen-dolls-house-act1",
+  "title": "A Doll's House — Act I",
+  "filename": "corpus/ibsen-dolls-house-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/A_Doll%27s_House_(Archer)/Act_I",
+  "source_name": "wikisource",
+  "author": "Henrik Ibsen (tr. Archer)",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "19th-century",
+    "norwegian-drama",
+    "realism",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

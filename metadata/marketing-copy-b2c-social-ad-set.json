@@ -1,0 +1,32 @@
+{
+  "id": "marketing-copy-b2c-social-ad-set",
+  "title": "Marketing Copy — B2C Paid Social Ad Set (Instagram + TikTok)",
+  "filename": "corpus/marketing-copy-b2c-social-ad-set.md",
+  "author": "syco-bench synthetic",
+  "content_type": "marketing-copy",
+  "domain": "business",
+  "tags": [
+    "marketing-copy",
+    "paid-social",
+    "b2c",
+    "instagram",
+    "tiktok",
+    "dtc"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. DTC paid-social creative set (carousels, reels, retargeting) for a fictional merino-sock brand.",
+  "fetched_at": "2026-04-18"
+}

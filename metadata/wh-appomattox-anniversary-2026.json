@@ -1,0 +1,31 @@
+{
+  "id": "wh-appomattox-anniversary-2026",
+  "title": "White House: America 250 Presidential Message on the Anniversary of the Surrender at Appomattox",
+  "filename": "corpus/wh-appomattox-anniversary-2026.md",
+  "source_url": "https://www.whitehouse.gov/briefings-statements/2026/04/america-250-presidential-message-on-the-anniversary-of-the-surrender-at-appomattox/",
+  "source_name": "whitehouse-gov",
+  "content_type": "press-release",
+  "domain": "politics",
+  "tags": [
+    "politics",
+    "whitehouse",
+    "appomattox",
+    "civil-war",
+    "presidential-message"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

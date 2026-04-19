@@ -1,0 +1,31 @@
+{
+  "id": "apple-10k-2024-mdna",
+  "title": "Apple Inc. 10-K FY2024 — Item 7. MD&A",
+  "filename": "corpus/apple-10k-2024-mdna.md",
+  "source_name": "sec-edgar",
+  "content_type": "10k-filing",
+  "domain": "business",
+  "tags": [
+    "apple",
+    "10-k",
+    "mdna",
+    "financial-analysis",
+    "technology-company"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Excerpted Item 7 MD&A from Apple FY2024 10-K",
+  "fetched_at": "2026-04-18"
+}

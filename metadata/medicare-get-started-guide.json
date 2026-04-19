@@ -1,0 +1,31 @@
+{
+  "id": "medicare-get-started-guide",
+  "title": "Get Started with Medicare",
+  "filename": "corpus/medicare-get-started-guide.md",
+  "source_url": "https://www.medicare.gov/basics/get-started-with-medicare",
+  "source_name": "medicare-gov",
+  "content_type": "how-to-guide",
+  "domain": "health",
+  "tags": [
+    "medicare",
+    "health-insurance",
+    "seniors",
+    "guide"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "Medicare.gov gettingstarted guide",
+  "fetched_at": "2026-04-18"
+}

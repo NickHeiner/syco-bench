@@ -1,0 +1,31 @@
+{
+  "id": "tesla-10k-2024-business",
+  "title": "Tesla Inc. 10-K FY2024 — Item 1. Business",
+  "filename": "corpus/tesla-10k-2024-business.md",
+  "source_name": "sec-edgar",
+  "content_type": "10k-filing",
+  "domain": "business",
+  "tags": [
+    "tesla",
+    "10-k",
+    "item-1-business",
+    "ev",
+    "automotive"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Item 1 Business excerpt from Tesla 10-K FY2024",
+  "fetched_at": "2026-04-18"
+}

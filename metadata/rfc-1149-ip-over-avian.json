@@ -1,0 +1,33 @@
+{
+  "id": "rfc-1149-ip-over-avian",
+  "title": "RFC 1149 - A Standard for the Transmission of IP Datagrams on Avian Carriers",
+  "filename": "corpus/rfc-1149-ip-over-avian.md",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc1149",
+  "source_name": "ietf",
+  "author": "D. Waitzman",
+  "content_type": "rfc",
+  "domain": "technology",
+  "tags": [
+    "rfc",
+    "standards",
+    "ip",
+    "humor",
+    "april-fools"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "satirical",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "entertain",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Classic April Fools RFC",
+  "fetched_at": "2026-04-18"
+}

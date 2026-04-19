@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-birth-announcement",
+  "title": "Synthetic Birth Announcement — Arlo Park-Nguyen",
+  "filename": "corpus/synthetic-birth-announcement.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "birth-announcement",
+  "domain": "personal-life",
+  "tags": [
+    "synthetic",
+    "birth",
+    "announcement"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Names and hospital fictional.",
+  "fetched_at": "2026-04-18"
+}

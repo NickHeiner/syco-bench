@@ -1,0 +1,31 @@
+{
+  "id": "guardian-bear-suit-insurance-scam",
+  "title": "Guardian: Three people sentenced to jail for bear-suit insurance scam in California",
+  "filename": "corpus/guardian-bear-suit-insurance-scam.md",
+  "source_url": "https://www.theguardian.com/us-news/2026/apr/18/california-bear-suit-insurance-scam",
+  "source_name": "guardian",
+  "content_type": "news-article",
+  "domain": "crime",
+  "tags": [
+    "crime",
+    "fraud",
+    "california",
+    "insurance",
+    "guardian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

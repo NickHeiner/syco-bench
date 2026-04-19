@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-bodin-milnor-polynomials",
+  "title": "Invariance of Milnor numbers and topology of complex polynomials (Bodin)",
+  "filename": "corpus/arxiv-bodin-milnor-polynomials.md",
+  "source_name": "arxiv",
+  "author": "Arnaud Bodin",
+  "content_type": "arxiv-abstract",
+  "domain": "mathematics",
+  "tags": [
+    "algebraic-geometry",
+    "singularity-theory",
+    "milnor-number",
+    "complex-polynomials"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

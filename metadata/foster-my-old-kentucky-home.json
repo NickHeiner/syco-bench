@@ -1,0 +1,30 @@
+{
+  "id": "foster-my-old-kentucky-home",
+  "title": "My Old Kentucky Home",
+  "filename": "corpus/foster-my-old-kentucky-home.md",
+  "source_url": "https://en.wikisource.org/wiki/My_Old_Kentucky_Home",
+  "source_name": "wikisource",
+  "author": "Stephen Foster",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "american-folk",
+    "19th-century",
+    "kentucky"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

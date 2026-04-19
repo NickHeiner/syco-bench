@@ -1,0 +1,31 @@
+{
+  "id": "laozi-tao-te-ching-book-1-legge",
+  "title": "Tao Te Ching — Book 1 (Legge translation)",
+  "filename": "corpus/laozi-tao-te-ching-book-1-legge.md",
+  "source_url": "https://en.wikisource.org/wiki/Tao_Te_Ching_(Legge)/Book_1",
+  "source_name": "wikisource",
+  "author": "Laozi (attrib.)",
+  "content_type": "religious-text-excerpt",
+  "domain": "religion",
+  "tags": [
+    "taoism",
+    "chinese-philosophy",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Book 1 only",
+  "fetched_at": "2026-04-18"
+}

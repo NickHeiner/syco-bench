@@ -1,0 +1,33 @@
+{
+  "id": "kant-critique-pure-reason-intro",
+  "title": "Kant: Critique of Pure Reason — Introduction",
+  "filename": "corpus/kant-critique-pure-reason-intro.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/4280/pg4280.txt",
+  "source_name": "project-gutenberg",
+  "author": "Immanuel Kant",
+  "content_type": "philosophy-text",
+  "domain": "philosophy",
+  "tags": [
+    "kant",
+    "epistemology",
+    "metaphysics",
+    "german-idealism",
+    "enlightenment"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "academic",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Introduction section to be excerpted from full text",
+  "fetched_at": "2026-04-18"
+}

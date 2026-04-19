@@ -1,0 +1,31 @@
+{
+  "id": "alan-turing-wiki",
+  "title": "Alan Turing",
+  "filename": "corpus/alan-turing-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "technology",
+  "tags": [
+    "biography",
+    "computer-science",
+    "mathematics",
+    "wwii",
+    "cryptanalysis"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w3c-html4-introduction",
+  "title": "W3C HTML 4.01 - Introduction",
+  "filename": "corpus/w3c-html4-introduction.md",
+  "source_url": "https://www.w3.org/TR/html401/intro/intro.html",
+  "source_name": "w3c",
+  "author": "W3C",
+  "content_type": "technical-spec",
+  "domain": "technology",
+  "tags": [
+    "w3c",
+    "html",
+    "html4",
+    "web",
+    "standard"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "1999 spec - introduction section",
+  "fetched_at": "2026-04-18"
+}

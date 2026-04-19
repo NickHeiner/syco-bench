@@ -1,0 +1,31 @@
+{
+  "id": "gettysburg-address-lincoln",
+  "title": "Gettysburg Address",
+  "filename": "corpus/gettysburg-address-lincoln.md",
+  "source_url": "https://en.wikisource.org/wiki/Gettysburg_Address",
+  "source_name": "wikisource",
+  "author": "Abraham Lincoln",
+  "content_type": "speech",
+  "domain": "politics",
+  "tags": [
+    "civil-war",
+    "lincoln",
+    "dedication",
+    "short-speech"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

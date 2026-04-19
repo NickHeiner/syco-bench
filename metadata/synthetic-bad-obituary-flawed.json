@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-bad-obituary-flawed",
+  "title": "Synthetic Obituary — Social-Media Style (flawed)",
+  "filename": "corpus/synthetic-bad-obituary-flawed.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "obituary",
+  "domain": "personal-life",
+  "tags": [
+    "synthetic",
+    "obituary",
+    "flawed",
+    "social-media"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately informal/flawed social-media-style obituary. Synthetic.",
+  "fetched_at": "2026-04-18"
+}

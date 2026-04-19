@@ -1,0 +1,32 @@
+{
+  "id": "jepsen-postgresql-12-3",
+  "title": "Jepsen: PostgreSQL 12.3",
+  "filename": "corpus/jepsen-postgresql-12-3.md",
+  "source_url": "https://jepsen.io/analyses/postgresql-12.3",
+  "source_name": "jepsen",
+  "author": "Kyle Kingsbury",
+  "content_type": "engineering-blog-post",
+  "domain": "technology",
+  "tags": [
+    "jepsen",
+    "postgres",
+    "distributed-systems",
+    "consistency",
+    "databases"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

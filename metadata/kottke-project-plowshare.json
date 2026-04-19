@@ -1,0 +1,31 @@
+{
+  "id": "kottke-project-plowshare",
+  "title": "Project Plowshare: Nukes for Peace",
+  "filename": "corpus/kottke-project-plowshare.md",
+  "source_url": "https://kottke.org/26/04/project-plowshare-nukes-for-peace",
+  "source_name": "kottke.org",
+  "author": "Jason Kottke",
+  "content_type": "blog-post",
+  "domain": "history",
+  "tags": [
+    "history",
+    "nuclear",
+    "cold-war",
+    "engineering"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

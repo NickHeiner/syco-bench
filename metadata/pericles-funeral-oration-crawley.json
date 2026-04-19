@@ -1,0 +1,30 @@
+{
+  "id": "pericles-funeral-oration-crawley",
+  "title": "Pericles' Funeral Oration (Crawley translation)",
+  "filename": "corpus/pericles-funeral-oration-crawley.md",
+  "source_url": "https://en.wikisource.org/wiki/Pericles%27s_Funeral_Oration_(Crawley)",
+  "source_name": "wikisource",
+  "author": "Pericles (recorded by Thucydides)",
+  "content_type": "speech",
+  "domain": "history",
+  "tags": [
+    "ancient-greek",
+    "classical",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

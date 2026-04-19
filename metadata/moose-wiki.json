@@ -1,0 +1,30 @@
+{
+  "id": "moose-wiki",
+  "title": "Moose",
+  "filename": "corpus/moose-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Moose",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "nature",
+  "tags": [
+    "mammals",
+    "wildlife",
+    "cervidae",
+    "north-america"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

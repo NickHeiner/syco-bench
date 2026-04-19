@@ -1,0 +1,30 @@
+{
+  "id": "yale-plsc-114-course-overview",
+  "title": "PLSC 114 Introduction to Political Philosophy - Course Overview",
+  "filename": "corpus/yale-plsc-114-course-overview.md",
+  "source_url": "https://oyc.yale.edu/political-science/plsc-114",
+  "source_name": "yale-open",
+  "content_type": "course-syllabus",
+  "domain": "philosophy",
+  "tags": [
+    "political-philosophy",
+    "yale",
+    "syllabus"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "academic",
+  "register": "literary",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Open Yale Courses source is CC-BY-NC-SA (not in allowed enum); recorded as fair-use-excerpt.",
+  "fetched_at": "2026-04-18"
+}

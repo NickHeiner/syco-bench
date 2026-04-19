@@ -1,0 +1,33 @@
+{
+  "id": "patent-edison-light-bulb-1880",
+  "title": "US Patent 223,898 — Edison Electric Lamp (1880)",
+  "filename": "corpus/patent-edison-light-bulb-1880.md",
+  "source_url": "https://patents.google.com/patent/US223898",
+  "source_name": "google-patents",
+  "author": "Thomas Edison",
+  "content_type": "patent",
+  "domain": "technology",
+  "tags": [
+    "patent",
+    "edison",
+    "light-bulb",
+    "historical",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "1880 Edison electric lamp patent",
+  "fetched_at": "2026-04-18"
+}

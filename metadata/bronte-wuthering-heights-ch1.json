@@ -1,0 +1,31 @@
+{
+  "id": "bronte-wuthering-heights-ch1",
+  "title": "Wuthering Heights — Chapter 1",
+  "filename": "corpus/bronte-wuthering-heights-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/Wuthering_Heights/Chapter_I",
+  "source_name": "wikisource",
+  "author": "Emily Brontë",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "english-novel",
+    "19th-century",
+    "gothic"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1",
+  "fetched_at": "2026-04-18"
+}

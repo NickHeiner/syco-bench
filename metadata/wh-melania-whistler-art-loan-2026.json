@@ -1,0 +1,31 @@
+{
+  "id": "wh-melania-whistler-art-loan-2026",
+  "title": "White House: First Lady Authorizes Landmark Art Loan to Spotlight James McNeill Whistler",
+  "filename": "corpus/wh-melania-whistler-art-loan-2026.md",
+  "source_url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-authorizes-landmark-art-loan-to-spotlight-american-master-james-mcneill-whistler/",
+  "source_name": "whitehouse-gov",
+  "content_type": "press-release",
+  "domain": "arts",
+  "tags": [
+    "arts",
+    "whitehouse",
+    "whistler",
+    "first-lady",
+    "press-release"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ibsen-peer-gynt-act1",
+  "title": "Peer Gynt — Act I (Archer translation)",
+  "filename": "corpus/ibsen-peer-gynt-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/Peer_Gynt_(Archer)/Act_I",
+  "source_name": "wikisource",
+  "author": "Henrik Ibsen",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "19th-century",
+    "norwegian-drama",
+    "translation",
+    "verse-play"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

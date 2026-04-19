@@ -1,0 +1,32 @@
+{
+  "id": "slowboring-ai-marketing",
+  "title": "It's not bad marketing from AI companies",
+  "filename": "corpus/slowboring-ai-marketing.md",
+  "source_url": "https://www.slowboring.com/p/its-not-bad-marketing-from-ai-companies",
+  "source_name": "substack",
+  "author": "Matthew Yglesias",
+  "content_type": "substack-article",
+  "domain": "technology",
+  "tags": [
+    "ai",
+    "marketing",
+    "politics",
+    "technology",
+    "slowboring"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

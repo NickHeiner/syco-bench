@@ -1,0 +1,31 @@
+{
+  "id": "github-rest-getting-started",
+  "title": "Getting Started with GitHub REST API",
+  "filename": "corpus/github-rest-getting-started.md",
+  "source_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api",
+  "source_name": "github-docs",
+  "author": "GitHub",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "github",
+    "rest-api",
+    "developers",
+    "tutorial"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

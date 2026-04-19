@@ -1,0 +1,30 @@
+{
+  "id": "guardian-graham-norton-interview",
+  "title": "Guardian: Graham Norton interview on monologues and terrible jokes",
+  "filename": "corpus/guardian-graham-norton-interview.md",
+  "source_url": "https://www.theguardian.com/lifeandstyle/2026/apr/18/graham-norton-interview-monologues-terrible-jokes",
+  "source_name": "guardian",
+  "content_type": "interview-transcript",
+  "domain": "entertainment",
+  "tags": [
+    "interview",
+    "entertainment",
+    "graham-norton",
+    "guardian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "multiple",
+  "structure": "qa",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

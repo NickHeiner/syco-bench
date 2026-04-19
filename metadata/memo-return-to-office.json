@@ -1,0 +1,31 @@
+{
+  "id": "memo-return-to-office",
+  "title": "Internal Memo — Return-to-Office Policy Update",
+  "filename": "corpus/memo-return-to-office.md",
+  "author": "syco-bench synthetic",
+  "content_type": "memo",
+  "domain": "business",
+  "tags": [
+    "memo",
+    "rto",
+    "hr",
+    "policy",
+    "internal"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. HR memo explaining a hybrid-work policy change. Fictional company (Keatsview).",
+  "fetched_at": "2026-04-18"
+}

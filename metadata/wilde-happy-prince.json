@@ -1,0 +1,30 @@
+{
+  "id": "wilde-happy-prince",
+  "title": "The Happy Prince (Wilde)",
+  "filename": "corpus/wilde-happy-prince.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Happy_Prince",
+  "source_name": "wikisource",
+  "author": "Oscar Wilde",
+  "content_type": "children-story",
+  "domain": "literature",
+  "tags": [
+    "fairy-tale",
+    "victorian",
+    "wilde"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "children",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

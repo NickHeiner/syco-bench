@@ -1,0 +1,31 @@
+{
+  "id": "baum-mother-goose-in-prose",
+  "title": "Mother Goose in Prose — excerpt (Baum)",
+  "filename": "corpus/baum-mother-goose-in-prose.md",
+  "source_url": "https://en.wikisource.org/wiki/Mother_Goose_in_Prose",
+  "source_name": "wikisource",
+  "author": "L. Frank Baum",
+  "content_type": "children-story",
+  "domain": "literature",
+  "tags": [
+    "children-literature",
+    "nursery-rhyme-adaptation",
+    "early-20th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "children",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Selected tales",
+  "fetched_at": "2026-04-18"
+}

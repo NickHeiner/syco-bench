@@ -1,0 +1,30 @@
+{
+  "id": "sermon-on-the-mount-kjv",
+  "title": "Sermon on the Mount (Matthew 5-7, KJV)",
+  "filename": "corpus/sermon-on-the-mount-kjv.md",
+  "source_url": "https://en.wikisource.org/wiki/Sermon_on_the_Mount",
+  "source_name": "wikisource",
+  "author": "Attributed to Jesus Christ",
+  "content_type": "sermon",
+  "domain": "religion",
+  "tags": [
+    "new-testament",
+    "christianity",
+    "kjv"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-dark-matter-halos-warren",
+  "title": "Precision Determination of the Mass Function of Dark Matter Halos",
+  "filename": "corpus/arxiv-dark-matter-halos-warren.md",
+  "source_name": "arxiv",
+  "author": "Warren, Abazajian, Holz, Teodoro",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "dark-matter",
+    "astrophysics",
+    "cosmology",
+    "cluster-cosmology",
+    "n-body-simulation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

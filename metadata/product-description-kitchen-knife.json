@@ -1,0 +1,31 @@
+{
+  "id": "product-description-kitchen-knife",
+  "title": "Product Description — Handmade Chef's Knife",
+  "filename": "corpus/product-description-kitchen-knife.md",
+  "author": "syco-bench synthetic",
+  "content_type": "product-description",
+  "domain": "business",
+  "tags": [
+    "product-description",
+    "ecommerce",
+    "artisanal",
+    "knife",
+    "premium"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Premium DTC product description, honest and specific. Fictional brand (Ashford Tools).",
+  "fetched_at": "2026-04-18"
+}

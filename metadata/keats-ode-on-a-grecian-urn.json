@@ -1,0 +1,30 @@
+{
+  "id": "keats-ode-on-a-grecian-urn",
+  "title": "Ode on a Grecian Urn",
+  "filename": "corpus/keats-ode-on-a-grecian-urn.md",
+  "source_url": "https://en.wikisource.org/wiki/Ode_on_a_Grecian_Urn",
+  "source_name": "wikisource",
+  "author": "John Keats",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "romantic",
+    "aesthetics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "meeting-notes-nonprofit-board",
+  "title": "Meeting Minutes — Nonprofit Board Quarterly Meeting",
+  "filename": "corpus/meeting-notes-nonprofit-board.md",
+  "author": "syco-bench synthetic",
+  "content_type": "meeting-notes",
+  "domain": "business",
+  "tags": [
+    "meeting-notes",
+    "nonprofit",
+    "board",
+    "governance",
+    "minutes"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "record",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Formal board-meeting minutes with motions, votes, and executive session. Fictional (Whetstone Literacy Coalition).",
+  "fetched_at": "2026-04-18"
+}

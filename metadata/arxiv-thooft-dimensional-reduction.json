@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-thooft-dimensional-reduction",
+  "title": "Dimensional Reduction in Quantum Gravity ('t Hooft, holographic principle)",
+  "filename": "corpus/arxiv-thooft-dimensional-reduction.md",
+  "source_name": "arxiv",
+  "author": "Gerard 't Hooft",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "quantum-gravity",
+    "holographic-principle",
+    "theoretical-physics",
+    "black-holes"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

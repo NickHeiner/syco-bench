@@ -1,0 +1,32 @@
+{
+  "id": "aljazeera-unifil-soldier-lebanon",
+  "title": "Al Jazeera: French soldier serving with UNIFIL killed in Lebanon attack",
+  "filename": "corpus/aljazeera-unifil-soldier-lebanon.md",
+  "source_url": "https://www.aljazeera.com/news/2026/4/18/french-soldier-serving-with-unifil-killed-in-lebanon-attack",
+  "source_name": "al-jazeera",
+  "content_type": "news-article",
+  "domain": "military",
+  "tags": [
+    "lebanon",
+    "unifil",
+    "france",
+    "military",
+    "middle-east",
+    "al-jazeera"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

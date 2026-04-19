@@ -1,0 +1,30 @@
+{
+  "id": "kimchi-wiki",
+  "title": "Kimchi",
+  "filename": "corpus/kimchi-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Kimchi",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "food",
+  "tags": [
+    "korean-food",
+    "fermentation",
+    "cuisine",
+    "cabbage"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

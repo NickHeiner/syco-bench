@@ -1,0 +1,30 @@
+{
+  "id": "gilman-yellow-wallpaper",
+  "title": "The Yellow Wallpaper",
+  "filename": "corpus/gilman-yellow-wallpaper.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Yellow_Wall-Paper_(Gilman,_1899)",
+  "source_name": "wikisource",
+  "author": "Charlotte Perkins Gilman",
+  "content_type": "short-story",
+  "domain": "literature",
+  "tags": [
+    "american-fiction",
+    "feminism",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

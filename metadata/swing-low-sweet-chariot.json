@@ -1,0 +1,31 @@
+{
+  "id": "swing-low-sweet-chariot",
+  "title": "Swing Low, Sweet Chariot",
+  "filename": "corpus/swing-low-sweet-chariot.md",
+  "source_url": "https://en.wikisource.org/wiki/Swing_Low,_Sweet_Chariot",
+  "source_name": "wikisource",
+  "author": "Wallis Willis (attributed)",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "spiritual",
+    "african-american",
+    "hymn",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

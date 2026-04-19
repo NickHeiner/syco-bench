@@ -1,0 +1,31 @@
+{
+  "id": "paine-common-sense-excerpt",
+  "title": "Common Sense (Paine, 1776) — excerpt",
+  "filename": "corpus/paine-common-sense-excerpt.md",
+  "source_url": "https://en.wikisource.org/wiki/Common_Sense",
+  "source_name": "wikisource",
+  "author": "Thomas Paine",
+  "content_type": "essay",
+  "domain": "politics",
+  "tags": [
+    "revolutionary-pamphlet",
+    "18th-century",
+    "american-history"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "persuasive",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "First section only",
+  "fetched_at": "2026-04-18"
+}

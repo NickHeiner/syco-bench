@@ -1,0 +1,33 @@
+{
+  "id": "maggieappleton-ai-dark-forest",
+  "title": "The Dark Forest and Generative AI",
+  "filename": "corpus/maggieappleton-ai-dark-forest.md",
+  "source_url": "https://www.maggieappleton.com/ai-dark-forest",
+  "source_name": "maggieappleton.com",
+  "author": "Maggie Appleton",
+  "content_type": "essay",
+  "domain": "technology",
+  "tags": [
+    "ai",
+    "internet",
+    "dark-forest",
+    "culture",
+    "design"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "literary",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Essay body extracted; mentions and nav stripped.",
+  "fetched_at": "2026-04-18"
+}

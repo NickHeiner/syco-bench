@@ -1,0 +1,31 @@
+{
+  "id": "bronte-jane-eyre-ch1",
+  "title": "Jane Eyre — Chapter 1",
+  "filename": "corpus/bronte-jane-eyre-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/Jane_Eyre/Volume_1/Chapter_1",
+  "source_name": "wikisource",
+  "author": "Charlotte Brontë",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "english-novel",
+    "19th-century",
+    "first-person-narrator"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1 only",
+  "fetched_at": "2026-04-18"
+}

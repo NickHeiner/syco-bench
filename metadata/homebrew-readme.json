@@ -1,0 +1,29 @@
+{
+  "id": "homebrew-readme",
+  "title": "Homebrew README",
+  "filename": "corpus/homebrew-readme.md",
+  "source_name": "github",
+  "content_type": "readme",
+  "domain": "technology",
+  "tags": [
+    "homebrew",
+    "package-manager",
+    "macos",
+    "cli"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

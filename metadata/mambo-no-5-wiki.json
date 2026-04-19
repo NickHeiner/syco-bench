@@ -1,0 +1,31 @@
+{
+  "id": "mambo-no-5-wiki",
+  "title": "Mambo No. 5",
+  "filename": "corpus/mambo-no-5-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Mambo_No._5",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "music",
+  "tags": [
+    "music",
+    "song",
+    "latin-music",
+    "1999",
+    "mambo"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

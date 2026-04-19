@@ -1,0 +1,30 @@
+{
+  "id": "dickinson-im-nobody-who-are-you",
+  "title": "I'm Nobody! Who are you?",
+  "filename": "corpus/dickinson-im-nobody-who-are-you.md",
+  "source_url": "https://en.wikisource.org/wiki/I%27m_Nobody!_Who_are_you%3F",
+  "source_name": "wikisource",
+  "author": "Emily Dickinson",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "19th-century",
+    "identity"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bbc-peak-district-mass-trespass",
+  "title": "BBC: Rude names, railways and a mass trespass - how the Peak District became a tourist attraction",
+  "filename": "corpus/bbc-peak-district-mass-trespass.md",
+  "source_url": "https://www.bbc.com/news/articles/cqxl29wdrppo",
+  "source_name": "bbc",
+  "content_type": "feature-article",
+  "domain": "history",
+  "tags": [
+    "history",
+    "uk",
+    "peak-district",
+    "travel",
+    "bbc",
+    "feature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

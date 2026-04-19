@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-amateur-poem",
+  "title": "Synthetic Amateur Poem — Rain on the Parking Lot",
+  "filename": "corpus/synthetic-amateur-poem.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "synthetic",
+    "amateur",
+    "free-verse",
+    "confessional"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "intimate",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately amateur / sincere free-verse example. Synthetic.",
+  "fetched_at": "2026-04-18"
+}

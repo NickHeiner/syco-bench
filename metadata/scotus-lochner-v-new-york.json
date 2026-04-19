@@ -1,0 +1,33 @@
+{
+  "id": "scotus-lochner-v-new-york",
+  "title": "Lochner v. New York (1905) — Majority Opinion",
+  "filename": "corpus/scotus-lochner-v-new-york.md",
+  "source_url": "https://supreme.justia.com/cases/federal/us/198/45/",
+  "source_name": "justia",
+  "author": "Justice Rufus Peckham",
+  "content_type": "court-opinion",
+  "domain": "law",
+  "tags": [
+    "supreme-court",
+    "lochner-era",
+    "liberty-of-contract",
+    "due-process",
+    "labor-law"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "1905 case on substantive due process",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "deep-learning-scholarpedia",
+  "title": "Deep Learning (Scholarpedia)",
+  "filename": "corpus/deep-learning-scholarpedia.md",
+  "source_url": "http://www.scholarpedia.org/article/Deep_Learning",
+  "source_name": "scholarpedia",
+  "content_type": "encyclopedia-entry",
+  "domain": "technology",
+  "tags": [
+    "machine-learning",
+    "neural-networks",
+    "ai",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "arabian-nights-ali-baba",
+  "title": "Ali Baba and the Forty Robbers",
+  "filename": "corpus/arabian-nights-ali-baba.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Arabian_Nights_Entertainments/The_History_of_Ali_Baba_and_the_Forty_Robbers",
+  "source_name": "wikisource",
+  "author": "Anonymous (Arabian Nights)",
+  "content_type": "short-story",
+  "domain": "literature",
+  "tags": [
+    "arabic-folklore",
+    "arabian-nights",
+    "adventure"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

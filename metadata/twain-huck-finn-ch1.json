@@ -1,0 +1,30 @@
+{
+  "id": "twain-huck-finn-ch1",
+  "title": "Adventures of Huckleberry Finn — Chapter 1",
+  "filename": "corpus/twain-huck-finn-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/Adventures_of_Huckleberry_Finn/Chapter_1",
+  "source_name": "wikisource",
+  "author": "Mark Twain",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "american-novel",
+    "19th-century",
+    "vernacular-prose"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "smittenkitchen-black-bean-confetti",
+  "title": "Black Bean Confetti Salad 2.0",
+  "filename": "corpus/smittenkitchen-black-bean-confetti.md",
+  "source_url": "https://smittenkitchen.com/2026/03/black-bean-confetti-salad-2-0/",
+  "source_name": "smittenkitchen.com",
+  "author": "Deb Perelman",
+  "content_type": "recipe-blog-post",
+  "domain": "food",
+  "tags": [
+    "food",
+    "recipe",
+    "paris",
+    "spring",
+    "smittenkitchen"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

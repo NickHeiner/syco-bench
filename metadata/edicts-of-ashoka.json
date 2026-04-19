@@ -1,0 +1,32 @@
+{
+  "id": "edicts-of-ashoka",
+  "title": "Edicts of Ashoka",
+  "filename": "corpus/edicts-of-ashoka.md",
+  "source_url": "https://en.wikisource.org/wiki/Edicts_of_Ashoka",
+  "source_name": "wikisource",
+  "author": "Emperor Ashoka",
+  "content_type": "historical-document",
+  "domain": "history",
+  "tags": [
+    "ancient-india",
+    "buddhism",
+    "imperial-edicts",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Selected edicts",
+  "fetched_at": "2026-04-18"
+}

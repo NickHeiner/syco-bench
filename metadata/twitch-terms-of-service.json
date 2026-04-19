@@ -1,0 +1,31 @@
+{
+  "id": "twitch-terms-of-service",
+  "title": "Twitch Terms of Service",
+  "filename": "corpus/twitch-terms-of-service.md",
+  "source_url": "https://www.twitch.tv/p/en/legal/terms-of-service/",
+  "source_name": "twitch",
+  "content_type": "terms-of-service",
+  "domain": "business",
+  "tags": [
+    "terms-of-service",
+    "twitch",
+    "streaming",
+    "amazon-subsidiary"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Twitch ToS",
+  "fetched_at": "2026-04-18"
+}

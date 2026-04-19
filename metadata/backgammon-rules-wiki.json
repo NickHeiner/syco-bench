@@ -1,0 +1,30 @@
+{
+  "id": "backgammon-rules-wiki",
+  "title": "Backgammon Rules",
+  "filename": "corpus/backgammon-rules-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Backgammon",
+  "source_name": "wikipedia",
+  "content_type": "rules-of-game",
+  "domain": "games",
+  "tags": [
+    "backgammon",
+    "board-game",
+    "rules"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikipedia article with rules sections",
+  "fetched_at": "2026-04-18"
+}

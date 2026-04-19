@@ -1,0 +1,32 @@
+{
+  "id": "dynomight-seed-oil",
+  "title": "Are seed oils bad?",
+  "filename": "corpus/dynomight-seed-oil.md",
+  "source_url": "https://dynomight.net/seed-oil/",
+  "source_name": "dynomight.net",
+  "author": "dynomight",
+  "content_type": "blog-post",
+  "domain": "health",
+  "tags": [
+    "health",
+    "nutrition",
+    "seed-oils",
+    "science",
+    "skeptic"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nih-crispr-delivery-2026",
+  "title": "NIH: NIH-funded breakthrough shrinks CRISPR for precision delivery in the body",
+  "filename": "corpus/nih-crispr-delivery-2026.md",
+  "source_url": "https://www.nih.gov/news-events/news-releases/nih-funded-breakthrough-shrinks-crispr-precision-delivery-body",
+  "source_name": "nih",
+  "content_type": "press-release",
+  "domain": "medicine",
+  "tags": [
+    "medicine",
+    "crispr",
+    "gene-editing",
+    "nih",
+    "press-release",
+    "science"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

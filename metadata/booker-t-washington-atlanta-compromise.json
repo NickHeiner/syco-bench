@@ -1,0 +1,29 @@
+{
+  "id": "booker-t-washington-atlanta-compromise",
+  "title": "Atlanta Compromise Speech (Booker T. Washington, 1895)",
+  "filename": "corpus/booker-t-washington-atlanta-compromise.md",
+  "source_url": "https://en.wikisource.org/wiki/Atlanta_Compromise_Speech",
+  "source_name": "wikisource",
+  "author": "Booker T. Washington",
+  "content_type": "speech",
+  "domain": "politics",
+  "tags": [
+    "19th-century",
+    "american-politics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

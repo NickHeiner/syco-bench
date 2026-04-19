@@ -1,0 +1,31 @@
+{
+  "id": "license-cc-by-4",
+  "title": "Creative Commons Attribution 4.0 International License (CC BY 4.0)",
+  "filename": "corpus/license-cc-by-4.md",
+  "source_url": "https://creativecommons.org/licenses/by/4.0/legalcode.en",
+  "source_name": "creative-commons",
+  "content_type": "eula",
+  "domain": "law",
+  "tags": [
+    "open-source-license",
+    "creative-commons",
+    "cc-by",
+    "licensing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "CC BY 4.0 legal code",
+  "fetched_at": "2026-04-18"
+}

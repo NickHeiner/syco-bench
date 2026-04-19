@@ -1,0 +1,30 @@
+{
+  "id": "royal-proclamation-1763",
+  "title": "Royal Proclamation of 1763",
+  "filename": "corpus/royal-proclamation-1763.md",
+  "source_url": "https://en.wikisource.org/wiki/Proclamation_of_1763",
+  "source_name": "wikisource",
+  "author": "King George III",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "18th-century",
+    "british-empire",
+    "north-america"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

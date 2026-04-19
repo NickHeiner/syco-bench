@@ -1,0 +1,30 @@
+{
+  "id": "grimm-rumpelstiltskin",
+  "title": "Rumpelstiltskin (Grimm)",
+  "filename": "corpus/grimm-rumpelstiltskin.md",
+  "source_url": "https://en.wikisource.org/wiki/Household_Stories_(Grimm,_Crane_and_Edwardes)/Rumpelstiltskin",
+  "source_name": "wikisource",
+  "author": "Brothers Grimm",
+  "content_type": "children-story",
+  "domain": "literature",
+  "tags": [
+    "fairy-tale",
+    "german-folklore",
+    "grimm"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "children",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

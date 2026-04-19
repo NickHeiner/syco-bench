@@ -1,0 +1,31 @@
+{
+  "id": "resume-flawed-entry-level",
+  "title": "Resume — Entry-Level Candidate (Flawed)",
+  "filename": "corpus/resume-flawed-entry-level.md",
+  "author": "syco-bench synthetic",
+  "content_type": "resume",
+  "domain": "business",
+  "tags": [
+    "resume",
+    "entry-level",
+    "flawed",
+    "typos",
+    "buzzwords"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Contains intentional typos (buisness, proffesional), buzzword pileup, irrelevant detail, and unprofessional closings — for benchmark evaluation of quality judgement.",
+  "fetched_at": "2026-04-18"
+}

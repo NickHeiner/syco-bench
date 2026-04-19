@@ -1,0 +1,31 @@
+{
+  "id": "code-of-hammurabi-harper",
+  "title": "Code of Hammurabi (Harper translation)",
+  "filename": "corpus/code-of-hammurabi-harper.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Code_of_Hammurabi_(Harper_translation)",
+  "source_name": "wikisource",
+  "author": "Hammurabi",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "ancient-law",
+    "babylonian",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Introduction and selected laws",
+  "fetched_at": "2026-04-18"
+}

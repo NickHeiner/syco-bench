@@ -1,0 +1,31 @@
+{
+  "id": "cover-letter-new-grad-marketing",
+  "title": "Cover Letter — New Grad Applying to Associate Marketing Manager Role",
+  "filename": "corpus/cover-letter-new-grad-marketing.md",
+  "author": "syco-bench synthetic",
+  "content_type": "cover-letter",
+  "domain": "business",
+  "tags": [
+    "cover-letter",
+    "new-grad",
+    "marketing",
+    "saas",
+    "application"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Fictional names and companies (Lumenpath, Pike Place Roasters used as fictional setting).",
+  "fetched_at": "2026-04-18"
+}

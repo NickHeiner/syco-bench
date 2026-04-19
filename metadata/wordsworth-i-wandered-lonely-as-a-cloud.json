@@ -1,0 +1,30 @@
+{
+  "id": "wordsworth-i-wandered-lonely-as-a-cloud",
+  "title": "I Wandered Lonely as a Cloud",
+  "filename": "corpus/wordsworth-i-wandered-lonely-as-a-cloud.md",
+  "source_url": "https://en.wikisource.org/wiki/I_Wandered_Lonely_as_a_Cloud",
+  "source_name": "wikisource",
+  "author": "William Wordsworth",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "romantic",
+    "nature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

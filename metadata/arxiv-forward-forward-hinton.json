@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-forward-forward-hinton",
+  "title": "The Forward-Forward Algorithm: Some Preliminary Investigations (Hinton)",
+  "filename": "corpus/arxiv-forward-forward-hinton.md",
+  "source_name": "arxiv",
+  "author": "Geoffrey Hinton",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "neural-networks",
+    "backpropagation",
+    "forward-forward",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

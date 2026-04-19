@@ -1,0 +1,32 @@
+{
+  "id": "arxiv-maldacena-ads-cft",
+  "title": "The Large N Limit of Superconformal Field Theories and Supergravity (Maldacena)",
+  "filename": "corpus/arxiv-maldacena-ads-cft.md",
+  "source_url": "https://arxiv.org/abs/hep-th/9711200",
+  "source_name": "arxiv",
+  "author": "Juan Maldacena",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "string-theory",
+    "ads-cft",
+    "supergravity",
+    "holography",
+    "theoretical-physics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

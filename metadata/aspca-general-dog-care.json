@@ -1,0 +1,29 @@
+{
+  "id": "aspca-general-dog-care",
+  "title": "General Dog Care - ASPCA",
+  "filename": "corpus/aspca-general-dog-care.md",
+  "source_url": "https://www.aspca.org/pet-care/dog-care/general-dog-care",
+  "source_name": "aspca",
+  "content_type": "how-to-guide",
+  "domain": "personal-life",
+  "tags": [
+    "dog",
+    "pet-care",
+    "aspca"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

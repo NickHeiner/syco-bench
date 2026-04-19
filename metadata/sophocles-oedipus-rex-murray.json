@@ -1,0 +1,32 @@
+{
+  "id": "sophocles-oedipus-rex-murray",
+  "title": "Oedipus, King of Thebes (Murray translation, excerpt)",
+  "filename": "corpus/sophocles-oedipus-rex-murray.md",
+  "source_url": "https://en.wikisource.org/wiki/Oedipus_King_of_Thebes_(Murray)",
+  "source_name": "wikisource",
+  "author": "Sophocles",
+  "content_type": "stage-play",
+  "domain": "literature",
+  "tags": [
+    "greek-drama",
+    "classical",
+    "tragedy",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Opening scene",
+  "fetched_at": "2026-04-18"
+}

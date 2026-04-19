@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-stage-monologue-job-interview",
+  "title": "Synthetic Stage Monologue — Job Interview",
+  "filename": "corpus/synthetic-stage-monologue-job-interview.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "synthetic",
+    "monologue",
+    "contemporary-drama"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "intimate",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic short stage monologue. Name fictional.",
+  "fetched_at": "2026-04-18"
+}

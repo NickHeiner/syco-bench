@@ -1,0 +1,32 @@
+{
+  "id": "basho-old-pond-haiku",
+  "title": "Basho — Old Pond (haiku, multiple translations)",
+  "filename": "corpus/basho-old-pond-haiku.md",
+  "source_url": "https://en.wikisource.org/wiki/Translations:Basho%27s_frog",
+  "source_name": "wikisource",
+  "author": "Matsuo Basho",
+  "content_type": "haiku",
+  "domain": "literature",
+  "tags": [
+    "japanese-poetry",
+    "haiku",
+    "zen",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Original pre-1800; English translations",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "cdc-handwashing-about",
+  "title": "About Handwashing - CDC",
+  "filename": "corpus/cdc-handwashing-about.md",
+  "source_url": "https://www.cdc.gov/clean-hands/about/index.html",
+  "source_name": "cdc",
+  "content_type": "how-to-guide",
+  "domain": "health",
+  "tags": [
+    "hygiene",
+    "handwashing",
+    "health",
+    "cdc"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "instructional",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "CDC Clean Hands program",
+  "fetched_at": "2026-04-18"
+}

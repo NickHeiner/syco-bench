@@ -1,0 +1,31 @@
+{
+  "id": "guzey-theses-on-sleep",
+  "title": "Theses on Sleep",
+  "filename": "corpus/guzey-theses-on-sleep.md",
+  "source_url": "https://guzey.com/theses-on-sleep/",
+  "source_name": "guzey.com",
+  "author": "Alexey Guzey",
+  "content_type": "essay",
+  "domain": "science",
+  "tags": [
+    "sleep",
+    "science",
+    "productivity",
+    "research"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "argumentative",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "meta-10k-2024-mdna",
+  "title": "Meta Platforms 10-K FY2024 — Item 7. MD&A",
+  "filename": "corpus/meta-10k-2024-mdna.md",
+  "source_name": "sec-edgar",
+  "content_type": "10k-filing",
+  "domain": "business",
+  "tags": [
+    "meta",
+    "facebook",
+    "mdna",
+    "10-k",
+    "social-media",
+    "financial-analysis"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Item 7 MD&A excerpt from Meta 10-K FY2024",
+  "fetched_at": "2026-04-18"
+}

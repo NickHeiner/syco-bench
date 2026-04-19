@@ -1,0 +1,31 @@
+{
+  "id": "cacio-e-pepe-wiki",
+  "title": "Cacio e pepe",
+  "filename": "corpus/cacio-e-pepe-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Cacio_e_pepe",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "food",
+  "tags": [
+    "italian-cuisine",
+    "pasta",
+    "roman",
+    "pecorino",
+    "black-pepper"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

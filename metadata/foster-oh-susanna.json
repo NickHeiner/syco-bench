@@ -1,0 +1,30 @@
+{
+  "id": "foster-oh-susanna",
+  "title": "Oh! Susanna",
+  "filename": "corpus/foster-oh-susanna.md",
+  "source_url": "https://en.wikisource.org/wiki/Oh!_Susanna",
+  "source_name": "wikisource",
+  "author": "Stephen Foster",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "american-folk",
+    "19th-century",
+    "minstrel-origin"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

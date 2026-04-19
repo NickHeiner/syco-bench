@@ -1,0 +1,30 @@
+{
+  "id": "fdr-first-inaugural",
+  "title": "First Inaugural Address (FDR, 1933)",
+  "filename": "corpus/fdr-first-inaugural.md",
+  "source_url": "https://en.wikisource.org/wiki/First_inaugural_address_of_Franklin_D._Roosevelt",
+  "source_name": "wikisource",
+  "author": "Franklin D. Roosevelt",
+  "content_type": "inaugural-address",
+  "domain": "politics",
+  "tags": [
+    "20th-century",
+    "inaugural",
+    "great-depression"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

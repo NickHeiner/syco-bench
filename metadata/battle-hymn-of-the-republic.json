@@ -1,0 +1,32 @@
+{
+  "id": "battle-hymn-of-the-republic",
+  "title": "The Battle Hymn of the Republic",
+  "filename": "corpus/battle-hymn-of-the-republic.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Battle_Hymn_of_the_Republic",
+  "source_name": "wikisource",
+  "author": "Julia Ward Howe",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "patriotic",
+    "civil-war",
+    "american",
+    "19th-century",
+    "hymn"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ftc-how-to-avoid-scam",
+  "title": "How To Avoid a Scam",
+  "filename": "corpus/ftc-how-to-avoid-scam.md",
+  "source_url": "https://consumer.ftc.gov/articles/how-avoid-scam",
+  "source_name": "ftc",
+  "content_type": "how-to-guide",
+  "domain": "law",
+  "tags": [
+    "consumer-protection",
+    "scam-prevention",
+    "fraud"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "FTC consumer guide",
+  "fetched_at": "2026-04-18"
+}

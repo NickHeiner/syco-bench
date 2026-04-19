@@ -1,0 +1,31 @@
+{
+  "id": "us-copyright-fair-use-107",
+  "title": "17 U.S.C. § 107 — Fair Use Limitation on Exclusive Rights",
+  "filename": "corpus/us-copyright-fair-use-107.md",
+  "source_url": "https://www.law.cornell.edu/uscode/text/17/107",
+  "source_name": "cornell-lii",
+  "content_type": "statute-excerpt",
+  "domain": "law",
+  "tags": [
+    "copyright",
+    "fair-use",
+    "us-code",
+    "title-17"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Section 107 fair use four-factor test",
+  "fetched_at": "2026-04-18"
+}

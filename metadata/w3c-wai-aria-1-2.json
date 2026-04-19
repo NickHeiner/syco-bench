@@ -1,0 +1,33 @@
+{
+  "id": "w3c-wai-aria-1-2",
+  "title": "W3C Accessible Rich Internet Applications (WAI-ARIA) 1.2",
+  "filename": "corpus/w3c-wai-aria-1-2.md",
+  "source_url": "https://www.w3.org/TR/wai-aria-1.2/",
+  "source_name": "w3c",
+  "author": "W3C",
+  "content_type": "technical-spec",
+  "domain": "technology",
+  "tags": [
+    "w3c",
+    "aria",
+    "accessibility",
+    "standard",
+    "web"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Excerpt from full spec",
+  "fetched_at": "2026-04-18"
+}

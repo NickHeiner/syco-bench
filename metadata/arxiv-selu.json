@@ -1,0 +1,29 @@
+{
+  "id": "arxiv-selu",
+  "title": "SELU / self-normalizing networks",
+  "filename": "corpus/arxiv-selu.md",
+  "source_url": "https://arxiv.org/abs/1706.02515",
+  "source_name": "arxiv",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "activation-functions",
+    "self-normalizing-networks",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

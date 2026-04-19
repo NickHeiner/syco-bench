@@ -1,0 +1,32 @@
+{
+  "id": "plos-one-disposable-pcr-platform",
+  "title": "PLOS ONE: Disposable USB-powered platform for bacterial lysis and nucleic acid amplification",
+  "filename": "corpus/plos-one-disposable-pcr-platform.md",
+  "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284424",
+  "source_name": "plos-one",
+  "content_type": "academic-paper",
+  "domain": "engineering",
+  "tags": [
+    "bioengineering",
+    "pcr",
+    "nucleic-acid",
+    "diagnostics",
+    "microfluidics",
+    "point-of-care"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

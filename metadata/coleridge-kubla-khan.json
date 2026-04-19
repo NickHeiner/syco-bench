@@ -1,0 +1,30 @@
+{
+  "id": "coleridge-kubla-khan",
+  "title": "Kubla Khan",
+  "filename": "corpus/coleridge-kubla-khan.md",
+  "source_url": "https://en.wikisource.org/wiki/Kubla_Khan",
+  "source_name": "wikisource",
+  "author": "Samuel Taylor Coleridge",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "romantic",
+    "visionary"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

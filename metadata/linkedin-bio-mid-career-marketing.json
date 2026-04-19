@@ -1,0 +1,31 @@
+{
+  "id": "linkedin-bio-mid-career-marketing",
+  "title": "LinkedIn Bio — Mid-Career Marketing Director",
+  "filename": "corpus/linkedin-bio-mid-career-marketing.md",
+  "author": "syco-bench synthetic",
+  "content_type": "linkedin-bio",
+  "domain": "business",
+  "tags": [
+    "linkedin",
+    "bio",
+    "marketing",
+    "mid-career",
+    "personal-brand"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. First-person LinkedIn About section with Experience and Featured for a mid-career marketing leader.",
+  "fetched_at": "2026-04-18"
+}

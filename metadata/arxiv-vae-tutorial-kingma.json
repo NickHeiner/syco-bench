@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-vae-tutorial-kingma",
+  "title": "An Introduction to Variational Autoencoders (Kingma, Welling)",
+  "filename": "corpus/arxiv-vae-tutorial-kingma.md",
+  "source_url": "https://arxiv.org/abs/1906.02691",
+  "source_name": "arxiv",
+  "author": "Kingma, Welling",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "variational-autoencoder",
+    "generative-models",
+    "tutorial",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

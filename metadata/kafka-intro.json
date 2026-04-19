@@ -1,0 +1,32 @@
+{
+  "id": "kafka-intro",
+  "title": "Apache Kafka Introduction",
+  "filename": "corpus/kafka-intro.md",
+  "source_url": "https://kafka.apache.org/intro",
+  "source_name": "apache-kafka",
+  "author": "Apache Software Foundation",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "kafka",
+    "streaming",
+    "distributed-systems",
+    "messaging",
+    "apache"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "golang-readme",
+  "title": "Go Programming Language README",
+  "filename": "corpus/golang-readme.md",
+  "source_name": "github",
+  "content_type": "readme",
+  "domain": "technology",
+  "tags": [
+    "golang",
+    "go",
+    "programming-language",
+    "compiler"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

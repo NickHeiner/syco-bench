@@ -1,0 +1,32 @@
+{
+  "id": "arxiv-cond-mat-0011088",
+  "title": "Fokker-Planck equation of distributions of financial returns and power laws (Sornette)",
+  "filename": "corpus/arxiv-cond-mat-0011088.md",
+  "source_url": "https://arxiv.org/abs/cond-mat/0011088",
+  "source_name": "arxiv",
+  "author": "Didier Sornette",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "econophysics",
+    "statistical-mechanics",
+    "power-laws",
+    "fokker-planck",
+    "financial-returns"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

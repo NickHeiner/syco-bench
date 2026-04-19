@@ -1,0 +1,32 @@
+{
+  "id": "pmc-naringin-pharmacokinetics",
+  "title": "PMC: Pharmacokinetics and Metabolism of Naringin and Naringenin in Rats, Dogs, Humans",
+  "filename": "corpus/pmc-naringin-pharmacokinetics.md",
+  "source_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118210/",
+  "source_name": "pubmed-central",
+  "content_type": "academic-paper",
+  "domain": "medicine",
+  "tags": [
+    "pharmacokinetics",
+    "naringin",
+    "naringenin",
+    "metabolism",
+    "citrus-flavonoid",
+    "species-differences"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

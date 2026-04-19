@@ -1,0 +1,31 @@
+{
+  "id": "washington-farewell-address",
+  "title": "Washington's Farewell Address (1796)",
+  "filename": "corpus/washington-farewell-address.md",
+  "source_url": "https://en.wikisource.org/wiki/George_Washington%27s_Farewell_Address",
+  "source_name": "wikisource",
+  "author": "George Washington",
+  "content_type": "speech",
+  "domain": "politics",
+  "tags": [
+    "18th-century",
+    "american-history",
+    "farewell"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Partial — long original",
+  "fetched_at": "2026-04-18"
+}

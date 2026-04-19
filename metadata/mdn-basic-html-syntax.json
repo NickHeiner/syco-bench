@@ -1,0 +1,31 @@
+{
+  "id": "mdn-basic-html-syntax",
+  "title": "Basic HTML Syntax",
+  "filename": "corpus/mdn-basic-html-syntax.md",
+  "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+  "source_name": "mdn",
+  "content_type": "tutorial",
+  "domain": "technology",
+  "tags": [
+    "html",
+    "web-development",
+    "tutorial",
+    "mdn"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "MDN Web Docs",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "farmer-cream-tomato-soup",
+  "title": "Cream of Tomato Soup and Chowders (Farmer's Boston Cooking-School Cook Book, 1910)",
+  "filename": "corpus/farmer-cream-tomato-soup.md",
+  "source_name": "project-gutenberg",
+  "author": "Fannie Merritt Farmer",
+  "content_type": "cookbook-excerpt",
+  "domain": "food",
+  "tags": [
+    "soup",
+    "tomato",
+    "historical",
+    "american",
+    "new-england",
+    "chowder"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Three recipes excerpted from Farmer's 1910 ed., Soup chapter",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "scotus-roe-v-wade",
+  "title": "Roe v. Wade (1973) — Majority Opinion (excerpt)",
+  "filename": "corpus/scotus-roe-v-wade.md",
+  "source_url": "https://supreme.justia.com/cases/federal/us/410/113/",
+  "source_name": "justia",
+  "author": "Justice Harry Blackmun",
+  "content_type": "court-opinion",
+  "domain": "law",
+  "tags": [
+    "supreme-court",
+    "burger-court",
+    "privacy",
+    "14th-amendment",
+    "overturned"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "1973 opinion; later overturned by Dobbs",
+  "fetched_at": "2026-04-18"
+}

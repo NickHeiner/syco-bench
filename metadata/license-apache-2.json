@@ -1,0 +1,30 @@
+{
+  "id": "license-apache-2",
+  "title": "Apache License, Version 2.0",
+  "filename": "corpus/license-apache-2.md",
+  "source_url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+  "source_name": "apache-org",
+  "content_type": "eula",
+  "domain": "law",
+  "tags": [
+    "open-source-license",
+    "apache",
+    "permissive"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Apache License 2.0 full text",
+  "fetched_at": "2026-04-18"
+}

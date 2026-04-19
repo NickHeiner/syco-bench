@@ -1,0 +1,32 @@
+{
+  "id": "nasa-young-stars-xrays",
+  "title": "NASA — Young Stars Dim in X-rays Surprisingly Quickly",
+  "filename": "corpus/nasa-young-stars-xrays.md",
+  "source_url": "https://science.nasa.gov/missions/chandra/nasa-finds-young-stars-dim-in-x-rays-surprisingly-quickly/",
+  "source_name": "nasa",
+  "content_type": "press-release",
+  "domain": "science",
+  "tags": [
+    "nasa",
+    "astronomy",
+    "chandra",
+    "x-ray",
+    "press-release",
+    "stars"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "gdpr-article-6",
+  "title": "GDPR Article 6 — Lawfulness of Processing",
+  "filename": "corpus/gdpr-article-6.md",
+  "source_url": "https://gdpr-info.eu/art-6-gdpr/",
+  "source_name": "gdpr-info",
+  "content_type": "statute-excerpt",
+  "domain": "law",
+  "tags": [
+    "gdpr",
+    "privacy-law",
+    "eu",
+    "data-protection",
+    "article-6"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "EU GDPR Article 6 — lawfulness of processing",
+  "fetched_at": "2026-04-18"
+}

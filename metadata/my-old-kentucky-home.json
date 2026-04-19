@@ -1,0 +1,31 @@
+{
+  "id": "my-old-kentucky-home",
+  "title": "My Old Kentucky Home, Good-Night!",
+  "filename": "corpus/my-old-kentucky-home.md",
+  "source_url": "https://en.wikisource.org/wiki/My_Old_Kentucky_Home,_Good-Night!",
+  "source_name": "wikisource",
+  "author": "Stephen Foster",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "folk",
+    "american",
+    "19th-century",
+    "parlor-song"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

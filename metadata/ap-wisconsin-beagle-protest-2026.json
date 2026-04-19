@@ -1,0 +1,31 @@
+{
+  "id": "ap-wisconsin-beagle-protest-2026",
+  "title": "AP: Animal welfare protesters clash with police at Wisconsin beagle facility",
+  "filename": "corpus/ap-wisconsin-beagle-protest-2026.md",
+  "source_url": "https://apnews.com/article/animal-rights-beagles-protest-tear-gas-wisconsin-e65e2b473a19f7eda559394340403cba",
+  "source_name": "ap",
+  "content_type": "news-article",
+  "domain": "crime",
+  "tags": [
+    "animal-welfare",
+    "protest",
+    "wisconsin",
+    "ap",
+    "wire-report"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

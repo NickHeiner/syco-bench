@@ -1,0 +1,31 @@
+{
+  "id": "fitzgerald-great-gatsby-ch1",
+  "title": "The Great Gatsby — Chapter 1",
+  "filename": "corpus/fitzgerald-great-gatsby-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Great_Gatsby/Chapter_1",
+  "source_name": "wikisource",
+  "author": "F. Scott Fitzgerald",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "american-novel",
+    "jazz-age",
+    "modernist"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1",
+  "fetched_at": "2026-04-18"
+}

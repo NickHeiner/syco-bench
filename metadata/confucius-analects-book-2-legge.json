@@ -1,0 +1,30 @@
+{
+  "id": "confucius-analects-book-2-legge",
+  "title": "Analects — Book 2 (Legge)",
+  "filename": "corpus/confucius-analects-book-2-legge.md",
+  "source_url": "https://en.wikisource.org/wiki/Analects/Book_II",
+  "source_name": "wikisource",
+  "author": "Confucius",
+  "content_type": "philosophy-text",
+  "domain": "philosophy",
+  "tags": [
+    "confucianism",
+    "chinese-philosophy",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

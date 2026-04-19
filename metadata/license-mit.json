@@ -1,0 +1,30 @@
+{
+  "id": "license-mit",
+  "title": "The MIT License",
+  "filename": "corpus/license-mit.md",
+  "source_url": "https://opensource.org/licenses/MIT",
+  "source_name": "opensource-org",
+  "content_type": "eula",
+  "domain": "law",
+  "tags": [
+    "open-source-license",
+    "permissive",
+    "mit"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Short permissive open-source license",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "shakespeare-sonnet-130",
+  "title": "Sonnet 130 (My mistress' eyes are nothing like the sun)",
+  "filename": "corpus/shakespeare-sonnet-130.md",
+  "source_url": "https://en.wikisource.org/wiki/Shakespeare%27s_Sonnets_(1923)_Yale/130",
+  "source_name": "wikisource",
+  "author": "William Shakespeare",
+  "content_type": "sonnet",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "renaissance",
+    "sonnet"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

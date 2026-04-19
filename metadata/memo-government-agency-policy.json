@@ -1,0 +1,31 @@
+{
+  "id": "memo-government-agency-policy",
+  "title": "Internal Memo — Municipal Agency SOP Update",
+  "filename": "corpus/memo-government-agency-policy.md",
+  "author": "syco-bench synthetic",
+  "content_type": "memo",
+  "domain": "politics",
+  "tags": [
+    "memo",
+    "government",
+    "municipal",
+    "sop",
+    "public-works"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Municipal public-works memo announcing an SOP revision with regulatory context. Fictional city.",
+  "fetched_at": "2026-04-18"
+}

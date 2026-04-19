@@ -1,0 +1,32 @@
+{
+  "id": "propublica-omaha-lead-contamination",
+  "title": "ProPublica: What You Should Know About Lead Contamination in Omaha, Nebraska",
+  "filename": "corpus/propublica-omaha-lead-contamination.md",
+  "source_url": "https://www.propublica.org/article/lead-contamination-omaha-nebraska-faq",
+  "source_name": "propublica",
+  "content_type": "feature-article",
+  "domain": "environment",
+  "tags": [
+    "environment",
+    "lead",
+    "pollution",
+    "omaha",
+    "propublica",
+    "faq"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "qa",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

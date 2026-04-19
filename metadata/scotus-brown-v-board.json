@@ -1,0 +1,33 @@
+{
+  "id": "scotus-brown-v-board",
+  "title": "Brown v. Board of Education (1954) — Majority Opinion",
+  "filename": "corpus/scotus-brown-v-board.md",
+  "source_url": "https://supreme.justia.com/cases/federal/us/347/483/",
+  "source_name": "justia",
+  "author": "Chief Justice Earl Warren",
+  "content_type": "court-opinion",
+  "domain": "law",
+  "tags": [
+    "supreme-court",
+    "civil-rights",
+    "segregation",
+    "warren-court",
+    "landmark"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Majority opinion; trim nav / counsel list",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "landing-page-fintech-startup",
+  "title": "Landing Page Copy — Fintech Invoice-Advance Startup",
+  "filename": "corpus/landing-page-fintech-startup.md",
+  "author": "syco-bench synthetic",
+  "content_type": "landing-page-copy",
+  "domain": "finance",
+  "tags": [
+    "landing-page",
+    "fintech",
+    "saas",
+    "b2b",
+    "conversion"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Fictional fintech (Keelsend). Mimics a well-crafted SaaS landing page.",
+  "fetched_at": "2026-04-18"
+}

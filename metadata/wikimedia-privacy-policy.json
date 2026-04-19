@@ -1,0 +1,31 @@
+{
+  "id": "wikimedia-privacy-policy",
+  "title": "Wikimedia Foundation Privacy Policy",
+  "filename": "corpus/wikimedia-privacy-policy.md",
+  "source_url": "https://foundation.wikimedia.org/wiki/Policy:Privacy_policy",
+  "source_name": "wikimedia",
+  "content_type": "privacy-policy",
+  "domain": "business",
+  "tags": [
+    "privacy",
+    "wikimedia",
+    "non-profit",
+    "data-protection"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Non-profit foundation privacy policy",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "slack-terms-of-service",
+  "title": "Slack Main Services Agreement",
+  "filename": "corpus/slack-terms-of-service.md",
+  "source_url": "https://slack.com/main-services-agreement",
+  "source_name": "slack",
+  "content_type": "terms-of-service",
+  "domain": "business",
+  "tags": [
+    "terms-of-service",
+    "slack",
+    "saas",
+    "b2b"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Slack/Salesforce master services agreement",
+  "fetched_at": "2026-04-18"
+}

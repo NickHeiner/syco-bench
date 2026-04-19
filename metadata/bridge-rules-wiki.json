@@ -1,0 +1,29 @@
+{
+  "id": "bridge-rules-wiki",
+  "title": "Contract Bridge",
+  "filename": "corpus/bridge-rules-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Contract_bridge",
+  "source_name": "wikipedia",
+  "content_type": "rules-of-game",
+  "domain": "games",
+  "tags": [
+    "bridge",
+    "card-game",
+    "rules"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

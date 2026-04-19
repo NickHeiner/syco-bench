@@ -1,0 +1,33 @@
+{
+  "id": "rfc-791-ip",
+  "title": "RFC 791 - Internet Protocol",
+  "filename": "corpus/rfc-791-ip.md",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc791",
+  "source_name": "ietf",
+  "author": "J. Postel",
+  "content_type": "rfc",
+  "domain": "technology",
+  "tags": [
+    "rfc",
+    "standards",
+    "ip",
+    "internet",
+    "protocol",
+    "networking"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

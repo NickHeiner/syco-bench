@@ -1,0 +1,31 @@
+{
+  "id": "wollstonecraft-rights-of-woman-ch1",
+  "title": "A Vindication of the Rights of Woman — Chapter 1",
+  "filename": "corpus/wollstonecraft-rights-of-woman-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/A_Vindication_of_the_Rights_of_Woman/Chapter_I",
+  "source_name": "wikisource",
+  "author": "Mary Wollstonecraft",
+  "content_type": "essay",
+  "domain": "philosophy",
+  "tags": [
+    "feminist-philosophy",
+    "18th-century",
+    "rights"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1 only",
+  "fetched_at": "2026-04-18"
+}

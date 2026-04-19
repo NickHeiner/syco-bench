@@ -1,0 +1,31 @@
+{
+  "id": "sheridan-school-for-scandal-act1",
+  "title": "The School for Scandal — Act I",
+  "filename": "corpus/sheridan-school-for-scandal-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/The_School_for_Scandal/Act_I",
+  "source_name": "wikisource",
+  "author": "Richard Brinsley Sheridan",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "18th-century",
+    "comedy-of-manners",
+    "british-drama"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

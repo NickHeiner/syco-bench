@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-deconstructing-lottery-tickets",
+  "title": "Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask",
+  "filename": "corpus/arxiv-deconstructing-lottery-tickets.md",
+  "source_name": "arxiv",
+  "author": "Zhou, Lan, Liu, Yosinski",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "lottery-ticket-hypothesis",
+    "neural-networks",
+    "pruning",
+    "sparsity"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

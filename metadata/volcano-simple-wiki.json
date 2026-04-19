@@ -1,0 +1,31 @@
+{
+  "id": "volcano-simple-wiki",
+  "title": "Volcano (Simple English)",
+  "filename": "corpus/volcano-simple-wiki.md",
+  "source_url": "https://simple.wikipedia.org/wiki/Volcano",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "science",
+  "tags": [
+    "geology",
+    "simple-english",
+    "earth-science",
+    "volcano"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "children",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "Simple English Wikipedia, aimed at children/ESL readers",
+  "fetched_at": "2026-04-18"
+}

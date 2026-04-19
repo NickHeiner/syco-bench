@@ -1,0 +1,32 @@
+{
+  "id": "may-accomplisht-cook-excerpt",
+  "title": "The Accomplisht Cook (Excerpt)",
+  "filename": "corpus/may-accomplisht-cook-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/22790/pg22790.txt",
+  "source_name": "project-gutenberg",
+  "author": "Robert May",
+  "content_type": "instruction-manual",
+  "domain": "cooking",
+  "tags": [
+    "cooking",
+    "historical",
+    "recipes",
+    "17th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "literary",
+  "audience": "professionals-in-field",
+  "era": "pre-1800",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "1685 English cookbook, excerpt of opening recipes",
+  "fetched_at": "2026-04-18"
+}

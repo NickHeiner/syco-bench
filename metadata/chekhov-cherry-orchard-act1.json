@@ -1,0 +1,32 @@
+{
+  "id": "chekhov-cherry-orchard-act1",
+  "title": "The Cherry Orchard — Act I",
+  "filename": "corpus/chekhov-cherry-orchard-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Cherry_Orchard/Act_I",
+  "source_name": "wikisource",
+  "author": "Anton Chekhov",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "russian-drama",
+    "20th-century",
+    "realism",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

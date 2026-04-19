@@ -1,0 +1,33 @@
+{
+  "id": "infantry-drill-regulations-1911-excerpt",
+  "title": "Infantry Drill Regulations, U.S. Army, 1911 (Excerpt)",
+  "filename": "corpus/infantry-drill-regulations-1911-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/20866/pg20866.txt",
+  "source_name": "project-gutenberg",
+  "author": "United States War Department",
+  "content_type": "instruction-manual",
+  "domain": "military",
+  "tags": [
+    "military",
+    "drill",
+    "regulations",
+    "historical",
+    "army"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "1911 US Army Infantry Drill Regulations, excerpt",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "bibimbap-wiki",
+  "title": "Bibimbap",
+  "filename": "corpus/bibimbap-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Bibimbap",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "food",
+  "tags": [
+    "korean-cuisine",
+    "rice",
+    "bowl",
+    "vegetables"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

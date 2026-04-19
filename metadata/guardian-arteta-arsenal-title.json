@@ -1,0 +1,31 @@
+{
+  "id": "guardian-arteta-arsenal-title",
+  "title": "Guardian: Arteta's desire for complete control may derail Arsenal's wobbling title drive",
+  "filename": "corpus/guardian-arteta-arsenal-title.md",
+  "source_url": "https://www.theguardian.com/football/2026/apr/18/artetas-desire-for-complete-control-may-derail-arsenals-wobbling-title-drive",
+  "source_name": "guardian",
+  "content_type": "op-ed",
+  "domain": "sports",
+  "tags": [
+    "sports",
+    "football",
+    "arsenal",
+    "opinion",
+    "guardian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

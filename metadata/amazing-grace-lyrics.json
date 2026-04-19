@@ -1,0 +1,31 @@
+{
+  "id": "amazing-grace-lyrics",
+  "title": "Amazing Grace",
+  "filename": "corpus/amazing-grace-lyrics.md",
+  "source_url": "https://en.wikisource.org/wiki/Amazing_Grace",
+  "source_name": "wikisource",
+  "author": "John Newton",
+  "content_type": "song-lyrics",
+  "domain": "music",
+  "tags": [
+    "hymn",
+    "christian",
+    "spiritual",
+    "18th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

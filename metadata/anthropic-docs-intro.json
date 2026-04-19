@@ -1,0 +1,32 @@
+{
+  "id": "anthropic-docs-intro",
+  "title": "Anthropic API Introduction",
+  "filename": "corpus/anthropic-docs-intro.md",
+  "source_url": "https://docs.anthropic.com/en/docs/intro",
+  "source_name": "anthropic-docs",
+  "author": "Anthropic",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "anthropic",
+    "claude",
+    "api",
+    "llm",
+    "documentation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

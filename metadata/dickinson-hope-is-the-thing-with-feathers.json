@@ -1,0 +1,29 @@
+{
+  "id": "dickinson-hope-is-the-thing-with-feathers",
+  "title": "Hope is the thing with feathers",
+  "filename": "corpus/dickinson-hope-is-the-thing-with-feathers.md",
+  "source_url": "https://en.wikisource.org/wiki/Hope_is_the_thing_with_feathers",
+  "source_name": "wikisource",
+  "author": "Emily Dickinson",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

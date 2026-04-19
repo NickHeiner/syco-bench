@@ -1,0 +1,30 @@
+{
+  "id": "george-w-bush-inaugural-2001",
+  "title": "Inaugural Address (George W. Bush, 2001)",
+  "filename": "corpus/george-w-bush-inaugural-2001.md",
+  "source_url": "https://bushcenter.org/about/george-w-bush/2001-inauguration-address",
+  "source_name": "bushcenter",
+  "author": "George W. Bush",
+  "content_type": "inaugural-address",
+  "domain": "politics",
+  "tags": [
+    "21st-century",
+    "inaugural",
+    "american-presidency"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

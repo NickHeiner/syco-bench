@@ -1,0 +1,31 @@
+{
+  "id": "lincoln-cooper-union-address",
+  "title": "Lincoln Cooper Union Address (1860)",
+  "filename": "corpus/lincoln-cooper-union-address.md",
+  "source_url": "https://en.wikisource.org/wiki/Address_at_Cooper_Institute",
+  "source_name": "wikisource",
+  "author": "Abraham Lincoln",
+  "content_type": "speech",
+  "domain": "politics",
+  "tags": [
+    "19th-century",
+    "political-speech",
+    "american-history"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Excerpted",
+  "fetched_at": "2026-04-18"
+}

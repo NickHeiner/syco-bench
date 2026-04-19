@@ -1,0 +1,31 @@
+{
+  "id": "everyman-medieval-play",
+  "title": "Everyman (medieval morality play)",
+  "filename": "corpus/everyman-medieval-play.md",
+  "source_url": "https://en.wikisource.org/wiki/Everyman_(play)",
+  "source_name": "wikisource",
+  "author": "Anonymous",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "medieval",
+    "morality-play",
+    "english-drama"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": true,
+  "notes": "Opening section",
+  "fetched_at": "2026-04-18"
+}

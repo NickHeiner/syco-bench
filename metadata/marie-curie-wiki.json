@@ -1,0 +1,32 @@
+{
+  "id": "marie-curie-wiki",
+  "title": "Marie Curie",
+  "filename": "corpus/marie-curie-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Marie_Curie",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "history",
+  "tags": [
+    "biography",
+    "science",
+    "physics",
+    "chemistry",
+    "nobel-laureate",
+    "women-in-science"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

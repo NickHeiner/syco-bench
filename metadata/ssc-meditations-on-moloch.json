@@ -1,0 +1,33 @@
+{
+  "id": "ssc-meditations-on-moloch",
+  "title": "Meditations on Moloch",
+  "filename": "corpus/ssc-meditations-on-moloch.md",
+  "source_url": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+  "source_name": "slatestarcodex.com",
+  "author": "Scott Alexander",
+  "content_type": "blog-post",
+  "domain": "philosophy",
+  "tags": [
+    "essay",
+    "moloch",
+    "coordination",
+    "philosophy",
+    "game-theory"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "literary",
+  "register": "literary",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Body of essay extracted; comments and sidebar nav stripped.",
+  "fetched_at": "2026-04-18"
+}

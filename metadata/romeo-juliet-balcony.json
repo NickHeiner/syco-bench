@@ -1,0 +1,33 @@
+{
+  "id": "romeo-juliet-balcony",
+  "title": "Romeo and Juliet, Act II Scene II (Balcony Scene)",
+  "filename": "corpus/romeo-juliet-balcony.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/1112/pg1112.txt",
+  "source_name": "project-gutenberg",
+  "author": "William Shakespeare",
+  "content_type": "stage-play",
+  "domain": "literature",
+  "tags": [
+    "shakespeare",
+    "tragedy",
+    "romance",
+    "elizabethan",
+    "balcony-scene"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act II Scene II — the balcony scene",
+  "fetched_at": "2026-04-18"
+}

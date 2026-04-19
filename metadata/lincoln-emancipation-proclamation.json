@@ -1,0 +1,30 @@
+{
+  "id": "lincoln-emancipation-proclamation",
+  "title": "Emancipation Proclamation (1863)",
+  "filename": "corpus/lincoln-emancipation-proclamation.md",
+  "source_url": "https://en.wikisource.org/wiki/Emancipation_Proclamation",
+  "source_name": "wikisource",
+  "author": "Abraham Lincoln",
+  "content_type": "historical-document",
+  "domain": "politics",
+  "tags": [
+    "19th-century",
+    "american-civil-war",
+    "executive-order"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

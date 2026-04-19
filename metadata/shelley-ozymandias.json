@@ -1,0 +1,30 @@
+{
+  "id": "shelley-ozymandias",
+  "title": "Ozymandias",
+  "filename": "corpus/shelley-ozymandias.md",
+  "source_url": "https://en.wikisource.org/wiki/Ozymandias_(Shelley)",
+  "source_name": "wikisource",
+  "author": "Percy Bysshe Shelley",
+  "content_type": "sonnet",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "romantic",
+    "sonnet"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

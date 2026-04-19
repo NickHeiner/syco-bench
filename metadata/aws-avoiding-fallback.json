@@ -1,0 +1,32 @@
+{
+  "id": "aws-avoiding-fallback",
+  "title": "Avoiding fallback in distributed systems",
+  "filename": "corpus/aws-avoiding-fallback.md",
+  "source_url": "https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/",
+  "source_name": "aws-builders-library",
+  "author": "Jacob Gabrielson, Amazon",
+  "content_type": "engineering-blog-post",
+  "domain": "technology",
+  "tags": [
+    "aws",
+    "distributed-systems",
+    "fallback",
+    "reliability",
+    "architecture"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

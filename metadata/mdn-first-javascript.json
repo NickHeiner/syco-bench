@@ -1,0 +1,30 @@
+{
+  "id": "mdn-first-javascript",
+  "title": "A First Splash into JavaScript",
+  "filename": "corpus/mdn-first-javascript.md",
+  "source_url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/A_first_splash",
+  "source_name": "mdn",
+  "content_type": "tutorial",
+  "domain": "technology",
+  "tags": [
+    "javascript",
+    "web-development",
+    "tutorial"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "instructional",
+  "register": "technical",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "MDN Web Docs",
+  "fetched_at": "2026-04-18"
+}

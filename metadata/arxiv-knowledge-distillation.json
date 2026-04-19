@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-knowledge-distillation",
+  "title": "Distilling the Knowledge in a Neural Network (Hinton et al.)",
+  "filename": "corpus/arxiv-knowledge-distillation.md",
+  "source_url": "https://arxiv.org/abs/1503.02531",
+  "source_name": "arxiv",
+  "author": "Hinton, Vinyals, Dean",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "knowledge-distillation",
+    "neural-networks",
+    "model-compression"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

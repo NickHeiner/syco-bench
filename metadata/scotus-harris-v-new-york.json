@@ -1,0 +1,32 @@
+{
+  "id": "scotus-harris-v-new-york",
+  "title": "Harris v. New York (1971) — Majority Opinion",
+  "filename": "corpus/scotus-harris-v-new-york.md",
+  "source_url": "https://supreme.justia.com/cases/federal/us/403/29/",
+  "source_name": "justia",
+  "author": "Chief Justice Warren Burger",
+  "content_type": "court-opinion",
+  "domain": "law",
+  "tags": [
+    "supreme-court",
+    "burger-court",
+    "miranda-impeachment",
+    "criminal-procedure"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "1971 case on using Miranda-violating statements for impeachment",
+  "fetched_at": "2026-04-18"
+}

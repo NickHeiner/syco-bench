@@ -1,0 +1,30 @@
+{
+  "id": "magna-carta",
+  "title": "Magna Carta (1215)",
+  "filename": "corpus/magna-carta.md",
+  "source_url": "https://en.wikisource.org/wiki/Magna_Carta",
+  "source_name": "wikisource",
+  "author": "King John and English barons",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "medieval",
+    "english-law",
+    "constitutional-history"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

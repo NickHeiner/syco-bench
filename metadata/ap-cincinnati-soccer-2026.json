@@ -1,0 +1,32 @@
+{
+  "id": "ap-cincinnati-soccer-2026",
+  "title": "AP: Barlow, Evander score goals for Cincinnati in 3-3 tie with Fire",
+  "filename": "corpus/ap-cincinnati-soccer-2026.md",
+  "source_url": "https://apnews.com/article/fire-cincinnati-score-5bda60c586ba328767ca17933703e4b3",
+  "source_name": "ap",
+  "content_type": "news-article",
+  "domain": "sports",
+  "tags": [
+    "sports",
+    "soccer",
+    "mls",
+    "cincinnati",
+    "ap",
+    "wire-report"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

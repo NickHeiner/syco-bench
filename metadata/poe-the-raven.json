@@ -1,0 +1,30 @@
+{
+  "id": "poe-the-raven",
+  "title": "The Raven",
+  "filename": "corpus/poe-the-raven.md",
+  "source_name": "project-gutenberg",
+  "author": "Edgar Allan Poe",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "gothic",
+    "narrative-poem",
+    "19th-century",
+    "american-literature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "llamacpp-readme",
+  "title": "llama.cpp README",
+  "filename": "corpus/llamacpp-readme.md",
+  "source_name": "github",
+  "content_type": "readme",
+  "domain": "technology",
+  "tags": [
+    "llama-cpp",
+    "llm",
+    "inference",
+    "cpp",
+    "gguf"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

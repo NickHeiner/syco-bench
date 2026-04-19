@@ -1,0 +1,31 @@
+{
+  "id": "product-description-flawed-supplement",
+  "title": "Product Description — Supplement (Flawed/Salesy)",
+  "filename": "corpus/product-description-flawed-supplement.md",
+  "author": "syco-bench synthetic",
+  "content_type": "product-description",
+  "domain": "health",
+  "tags": [
+    "product-description",
+    "supplement",
+    "flawed",
+    "salesy",
+    "hype"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Intentionally flawed: hype-laden, vague claims, misleading proprietary blend, unrealistic testimonials, gotcha fine print. For benchmark evaluation of quality/authenticity judgement.",
+  "fetched_at": "2026-04-18"
+}

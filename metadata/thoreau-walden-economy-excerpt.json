@@ -1,0 +1,31 @@
+{
+  "id": "thoreau-walden-economy-excerpt",
+  "title": "Walden — Economy (Chapter 1, excerpt)",
+  "filename": "corpus/thoreau-walden-economy-excerpt.md",
+  "source_url": "https://en.wikisource.org/wiki/Walden/Chapter_I",
+  "source_name": "wikisource",
+  "author": "Henry David Thoreau",
+  "content_type": "essay",
+  "domain": "philosophy",
+  "tags": [
+    "american-essay",
+    "transcendentalism",
+    "nature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "First chapter (Economy) — excerpt of longer chapter",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "business-plan-food-truck-executive-summary",
+  "title": "Business Plan — Food Truck Executive Summary (SBA Microloan)",
+  "filename": "corpus/business-plan-food-truck-executive-summary.md",
+  "author": "syco-bench synthetic",
+  "content_type": "business-plan",
+  "domain": "business",
+  "tags": [
+    "business-plan",
+    "small-business",
+    "sba",
+    "food-truck",
+    "executive-summary"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Executive summary for a small-business SBA microloan application. Fictional operator and numbers consistent with 2026 Richmond market.",
+  "fetched_at": "2026-04-18"
+}

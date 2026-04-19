@@ -1,0 +1,30 @@
+{
+  "id": "wikihow-start-vegetable-garden",
+  "title": "How to Start a Vegetable Garden",
+  "filename": "corpus/wikihow-start-vegetable-garden.md",
+  "source_url": "https://www.wikihow.com/Start-a-Vegetable-Garden",
+  "source_name": "wikihow",
+  "content_type": "wikihow-article",
+  "domain": "agriculture",
+  "tags": [
+    "gardening",
+    "vegetables",
+    "outdoor"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Wikihow CC-BY-NC-SA as fair-use",
+  "fetched_at": "2026-04-18"
+}

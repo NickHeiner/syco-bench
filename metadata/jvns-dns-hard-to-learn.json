@@ -1,0 +1,32 @@
+{
+  "id": "jvns-dns-hard-to-learn",
+  "title": "Why is DNS still hard to learn?",
+  "filename": "corpus/jvns-dns-hard-to-learn.md",
+  "source_url": "https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/",
+  "source_name": "jvns.ca",
+  "author": "Julia Evans",
+  "content_type": "engineering-blog-post",
+  "domain": "technology",
+  "tags": [
+    "dns",
+    "education",
+    "programming",
+    "networking",
+    "jvns"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-polarization-fluctuations-extragalactic",
+  "title": "Polarization fluctuations due to extragalactic sources",
+  "filename": "corpus/arxiv-polarization-fluctuations-extragalactic.md",
+  "source_name": "arxiv",
+  "author": "De Zotti et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "cosmology",
+    "cmb",
+    "extragalactic",
+    "polarization",
+    "astrophysics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

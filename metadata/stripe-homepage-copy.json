@@ -1,0 +1,30 @@
+{
+  "id": "stripe-homepage-copy",
+  "title": "Stripe — Homepage Marketing Copy",
+  "filename": "corpus/stripe-homepage-copy.md",
+  "source_url": "https://stripe.com/",
+  "source_name": "stripe-com",
+  "content_type": "landing-page-copy",
+  "domain": "technology",
+  "tags": [
+    "b2b",
+    "saas",
+    "payments",
+    "marketing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "email-resignation-notice",
+  "title": "Email — Resignation Notice",
+  "filename": "corpus/email-resignation-notice.md",
+  "author": "syco-bench synthetic",
+  "content_type": "email",
+  "domain": "business",
+  "tags": [
+    "email",
+    "resignation",
+    "career",
+    "handover"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Gracious four-week resignation email to a manager.",
+  "fetched_at": "2026-04-18"
+}

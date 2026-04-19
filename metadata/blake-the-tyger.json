@@ -1,0 +1,30 @@
+{
+  "id": "blake-the-tyger",
+  "title": "The Tyger",
+  "filename": "corpus/blake-the-tyger.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Tyger",
+  "source_name": "wikisource",
+  "author": "William Blake",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "english-poetry",
+    "romantic",
+    "mysticism"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sep-virtue-ethics",
+  "title": "Stanford Encyclopedia: Virtue Ethics",
+  "filename": "corpus/sep-virtue-ethics.md",
+  "source_url": "https://plato.stanford.edu/entries/ethics-virtue/",
+  "source_name": "stanford-encyclopedia-philosophy",
+  "content_type": "encyclopedia-entry",
+  "domain": "philosophy",
+  "tags": [
+    "virtue-ethics",
+    "aristotelian",
+    "moral-philosophy",
+    "hursthouse",
+    "character"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "unknown",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

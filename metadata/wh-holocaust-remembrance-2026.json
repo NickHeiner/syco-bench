@@ -1,0 +1,31 @@
+{
+  "id": "wh-holocaust-remembrance-2026",
+  "title": "White House: Presidential Message on the Days of Remembrance of Victims of the Holocaust",
+  "filename": "corpus/wh-holocaust-remembrance-2026.md",
+  "source_url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-the-days-of-remembrance-of-victims-of-the-holocaust/",
+  "source_name": "whitehouse-gov",
+  "content_type": "press-release",
+  "domain": "politics",
+  "tags": [
+    "politics",
+    "holocaust",
+    "remembrance",
+    "presidential-message",
+    "whitehouse"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "reverent",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

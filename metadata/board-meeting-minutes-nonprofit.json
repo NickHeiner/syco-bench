@@ -1,0 +1,29 @@
+{
+  "id": "board-meeting-minutes-nonprofit",
+  "title": "Nonprofit Board Meeting Minutes — Riverside Community Food Bank (Feb 2026)",
+  "filename": "corpus/board-meeting-minutes-nonprofit.md",
+  "content_type": "meeting-notes",
+  "domain": "business",
+  "tags": [
+    "board-meeting",
+    "nonprofit",
+    "governance",
+    "minutes"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "record",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "Hand-written realistic nonprofit board meeting minutes",
+  "fetched_at": "2026-04-18"
+}

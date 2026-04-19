@@ -1,0 +1,31 @@
+{
+  "id": "khan-academy-algebra-overview",
+  "title": "Khan Academy: Algebra 1 Overview",
+  "filename": "corpus/khan-academy-algebra-overview.md",
+  "source_url": "https://www.khanacademy.org/math/algebra",
+  "source_name": "khan-academy",
+  "content_type": "study-guide",
+  "domain": "mathematics",
+  "tags": [
+    "algebra",
+    "mathematics",
+    "khan-academy",
+    "study-guide"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Khan Academy source is CC-BY-NC-SA (not in allowed enum); recorded as fair-use-excerpt. Excerpt: Units 1-6.",
+  "fetched_at": "2026-04-18"
+}

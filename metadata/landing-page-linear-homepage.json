@@ -1,0 +1,32 @@
+{
+  "id": "landing-page-linear-homepage",
+  "title": "Landing Page Copy — Linear Homepage",
+  "filename": "corpus/landing-page-linear-homepage.md",
+  "source_url": "https://linear.app/homepage",
+  "source_name": "linear",
+  "author": "Linear",
+  "content_type": "landing-page-copy",
+  "domain": "technology",
+  "tags": [
+    "landing-page",
+    "saas",
+    "productivity",
+    "product-marketing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "notes": "Fetched from linear.app — landing-page copy. Fair-use excerpt.",
+  "fetched_at": "2026-04-18"
+}

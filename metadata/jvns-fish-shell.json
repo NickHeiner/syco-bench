@@ -1,0 +1,32 @@
+{
+  "id": "jvns-fish-shell",
+  "title": "Reasons I still love the fish shell",
+  "filename": "corpus/jvns-fish-shell.md",
+  "source_url": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
+  "source_name": "jvns.ca",
+  "author": "Julia Evans",
+  "content_type": "engineering-blog-post",
+  "domain": "technology",
+  "tags": [
+    "fish",
+    "shell",
+    "cli",
+    "programming",
+    "jvns"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

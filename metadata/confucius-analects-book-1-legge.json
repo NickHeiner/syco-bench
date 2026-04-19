@@ -1,0 +1,32 @@
+{
+  "id": "confucius-analects-book-1-legge",
+  "title": "Analects — Book 1 (Legge translation)",
+  "filename": "corpus/confucius-analects-book-1-legge.md",
+  "source_url": "https://en.wikisource.org/wiki/Analects_(Legge)/Book_I",
+  "source_name": "wikisource",
+  "author": "Confucius",
+  "content_type": "philosophy-text",
+  "domain": "philosophy",
+  "tags": [
+    "confucianism",
+    "chinese-philosophy",
+    "classical",
+    "translation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Book I only",
+  "fetched_at": "2026-04-18"
+}

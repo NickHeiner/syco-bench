@@ -1,0 +1,12 @@
+# Pastel de nata
+
+Pastel de nata (Portuguese: [pɐʃˈtɛl dɨ ˈnatɐ]; literally, cream pastry; pl.: pastéis de nata) is a Portuguese egg custard tart pastry, optionally dusted with cinnamon. Outside Portugal, they are particularly popular in other parts of Western Europe, former Portuguese colonies, such as Brazil, Mozambique, Macau, Goa, Malacca and Timor-Leste and other parts of Asia. The Macau variant has been adopted by KFC and is available in regions such as mainland China, Hong Kong, Taiwan, Thailand, South Korea, Singapore and Malaysia. In Indonesia, this pastry is especially popular in Kampung Tugu, Jakarta, a culturally Portuguese (Mardijker) enclave.
+
+## History
+
+Pastéis de nata tarts are pastries inspired by an original recipe called pastéis de Belém, which were created before the 18th century by Catholic monks at the Jerónimos Monastery in the civil parish of Belém, in Lisbon. At the time, convents and monasteries used large quantities of egg-whites for starching clothes, such as friars and nuns' religious habits. It was quite common for monasteries and convents to use the leftover egg yolks to make cakes and pastries, resulting in the proliferation of sweet pastry recipes throughout the country.
+In the aftermath of the Liberal Revolution of 1820, following the dissolution of religious orders and in the face of the impending closure of many convents and monasteries, the monks started selling pastéis de nata at a nearby sugar refinery to bring in revenue. In 1834, the monastery was closed and the recipe sold to the sugar refinery, whose owners opened the Fábrica de Pastéis de Belém in 1837. The descendants own the business to this day.
+
+Since the opening of Fábrica de Pastéis de Belém, the original recipe that inspired pastel de nata varieties is kept in a secret room. The Fábrica de Pastéis de Belém is, therefore, the only place in the world that produces the original pastry that inspired many variations commonly known as "pastéis de nata"; the shop is located just a short three-minute walk from the Jerónimos Monastery. The shop offers both takeout and sit-in services and sells over 20,000 pastéis a day. The tart is often sprinkled with canela (cinnamon).
+
+In 2009 The Guardian listed pastéis de Belém as one of the 50 "best things to eat" in the world. In 2011, following the result of a public vote, the pastry was announced as one of Portugal's Seven Wonders of Gastronomy, further cementing it as one of the country's most popular national dishes.

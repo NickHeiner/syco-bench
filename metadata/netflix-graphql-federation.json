@@ -1,0 +1,32 @@
+{
+  "id": "netflix-graphql-federation",
+  "title": "How Netflix Scales its API with GraphQL Federation",
+  "filename": "corpus/netflix-graphql-federation.md",
+  "source_url": "https://netflixtechblog.com/how-netflix-scales-its-api-with-graphql-federation-part-1-ae3557c187e2",
+  "source_name": "netflix-techblog",
+  "author": "Netflix Technology Blog",
+  "content_type": "engineering-blog-post",
+  "domain": "technology",
+  "tags": [
+    "netflix",
+    "graphql",
+    "api",
+    "federation",
+    "microservices"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

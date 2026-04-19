@@ -1,0 +1,33 @@
+{
+  "id": "ap-north-korea-missiles-2026",
+  "title": "AP: North Korea launches ballistic missiles toward sea (2026)",
+  "filename": "corpus/ap-north-korea-missiles-2026.md",
+  "source_url": "https://apnews.com/article/korea-north-south-ballistic-missiles-849909a708458d07d6171570dc83be19",
+  "source_name": "ap",
+  "author": "Hyung-Jin Kim, Mari Yamaguchi",
+  "content_type": "news-article",
+  "domain": "politics",
+  "tags": [
+    "north-korea",
+    "ballistic-missiles",
+    "wire-report",
+    "ap",
+    "politics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "AP wire report",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-adam-optimizer",
+  "title": "Adam: A Method for Stochastic Optimization",
+  "filename": "corpus/arxiv-adam-optimizer.md",
+  "source_url": "https://arxiv.org/abs/1412.6980",
+  "source_name": "arxiv",
+  "author": "Kingma, Ba",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "adam",
+    "stochastic-optimization",
+    "deep-learning",
+    "gradient-descent"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

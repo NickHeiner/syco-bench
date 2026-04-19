@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-amateur-screenplay",
+  "title": "Synthetic Amateur Screenplay — Warehouse Confrontation",
+  "filename": "corpus/synthetic-amateur-screenplay.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "screenplay",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "amateur",
+    "noir-pastiche",
+    "first-draft"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "narrative",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately amateur example — genre clichés, self-notes, inconsistent formatting. Synthetic, fictional.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "resume-senior-software-engineer",
+  "title": "Resume — Staff Software Engineer, 12 Years Experience",
+  "filename": "corpus/resume-senior-software-engineer.md",
+  "author": "syco-bench synthetic",
+  "content_type": "resume",
+  "domain": "technology",
+  "tags": [
+    "resume",
+    "senior",
+    "software-engineering",
+    "tech"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Fictional person and companies.",
+  "fetched_at": "2026-04-18"
+}

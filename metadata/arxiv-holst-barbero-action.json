@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-holst-barbero-action",
+  "title": "Barbero's Hamiltonian derived from a generalized Hilbert-Palatini action (Holst)",
+  "filename": "corpus/arxiv-holst-barbero-action.md",
+  "source_name": "arxiv",
+  "author": "Sören Holst",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "general-relativity",
+    "canonical-gravity",
+    "ashtekar-variables",
+    "loop-quantum-gravity"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

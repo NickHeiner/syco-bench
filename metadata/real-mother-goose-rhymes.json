@@ -1,0 +1,29 @@
+{
+  "id": "real-mother-goose-rhymes",
+  "title": "The Real Mother Goose (selected rhymes)",
+  "filename": "corpus/real-mother-goose-rhymes.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Real_Mother_Goose/The_Real_Mother_Goose",
+  "source_name": "wikisource",
+  "author": "Anonymous",
+  "content_type": "children-story",
+  "domain": "literature",
+  "tags": [
+    "nursery-rhymes",
+    "children-literature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "colloquial",
+  "audience": "children",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "anonymous",
+  "excerpted": true,
+  "fetched_at": "2026-04-18"
+}

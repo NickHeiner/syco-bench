@@ -1,0 +1,31 @@
+{
+  "id": "carroll-alice-ch1",
+  "title": "Alice's Adventures in Wonderland — Chapter 1",
+  "filename": "corpus/carroll-alice-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/Alice%27s_Adventures_in_Wonderland_(1866)/Chapter_1",
+  "source_name": "wikisource",
+  "author": "Lewis Carroll",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "children-literature",
+    "victorian",
+    "fantasy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "children",
+  "era": "1800-1900",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1 only",
+  "fetched_at": "2026-04-18"
+}

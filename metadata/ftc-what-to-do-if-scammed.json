@@ -1,0 +1,29 @@
+{
+  "id": "ftc-what-to-do-if-scammed",
+  "title": "What To Do if You Were Scammed",
+  "filename": "corpus/ftc-what-to-do-if-scammed.md",
+  "source_url": "https://www.consumer.ftc.gov/articles/what-do-if-you-were-scammed",
+  "source_name": "ftc",
+  "content_type": "how-to-guide",
+  "domain": "law",
+  "tags": [
+    "fraud",
+    "consumer-protection",
+    "scam-recovery"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

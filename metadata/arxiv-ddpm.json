@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-ddpm",
+  "title": "Denoising Diffusion Probabilistic Models (DDPM)",
+  "filename": "corpus/arxiv-ddpm.md",
+  "source_url": "https://arxiv.org/abs/2006.11239",
+  "source_name": "arxiv",
+  "author": "Ho, Jain, Abbeel",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "diffusion-models",
+    "generative-models",
+    "image-generation",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

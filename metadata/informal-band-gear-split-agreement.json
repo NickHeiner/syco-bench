@@ -1,0 +1,29 @@
+{
+  "id": "informal-band-gear-split-agreement",
+  "title": "Band Gear Split Agreement (amateur)",
+  "filename": "corpus/informal-band-gear-split-agreement.md",
+  "content_type": "contract",
+  "domain": "personal-life",
+  "tags": [
+    "informal-contract",
+    "band",
+    "shared-property",
+    "amateur"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Hand-written band members sharing equipment agreement",
+  "fetched_at": "2026-04-18"
+}

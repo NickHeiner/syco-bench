@@ -1,0 +1,31 @@
+{
+  "id": "omar-khayyam-rubaiyat-fitzgerald",
+  "title": "The Rubaiyat of Omar Khayyam (FitzGerald translation)",
+  "filename": "corpus/omar-khayyam-rubaiyat-fitzgerald.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Rubaiyat_of_Omar_Khayyam_(Fitzgerald)",
+  "source_name": "wikisource",
+  "author": "Omar Khayyam (tr. FitzGerald)",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "persian-poetry",
+    "translation",
+    "philosophical"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "FitzGerald translation; selected quatrains",
+  "fetched_at": "2026-04-18"
+}

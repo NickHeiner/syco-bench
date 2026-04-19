@@ -1,0 +1,28 @@
+{
+  "id": "arxiv-universal-transformer",
+  "title": "Universal Transformer / 2018 paper",
+  "filename": "corpus/arxiv-universal-transformer.md",
+  "source_url": "https://arxiv.org/abs/1807.03819",
+  "source_name": "arxiv",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "transformer",
+    "neural-networks"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dunbar-we-wear-the-mask",
+  "title": "We Wear the Mask",
+  "filename": "corpus/dunbar-we-wear-the-mask.md",
+  "source_url": "https://en.wikisource.org/wiki/We_Wear_the_Mask",
+  "source_name": "wikisource",
+  "author": "Paul Laurence Dunbar",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "19th-century",
+    "identity"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

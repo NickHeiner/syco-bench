@@ -1,0 +1,30 @@
+{
+  "id": "henry-james-future-of-novel",
+  "title": "The Future of the Novel (Henry James)",
+  "filename": "corpus/henry-james-future-of-novel.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Future_of_the_Novel",
+  "source_name": "wikisource",
+  "author": "Henry James",
+  "content_type": "essay",
+  "domain": "literature",
+  "tags": [
+    "literary-criticism",
+    "early-20th-century",
+    "novel"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

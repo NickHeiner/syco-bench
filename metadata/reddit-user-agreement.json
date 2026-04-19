@@ -1,0 +1,31 @@
+{
+  "id": "reddit-user-agreement",
+  "title": "Reddit User Agreement",
+  "filename": "corpus/reddit-user-agreement.md",
+  "source_url": "https://redditinc.com/policies/user-agreement",
+  "source_name": "reddit",
+  "content_type": "terms-of-service",
+  "domain": "business",
+  "tags": [
+    "terms-of-service",
+    "reddit",
+    "social-media",
+    "user-content"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "Reddit user agreement",
+  "fetched_at": "2026-04-18"
+}

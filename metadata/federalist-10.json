@@ -1,0 +1,32 @@
+{
+  "id": "federalist-10",
+  "title": "Federalist No. 10 — Union as Safeguard Against Faction",
+  "filename": "corpus/federalist-10.md",
+  "source_name": "project-gutenberg",
+  "author": "James Madison",
+  "content_type": "historical-document",
+  "domain": "politics",
+  "tags": [
+    "federalist-papers",
+    "founding-era",
+    "james-madison",
+    "political-philosophy",
+    "factions"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "1787 essay on faction; Gutenberg edition",
+  "fetched_at": "2026-04-18"
+}

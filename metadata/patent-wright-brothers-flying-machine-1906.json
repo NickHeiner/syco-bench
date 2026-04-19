@@ -1,0 +1,33 @@
+{
+  "id": "patent-wright-brothers-flying-machine-1906",
+  "title": "US Patent 821,393 — Wright Brothers Flying Machine (1906)",
+  "filename": "corpus/patent-wright-brothers-flying-machine-1906.md",
+  "source_url": "https://patents.google.com/patent/US821393",
+  "source_name": "google-patents",
+  "author": "Orville and Wilbur Wright",
+  "content_type": "patent",
+  "domain": "engineering",
+  "tags": [
+    "patent",
+    "wright-brothers",
+    "aviation",
+    "airplane",
+    "historical"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1900-1950",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Wright brothers wing-warping patent",
+  "fetched_at": "2026-04-18"
+}

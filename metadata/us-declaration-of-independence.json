@@ -1,0 +1,30 @@
+{
+  "id": "us-declaration-of-independence",
+  "title": "US Declaration of Independence (1776)",
+  "filename": "corpus/us-declaration-of-independence.md",
+  "source_url": "https://en.wikisource.org/wiki/Declaration_of_Independence_(1776)",
+  "source_name": "wikisource",
+  "author": "Second Continental Congress (Thomas Jefferson principal drafter)",
+  "content_type": "historical-document",
+  "domain": "politics",
+  "tags": [
+    "founding-documents",
+    "18th-century",
+    "american-history"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

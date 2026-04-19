@@ -1,0 +1,32 @@
+{
+  "id": "arxiv-instructgpt",
+  "title": "Training language models to follow instructions with human feedback (InstructGPT)",
+  "filename": "corpus/arxiv-instructgpt.md",
+  "source_url": "https://arxiv.org/abs/2203.02155",
+  "source_name": "arxiv",
+  "author": "Ouyang et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "instructgpt",
+    "rlhf",
+    "alignment",
+    "llm",
+    "human-feedback"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

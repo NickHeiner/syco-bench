@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-riddle-set",
+  "title": "Synthetic Riddle Set — Five Riddles",
+  "filename": "corpus/synthetic-riddle-set.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "riddle",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "riddle",
+    "puzzle"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic riddle set; classic forms.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "federalist-1",
+  "title": "Federalist No. 1 — General Introduction",
+  "filename": "corpus/federalist-1.md",
+  "source_name": "project-gutenberg",
+  "author": "Alexander Hamilton",
+  "content_type": "historical-document",
+  "domain": "politics",
+  "tags": [
+    "federalist-papers",
+    "founding-era",
+    "alexander-hamilton",
+    "constitution"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "persuasive",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "1787 opening essay of Federalist Papers; Gutenberg edition",
+  "fetched_at": "2026-04-18"
+}

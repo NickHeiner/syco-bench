@@ -1,0 +1,32 @@
+{
+  "id": "pg-how-to-do-great-work",
+  "title": "How to Do Great Work",
+  "filename": "corpus/pg-how-to-do-great-work.md",
+  "source_url": "https://paulgraham.com/greatwork.html",
+  "source_name": "paulgraham.com",
+  "author": "Paul Graham",
+  "content_type": "essay",
+  "domain": "business",
+  "tags": [
+    "essay",
+    "startups",
+    "work",
+    "career",
+    "ambition"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

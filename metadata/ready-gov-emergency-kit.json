@@ -1,0 +1,30 @@
+{
+  "id": "ready-gov-emergency-kit",
+  "title": "Build a Kit - Ready.gov",
+  "filename": "corpus/ready-gov-emergency-kit.md",
+  "source_url": "https://www.ready.gov/kit",
+  "source_name": "ready-gov",
+  "content_type": "how-to-guide",
+  "domain": "health",
+  "tags": [
+    "emergency-preparedness",
+    "safety",
+    "disaster",
+    "kit"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "instructional",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "listicle",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

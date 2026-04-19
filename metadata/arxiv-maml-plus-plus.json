@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-maml-plus-plus",
+  "title": "How to train your MAML (MAML++)",
+  "filename": "corpus/arxiv-maml-plus-plus.md",
+  "source_name": "arxiv",
+  "author": "Antoniou, Edwards, Storkey",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "meta-learning",
+    "maml",
+    "few-shot-learning",
+    "deep-learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

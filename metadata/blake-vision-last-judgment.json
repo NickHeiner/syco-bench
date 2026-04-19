@@ -1,0 +1,30 @@
+{
+  "id": "blake-vision-last-judgment",
+  "title": "A Vision of the Last Judgment",
+  "filename": "corpus/blake-vision-last-judgment.md",
+  "source_url": "https://en.wikisource.org/wiki/A_Vision_of_the_Last_Judgment_(Blake)",
+  "source_name": "wikisource",
+  "author": "William Blake",
+  "content_type": "essay",
+  "domain": "literature",
+  "tags": [
+    "english-literature",
+    "mysticism",
+    "art-criticism"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "experts",
+  "era": "pre-1800",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

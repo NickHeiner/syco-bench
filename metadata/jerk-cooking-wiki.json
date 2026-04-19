@@ -1,0 +1,31 @@
+{
+  "id": "jerk-cooking-wiki",
+  "title": "Jerk (cooking)",
+  "filename": "corpus/jerk-cooking-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Jerk_(cooking)",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "food",
+  "tags": [
+    "caribbean-cuisine",
+    "jamaican",
+    "grilling",
+    "chili",
+    "spice-rub"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

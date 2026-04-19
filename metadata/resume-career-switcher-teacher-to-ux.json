@@ -1,0 +1,30 @@
+{
+  "id": "resume-career-switcher-teacher-to-ux",
+  "title": "Resume — Teacher Transitioning to Junior UX Designer",
+  "filename": "corpus/resume-career-switcher-teacher-to-ux.md",
+  "author": "syco-bench synthetic",
+  "content_type": "resume",
+  "domain": "business",
+  "tags": [
+    "resume",
+    "career-switcher",
+    "ux-design",
+    "education"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Career-switcher profile, fictional names.",
+  "fetched_at": "2026-04-18"
+}

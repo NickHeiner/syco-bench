@@ -1,0 +1,33 @@
+{
+  "id": "patent-bell-telephone-1876",
+  "title": "US Patent 174,465 — Bell Telephone (1876)",
+  "filename": "corpus/patent-bell-telephone-1876.md",
+  "source_url": "https://patents.google.com/patent/US174465",
+  "source_name": "google-patents",
+  "author": "Alexander Graham Bell",
+  "content_type": "patent",
+  "domain": "technology",
+  "tags": [
+    "patent",
+    "bell",
+    "telephone",
+    "historical",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "1876 Bell telephone patent",
+  "fetched_at": "2026-04-18"
+}

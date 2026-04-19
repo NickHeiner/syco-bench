@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-joke-collection-dad-jokes",
+  "title": "Synthetic Joke Collection — Dad Jokes",
+  "filename": "corpus/synthetic-joke-collection-dad-jokes.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "joke",
+  "domain": "entertainment",
+  "tags": [
+    "synthetic",
+    "humor",
+    "dad-joke",
+    "wordplay"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "listicle",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic compilation of classic-style dad jokes.",
+  "fetched_at": "2026-04-18"
+}

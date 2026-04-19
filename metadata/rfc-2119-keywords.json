@@ -1,0 +1,32 @@
+{
+  "id": "rfc-2119-keywords",
+  "title": "RFC 2119 - Key words for use in RFCs to Indicate Requirement Levels",
+  "filename": "corpus/rfc-2119-keywords.md",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc2119",
+  "source_name": "ietf",
+  "author": "S. Bradner",
+  "content_type": "rfc",
+  "domain": "technology",
+  "tags": [
+    "rfc",
+    "standards",
+    "keywords",
+    "protocol",
+    "ietf"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

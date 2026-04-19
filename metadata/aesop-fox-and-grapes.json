@@ -1,0 +1,30 @@
+{
+  "id": "aesop-fox-and-grapes",
+  "title": "The Fox and the Grapes (Aesop)",
+  "filename": "corpus/aesop-fox-and-grapes.md",
+  "source_url": "https://en.wikisource.org/wiki/Aesop%27s_Fables_(V._S._Vernon_Jones)/The_Fox_and_the_Grapes",
+  "source_name": "wikisource",
+  "author": "Aesop",
+  "content_type": "fable",
+  "domain": "literature",
+  "tags": [
+    "fable",
+    "classical",
+    "moral"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

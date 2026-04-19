@@ -1,0 +1,32 @@
+{
+  "id": "guardian-french-slavery-apology",
+  "title": "Guardian: French man, 86, issues historic apology for family's role in transatlantic slavery",
+  "filename": "corpus/guardian-french-slavery-apology.md",
+  "source_url": "https://www.theguardian.com/world/2026/apr/18/french-man-86-issues-historic-apology-for-familys-role-in-transatlantic-slavery",
+  "source_name": "guardian",
+  "content_type": "feature-article",
+  "domain": "history",
+  "tags": [
+    "history",
+    "slavery",
+    "france",
+    "guardian",
+    "apology",
+    "feature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

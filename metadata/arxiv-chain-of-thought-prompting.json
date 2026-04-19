@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-chain-of-thought-prompting",
+  "title": "Chain-of-Thought Prompting (abstract)",
+  "filename": "corpus/arxiv-chain-of-thought-prompting.md",
+  "source_url": "https://arxiv.org/abs/2201.11903",
+  "source_name": "arxiv",
+  "author": "Wei et al.",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "prompting",
+    "reasoning",
+    "llm",
+    "chain-of-thought"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "basecamp-shapeup-landing",
+  "title": "Basecamp — Shape Up Landing Page",
+  "filename": "corpus/basecamp-shapeup-landing.md",
+  "source_url": "https://basecamp.com/shapeup",
+  "source_name": "basecamp-com",
+  "content_type": "landing-page-copy",
+  "domain": "business",
+  "tags": [
+    "manifesto-style",
+    "product-management",
+    "marketing"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

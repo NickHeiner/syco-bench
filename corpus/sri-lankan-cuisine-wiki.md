@@ -1,0 +1,142 @@
+# Sri Lankan cuisine
+
+Sri Lankan cuisine is known for its particular combinations of herbs, spices, fish, vegetables, rices, and fruits. The cuisine is highly centered around many varieties of rice, as well as coconut which is a ubiquitous plant throughout the country. Seafood also plays a significant role in the cuisine, be it fresh fish or preserved fish. As a country that was a hub in the historic oceanic silk road, contact with foreign traders brought new food items and cultural influences in addition to the local traditions of the country's ethnic groups, all of which have helped shape Sri Lankan cuisine. Influences from Indian (particularly South Indian), Indonesian and Dutch cuisines are most evident with Sri Lankan cuisine sharing close ties to other neighbouring South and Southeast Asian cuisines.
+Sri Lanka is historically famous for its cinnamon. The 'true cinnamon' tree, or Cinnamomum verum, used to be botanically named Cinnamomum zeylanicum to reflect its Sri Lankan origins. This is a widely utilized spice in Sri Lanka, and has a more delicate, sweet taste in comparison to Cinnamomum cassia, which is more common in some other Southeast Asian cuisines. Contrasting the local cuisine with those of neighbouring regions, Sri Lankan cuisine is characterized by unique spice blends with heavy use of Sri Lankan cinnamon and black pepper, as well as by the use of ingredients such as Maldives fish, goraka (Garcinia cambogia), pandan leaf, lemongrass, and jaggery made from kithul palm syrup. Sri Lanka is also a consumer of many varieties of red rice, some of which are considered heirloom rices in the country. Tea is also an important beverage throughout the country, and Sri Lanka is known for producing some of the world's finest tea.
+
+## Regions
+In areas located on the island's coasts, seafood is a standard feature of the local dishes. Tamil cuisine, especially in Jaffna, shares many similarities with South Indian cuisine. Kandyan Sinhalese cooking is based on local ingredients, including hill vegetables and fruits.
+
+## Common ingredients
+Herbs: pandan leaf (rampe), curry leaf (karapincha), shallot, goraka, lemongrass, tamarind, garlic, ginger, lime, cayenne pepper, tabasco pepper
+Fish: Maldives fish, dried fish, mackerel, tuna, shark, sprats, fermented preserved fish
+Fruits: bananas, mangoes, pineapple, soursop, guava, avocado, orange
+Grains: white rice (some common varieties are Samba, Kekulu, and Suwandel), red rice (some common varieties are Kekulu, Pachchaperumal, Kaluheenati, and Madathawalu), finger millet, hog millet, olu haal (water lily seed)
+Meats: chicken, beef, pork, mutton
+Oils:  coconut oil, sesame oil, cow ghee, buffalo ghee, mustard oil
+Spices: cinnamon, black pepper, fennel, cardamom, cloves, fenugreek, nutmeg, mace, cumin,  coriander,  turmeric
+Sweeteners: kithul jaggery, coconut jaggery, palmyrah jaggery
+Vegetables and greens: gotukola, green papaya, snake beans, bitter melon, snake gourd, luffa, pumpkin, winged bean, moringa
+Yams, roots and tubers: lotus root, purple yam, tapioca, kohila (Lasia spinosa), Arrowleaf elephant's ear
+Other: Coconut milk and grated coconut are ubiquitous in the cuisine, and are freshly prepared almost every day in most households. Maldives fish is heavily used in vegetable dishes to add an umami flavour.
+
+## Dishes
+
+### Rice and curry
+
+The central feature of Sri Lankan cuisine is boiled or steamed rice, served with a curry of fish or meat, along with other curries made with vegetables, lentils, or fruits.
+Dishes are accompanied by pickled fruits or vegetables, chutneys, and sambols. Coconut sambol is especially common, a paste of ground coconut mixed with chili peppers, dried Maldives fish, and lime juice.
+
+### Kiribath
+
+Kiribath or paal soru (lit. 'milk rice')  is rice cooked in salted coconut milk until the grains turn soft and porridge-like. Generally eaten for breakfast, kiribath is also prepared on special occasions such as birthdays, New Years' and religious festivals. It is usually served with lunu miris, a relish made with red onions and chillies. There is also a method of cooking kiribath with mung beans. During Aluth Avurudu/Puthandu, the Sinhalese/Tamil New Year, kiribath is served with sweets such as kavum, kokis, mung kavum, od iba, and others.
+
+### Kottu
+
+Kottu is a spicy stir-fry of shredded roti bread with vegetables. Optional ingredients include eggs, meat, or cheese. It was invented in Colombo and literally means 'chopped roti'.
+
+### Hoppers
+
+Hoppers (appam in Tamil, appa in Sinhala) are based on a fermented batter, usually made of rice flour and coconut milk with spices.  The dish is pan-fried or steamed. The fermenting agent is palm toddy or yeast. Hopper variants can either be spicy (such as egg hoppers, milk hoppers, and string hoppers), or sweet (such as vandu appa and pani appa). Spicy hoppers are often accompanied by lunu miris, a mix of red onions and spices.
+
+### String hoppers
+
+String hoppers (idiyappam in Tamil) are made from a hot-water dough of rice meal or wheat flour. The dough is pressed out in circlets from a string mold onto small wicker mats, and then steamed. This dish is typically not eaten plain and is often paired with a curry, such as kiri hodi.
+
+### Lamprais
+
+A Dutch Burgher-influenced dish, lamprais is rice boiled in stock accompanied by frikkadels (frikadeller meatballs), a mixed-meat curry, blachan, aubergine curry, and seeni sambol.  All of this is then wrapped in a banana leaf and baked in an oven. Lamprais is common at large gatherings due to a long preparation time and heaviness. Lamprais is cooked twice; first the rice and the entrees are cooked separately and later what is already cooked is wrapped in a banana leaf and baked in an oven.
+
+### Kool
+Kool is a seafood broth from Jaffna containing crab, fish, cuttlefish, prawns, and crayfish.  It also contains long beans, jak seeds, manioc, spinach, and tamarind. The dish is thickened with palmyra root flour.
+
+### Pittu
+
+Pittu are cylinders of steamed or roasted rice flour mixed with grated coconut.
+
+### Roti
+
+Godamba roti is a simpler Sri Lankan flatbread usually made from wheat flour.
+The most popular roti is Pol roti, where shredded coconut is mixed into the dough, and lacks a leavening agent. Another variant is spicy roti, in which chopped onions and green chilies are added to the dough.
+
+### Sambal
+
+Sambals (Sambol in Sinhala) are eaten with many dishes including curry dishes and string hoppers. Seeni sambol, Pol sambol, Lunumiris, Gotukola sambal and Vaalai kai sambal are common sambols found in the country.
+
+### Mallung
+
+Mallung is a condiment or side dish, comprising chopped greens which are lightly cooked and mixed with grated coconut and red onions.
+
+### Malay achcharu
+Malay achcharu, also known as Sri Lankan Malay pickle or simply as achcharu is a dish that originated from the local Malay community and is now widely popular among all ethnic groups in the country. It is a selection of vegetables in a pickled sauce and blends sweet, sour and spicy flavours.
+
+### Sri Lankan Chinese
+Chinese restaurants have been common in Sri Lanka, especially in Colombo, since the 1940s. Over time, the cuisine was adapted to suit the local palate, and Sri Lankan Chinese food was born. Several dishes and condiments—such as Hot butter cuttlefish and Chinese Chili paste—are commonly found in most restaurants and supermarkets.
+
+### Babath
+Babath or offal consists of the stomach of cattle or goats. It is cooked as a curry or deep fried and eaten with rice or more famously with Pittu. Its origins are associated with the Sri Lankan Malay community but it is very common among the Moors community as well. The preparation of babath also consists of Kodal or the intestines of the animal.
+
+### Sate
+
+Sate is of Indonesian origin and has become a staple of the Sri Lankan diet. They are served with peanut and chili sauce.
+
+### Ekor sop
+Ekor sop, oxtail soup, is a delicacy of the Sri Lankan Malay community.
+
+### Nasi goreng and mee goreng
+Nasi goreng (Sinhala: නසි ගොරේඟ්) and mee goreng are popular street food dishes in the country, a result of cultural influences from Indonesia and the country's local Malay community.
+
+## Sweets
+
+A common dessert in Sri Lanka is kevum, an oil cake made with rice flour and treacle and deep-fried to a golden brown. There are many variations of kevum. Moong kevum is a variant in which mung bean flour is made into a paste and shaped like diamonds before frying. Other types of kevum include athiraha, konda kevum, athirasa, and handi kevum.
+A simple home dessert is buffalo curd, often served with kithul treacle.
+Many sweets are served with kiribath milk rice during the Sinhalese and Tamil New Years.
+Other sweets include:
+Cakes and pastries:
+
+Aluwa – Diamond-shaped rice-flour pastries
+Bolo fiado – A Portuguese-style layer cake
+Bibikkan – A rich, cake-like sweet made from grated coconut, coconut treacle, and wheat flour. It is a specialty of coastal areas.
+Kokis – A savoury crispy biscuit-like dish made from rice flour and coconut milk.
+Pushnambu/wandu appa – A rich, cake-like sweet made from coconut treacle and wheat flour. Cinnamon or cardamom and sweet cumin is often added among the Christian population of Sri Lanka.
+Seenakku – A glutinous rice cake often served with grated coconut.
+Treacle-flavored sweets:
+
+Undu walalu (undu wal) or pani walalu – A sweet from the Mathale area, prepared using urad bean flour and kithul treacle.
+Aggala – Rice balls flavored with treacle.
+Weli thalapa – Made from rice flour and coconut treacle.
+Aasmi – Made with rice flour and the juice of a leaf called dawul kurundu (okra juice can be used as a substitute), deep-fried and topped with pink-coloured treacle.
+Puddings and toffees:
+
+Kalu dodol – A solid toffee-, jelly-like confection made by lengthy reduction of coconut milk, thickened with rice flour and sweetened with jaggery.
+Watalappam – A steamed pudding made with coconut milk, eggs, and jaggery. First introduced by Malay immigrants, watalappam has become a common Sri Lankan dessert.
+Other sweets:
+
+Thala guli – Made from ground sesame, desiccated coconut, jaggery, and salt.
+Kiri aluwa or milk toffee – Made with sweetened condensed milk or sugar-thickened pure cow's milk. Cardamom or sweet cumin and cashews are added for more taste.
+
+## Short eats
+"Short eats" (colloquially called "shorties") are a ubiquitous category of savory and sweet snacks in Sri Lanka, encompassing items such as patties, cutlets, rolls, samosas, pies, and buns. Though now deeply ingrained in Sri Lankan culture, their origins are a fusion of colonial culinary influences adapted and "Sri Lankanised" over the past 80 years. The diverse array of short eats reflects the island's history of foreign presence. European influences (British, Dutch, Portuguese) contributed pies, pastries, fish patties, and the likely ancestor of the breadcrumb-coated cutlet (from the Portuguese bolinho). Meanwhile Indians introduced samosas and vadais, while Chinese settler communities introduced the breadcrumb-coated "Chinese roll," a spicy, deep-fried spring roll distinct from those found in China, similar to spring roll and egg roll. Actually Cutlet and Chinese roll are croquette.
+The overarching concept of a mid-morning or afternoon snack to accompany tea was inspired by the English tradition of afternoon tea. The proliferation of short eats began in earnest during World War II (early 1940s), when bakeries expanded their offerings to cater to the significant European population. This initial adaptation for foreign palates gradually evolved into the distinctively Sri Lankan short eats known today.
+By the 1960s, bakeries like Perera & Sons were widely selling these items. Their popularity expanded significantly in the 1970s, becoming a daily staple in Colombo and subsequently spreading across the island. The commercialization of Sri Lankan society in the 1980s further cemented their role as convenient and efficient food options for busy lifestyles. While derived from foreign concepts, short eats have been thoroughly transformed into a unique and enduring aspect of Sri Lankan culinary identity. These are eaten on the go, mainly for breakfast or during the evening.
+Common short eats include:
+
+Vade - savoury deep-fried fritters made from various ingredients. Varieties include parippu vade (lentils), ulundu vade (black gram and rice), isso (shrimp) vade, crab vade
+Rolls or egg rolls, which often contain minced meats, potatoes, and vegetables. Meat options include chicken, mutton, seafood or just egg.
+Fish patty
+Patties and pastries  - filled with vegetables, meat, or fish
+Vegetable/fish roti - a flatbread with a filling rolled into a triangular shape and baked
+Fish buns/Malu pan -  a brioche bun filled with a spicy potato and mackerel filling. Best for a savory breakfast or as a snack or to serve with tea.
+Hot butter cuttlefish - fried cuttlefish in a spiced butter sauce
+Short eats are served at parties or to guests when they visit a home. Western food such as hot dogs and hamburgers have arrived in Sri Lanka, with the globalization of fast-food chains such as McDonald's, KFC and Pizza Hut. However, foods from these establishments are not usually considered short eats. Additionally, hot dogs and hamburgers are also modified to fit local tastes.
+
+## Beverages
+Beverages commonly served in Sri Lanka include:
+
+Faluda – a mixture of syrup, ice cream, jelly pieces and basil seeds, served cold
+Fruit juice – including lime and passionfruit juice
+King coconut water
+Tea
+Toddy – a mildly alcoholic drink made from palm tree sap
+Arrack – an alcoholic spirit made from the fermented sap of the coconut flower.
+Wood apple juice
+Kirala juice

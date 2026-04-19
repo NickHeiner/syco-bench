@@ -1,0 +1,30 @@
+{
+  "id": "o-henry-gift-of-the-magi",
+  "title": "The Gift of the Magi",
+  "filename": "corpus/o-henry-gift-of-the-magi.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Gift_of_the_Magi",
+  "source_name": "wikisource",
+  "author": "O. Henry",
+  "content_type": "short-story",
+  "domain": "literature",
+  "tags": [
+    "american-fiction",
+    "christmas",
+    "short-fiction"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

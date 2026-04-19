@@ -1,0 +1,32 @@
+{
+  "id": "guardian-iran-war-bets",
+  "title": "Guardian: Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+  "filename": "corpus/guardian-iran-war-bets.md",
+  "source_url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+  "source_name": "guardian",
+  "content_type": "investigative-report",
+  "domain": "business",
+  "tags": [
+    "investigative",
+    "finance",
+    "iran",
+    "war",
+    "prediction-markets",
+    "guardian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

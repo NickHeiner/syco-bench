@@ -1,0 +1,31 @@
+{
+  "id": "irs-procedures-faq",
+  "title": "IRS Procedures FAQ",
+  "filename": "corpus/irs-procedures-faq.md",
+  "source_url": "https://www.irs.gov/faqs/irs-procedures",
+  "source_name": "irs",
+  "content_type": "faq",
+  "domain": "finance",
+  "tags": [
+    "taxes",
+    "irs",
+    "faq",
+    "procedures"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "qa",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "IRS procedures FAQ page",
+  "fetched_at": "2026-04-18"
+}

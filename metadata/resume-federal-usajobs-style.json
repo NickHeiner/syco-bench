@@ -1,0 +1,31 @@
+{
+  "id": "resume-federal-usajobs-style",
+  "title": "Resume — Federal USAJOBS Format (GS-12 Program Analyst)",
+  "filename": "corpus/resume-federal-usajobs-style.md",
+  "author": "syco-bench synthetic",
+  "content_type": "resume",
+  "domain": "politics",
+  "tags": [
+    "resume",
+    "federal",
+    "usajobs",
+    "government",
+    "gs-12"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "persuade",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Federal-style resume following USAJOBS conventions (duties narratives, grades, salary, supervisor contact).",
+  "fetched_at": "2026-04-18"
+}

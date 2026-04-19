@@ -1,0 +1,17 @@
+# Feijoada
+
+Feijoada (European Portuguese: [fɐjˈʒwaðɐ], Brazilian Portuguese: [fejʒuˈadɐ]; from feijão, 'bean') is the name for varieties of bean stew with beef or pork prepared in the Portuguese-speaking world.
+Feijoada is a common name given to dishes from Portuguese-speaking countries such as Portugal, Brazil, Angola, East Timor, Mozambique, and Macau, where it is made from a mixture of meat and white, black, or red beans, usually accompanied by rice.
+
+## History
+Meat (pork) stew with vegetables can be traced to ancient Roman cuisine. The dish spread with the Roman Empire and gave rise to dishes such as the French cassoulet, the Milanese cassoeula, the Romanian fasole cu cârnați, the fabada asturiana from Northwestern Spain, the Spanish cocido madrileño and olla podrida, and the feijoada of Minho Province in Northern Portugal.
+The creation and name of feijoada are related to Portuguese ways of making it, from the regions of Estremadura, Beiras, Trás-os-Montes and Alto Douro, which mix various types of beans - except black beans (of American origin) - sausages, ears and pigs' feet.
+The Portuguese version of feijoada originates mainly in the north of the country, where it is cooked with white beans in the northwest (Minho and Douro) or red beans in the northeast (Trás-os-Montes), and usually also includes other vegetables (tomatoes, carrots or kale) along with pork or beef, to which chorizo, blood sausage or farinheira can be added. Black beans and leftover pork were used by the enslaved Africans to create the inventive cuisine known as feijoada in colonial Brazil in the eighteenth century. During slavery, it combined Portuguese, African, and indigenous culinary traditions, according to historical consensus from the University of Sao Paulo (2015). By the 19 century, it had transformed from a working-class supper to Brazil's national dish, which is typically served on Saturday. According to some theories, it originates from a cuisine that is popular in Portugal due to its national appeal. However, this has been disregarded. According to Culture Trip, historians contend that if that were the case, it would not be a well-liked meal in many African countries, including Angola, Mozambique, and Cape Verde, where there are numerous recipes.
+
+## Regional variations
+
+### Brazil
+
+Raul Lody, a culinary expert, contends that the African presence in plantation kitchens, where enslaved women wearing vibrant turbans were rumored to sing while stirring abundant clay pots, is why feijoada has come to be known as "slave food." The idealization of slavery in this picture obscures the brutality and oppression that Africans actually endured. Feijoada is still a popular dish for ceremonial occasions like weddings, birthdays, and religious festivals since it is a historical representation of communities coming together.Brazil's national food, enjoyed leisurely with friends, family, music, and discussion, is as much a meal as an occasion and a symbol of culture from Rio de Janeiro to São Paulo.In addition to having a big influence on Brazilian food, feijoada has also had an impact on other international cuisines. The meal has gained popularity on menus in numerous Brazilian eateries outside of Brazil and has even served as the model for recipes in other nations. Feijoada has emerged as Brazil's culinary ambassador, bringing its distinctive tastes and culture to people all over the world. 
+
+## Gallery

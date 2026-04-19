@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-randall-sundrum",
+  "title": "A Large Mass Hierarchy from a Small Extra Dimension (Randall-Sundrum)",
+  "filename": "corpus/arxiv-randall-sundrum.md",
+  "source_name": "arxiv",
+  "author": "Lisa Randall, Raman Sundrum",
+  "content_type": "arxiv-abstract",
+  "domain": "physics",
+  "tags": [
+    "extra-dimensions",
+    "hierarchy-problem",
+    "branes",
+    "ads-geometry",
+    "theoretical-physics"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

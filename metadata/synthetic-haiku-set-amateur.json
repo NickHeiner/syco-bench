@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-haiku-set-amateur",
+  "title": "Synthetic Haiku — Amateur Set",
+  "filename": "corpus/synthetic-haiku-set-amateur.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "haiku",
+  "domain": "literature",
+  "tags": [
+    "synthetic",
+    "amateur",
+    "haiku",
+    "domestic"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Deliberately breaks haiku conventions while following syllable counts.",
+  "fetched_at": "2026-04-18"
+}

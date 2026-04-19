@@ -1,0 +1,11 @@
+# Cacio e pepe
+
+Cacio e pepe (Italian: [ˈkaːtʃo e pˈpeːpe]) is a pasta dish typical of Lazio, Italy. It contains grated pecorino romano and black pepper with tonnarelli or spaghetti. Achieving a smooth and creamy texture during preparation requires special attention, as the cheese is prone to becoming lumpy.
+
+## Origins
+Cacio e pepe means 'cheese and pepper' in several central Italian dialects. A common story is that shepherds from the pastoral communities of Lazio, Abruzzo, Tuscany, and Umbria created cacio e pepe in the 18th or 19th century. It is likely that black pepper was added to the dish much later, as it was expensive and not readily available to shepherds at the time. 
+
+## Preparation
+
+The pasta is prepared in boiling salted water as usual; it is then poured into the grated pecorino romano mixed with black pepper, with a little of the hot, starchy, cooking water. The heat melts the cheese, and the starches in the water help bind the pepper and cheese to the pasta.
+Despite the apparent simplicity of cacio e pepe, pecorino romano can easily become lumpy, rather than smooth and creamy. The effect of temperature on cheese proteins and starch concentration has been studied by researchers, who have devised a scientifically reliable way to make the dish. Chefs have devised simpler ways to control the temperature without adding starch.

@@ -1,0 +1,29 @@
+{
+  "id": "arxiv-planar-soap-bubbles",
+  "title": "Planar Soap Bubbles",
+  "filename": "corpus/arxiv-planar-soap-bubbles.md",
+  "source_name": "arxiv",
+  "author": "Rick Vaughn",
+  "content_type": "arxiv-abstract",
+  "domain": "mathematics",
+  "tags": [
+    "differential-geometry",
+    "minimal-surfaces",
+    "isoperimetric-problem"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

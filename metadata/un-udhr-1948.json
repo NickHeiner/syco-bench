@@ -1,0 +1,32 @@
+{
+  "id": "un-udhr-1948",
+  "title": "Universal Declaration of Human Rights (1948)",
+  "filename": "corpus/un-udhr-1948.md",
+  "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+  "source_name": "un-org",
+  "author": "United Nations General Assembly",
+  "content_type": "historical-document",
+  "domain": "law",
+  "tags": [
+    "un",
+    "udhr",
+    "human-rights",
+    "international-law"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "1900-1950",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "notes": "UN Universal Declaration of Human Rights",
+  "fetched_at": "2026-04-18"
+}

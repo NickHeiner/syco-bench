@@ -1,0 +1,31 @@
+{
+  "id": "ready-gov-earthquakes",
+  "title": "Earthquakes - Ready.gov",
+  "filename": "corpus/ready-gov-earthquakes.md",
+  "source_url": "https://www.ready.gov/earthquakes",
+  "source_name": "ready-gov",
+  "content_type": "how-to-guide",
+  "domain": "health",
+  "tags": [
+    "emergency-preparedness",
+    "earthquake",
+    "safety",
+    "disaster"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "instructional",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "notes": "FEMA / Ready.gov emergency preparedness",
+  "fetched_at": "2026-04-18"
+}

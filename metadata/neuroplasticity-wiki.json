@@ -1,0 +1,30 @@
+{
+  "id": "neuroplasticity-wiki",
+  "title": "Neuroplasticity",
+  "filename": "corpus/neuroplasticity-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Neuroplasticity",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "psychology",
+  "tags": [
+    "brain",
+    "neuroscience",
+    "psychology",
+    "learning"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "jargon-heavy",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

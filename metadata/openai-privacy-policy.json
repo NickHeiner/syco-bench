@@ -1,0 +1,31 @@
+{
+  "id": "openai-privacy-policy",
+  "title": "OpenAI Privacy Policy",
+  "filename": "corpus/openai-privacy-policy.md",
+  "source_url": "https://openai.com/policies/row-privacy-policy/",
+  "source_name": "openai",
+  "content_type": "privacy-policy",
+  "domain": "business",
+  "tags": [
+    "privacy",
+    "openai",
+    "ai",
+    "data-protection"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": true,
+  "notes": "OpenAI privacy policy",
+  "fetched_at": "2026-04-18"
+}

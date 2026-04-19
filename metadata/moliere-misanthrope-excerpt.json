@@ -1,0 +1,32 @@
+{
+  "id": "moliere-misanthrope-excerpt",
+  "title": "The Misanthrope (Molière, excerpt, Van Laun translation)",
+  "filename": "corpus/moliere-misanthrope-excerpt.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Misanthrope",
+  "source_name": "wikisource",
+  "author": "Molière",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "french-drama",
+    "17th-century",
+    "translation",
+    "comedy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "literary",
+  "audience": "general",
+  "era": "pre-1800",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Opening scene",
+  "fetched_at": "2026-04-18"
+}

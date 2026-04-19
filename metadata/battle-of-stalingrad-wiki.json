@@ -1,0 +1,31 @@
+{
+  "id": "battle-of-stalingrad-wiki",
+  "title": "Battle of Stalingrad",
+  "filename": "corpus/battle-of-stalingrad-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "military",
+  "tags": [
+    "ww2",
+    "nazi-germany",
+    "soviet-union",
+    "world-war",
+    "battle"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

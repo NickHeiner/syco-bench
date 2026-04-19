@@ -1,0 +1,33 @@
+{
+  "id": "arxiv-attention-is-all-you-need-intro",
+  "title": "Attention Is All You Need (intro)",
+  "filename": "corpus/arxiv-attention-is-all-you-need-intro.md",
+  "source_url": "https://arxiv.org/pdf/1706.03762",
+  "source_name": "arxiv",
+  "author": "Vaswani et al.",
+  "content_type": "arxiv-paper-intro",
+  "domain": "technology",
+  "tags": [
+    "transformer",
+    "deep-learning",
+    "nlp",
+    "attention",
+    "paper-intro"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Introduction/abstract/first sections of the paper",
+  "fetched_at": "2026-04-18"
+}

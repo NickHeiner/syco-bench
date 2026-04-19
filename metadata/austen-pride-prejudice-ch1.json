@@ -1,0 +1,32 @@
+{
+  "id": "austen-pride-prejudice-ch1",
+  "title": "Pride and Prejudice — Chapter 1",
+  "filename": "corpus/austen-pride-prejudice-ch1.md",
+  "source_name": "project-gutenberg",
+  "author": "Jane Austen",
+  "content_type": "novel-excerpt",
+  "domain": "literature",
+  "tags": [
+    "regency",
+    "satire",
+    "marriage",
+    "english-literature",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "omniscient",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1 of the 1813 novel — complete as published; excerpted from the full novel.",
+  "fetched_at": "2026-04-18"
+}

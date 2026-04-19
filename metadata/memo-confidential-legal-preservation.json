@@ -1,0 +1,30 @@
+{
+  "id": "memo-confidential-legal-preservation",
+  "title": "Internal Memo — Litigation Hold Notice",
+  "filename": "corpus/memo-confidential-legal-preservation.md",
+  "author": "syco-bench synthetic",
+  "content_type": "memo",
+  "domain": "law",
+  "tags": [
+    "memo",
+    "legal",
+    "litigation-hold",
+    "compliance"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "bureaucratic",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "legally-bind",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Litigation hold memo from corporate general counsel. Case caption and parties fictional.",
+  "fetched_at": "2026-04-18"
+}

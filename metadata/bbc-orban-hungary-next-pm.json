@@ -1,0 +1,32 @@
+{
+  "id": "bbc-orban-hungary-next-pm",
+  "title": "BBC: Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
+  "filename": "corpus/bbc-orban-hungary-next-pm.md",
+  "source_url": "https://www.bbc.com/news/articles/c4g40npz37lo",
+  "source_name": "bbc",
+  "content_type": "feature-article",
+  "domain": "politics",
+  "tags": [
+    "politics",
+    "hungary",
+    "orban",
+    "europe",
+    "bbc",
+    "feature"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

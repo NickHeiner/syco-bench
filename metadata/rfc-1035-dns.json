@@ -1,0 +1,33 @@
+{
+  "id": "rfc-1035-dns",
+  "title": "RFC 1035 - Domain Names - Implementation and Specification",
+  "filename": "corpus/rfc-1035-dns.md",
+  "source_url": "https://www.rfc-editor.org/rfc/rfc1035",
+  "source_name": "ietf",
+  "author": "P. Mockapetris",
+  "content_type": "rfc",
+  "domain": "technology",
+  "tags": [
+    "rfc",
+    "standards",
+    "dns",
+    "internet",
+    "protocol"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "1950-2000",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Excerpt from full RFC",
+  "fetched_at": "2026-04-18"
+}

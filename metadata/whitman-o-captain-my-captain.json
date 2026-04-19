@@ -1,0 +1,30 @@
+{
+  "id": "whitman-o-captain-my-captain",
+  "title": "O Captain! My Captain!",
+  "filename": "corpus/whitman-o-captain-my-captain.md",
+  "source_url": "https://en.wikisource.org/wiki/Leaves_of_Grass_(1891%E2%80%9392)/O_Captain!_My_Captain!",
+  "source_name": "wikisource",
+  "author": "Walt Whitman",
+  "content_type": "poem",
+  "domain": "literature",
+  "tags": [
+    "american-poetry",
+    "19th-century",
+    "elegy"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "poetic",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "verse",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

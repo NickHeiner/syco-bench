@@ -1,0 +1,29 @@
+{
+  "id": "music-sight-reading-wiki",
+  "title": "Sight-Reading",
+  "filename": "corpus/music-sight-reading-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Sight-reading",
+  "source_name": "wikipedia",
+  "content_type": "study-guide",
+  "domain": "music",
+  "tags": [
+    "music",
+    "sight-reading",
+    "musicianship"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

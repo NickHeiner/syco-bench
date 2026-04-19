@@ -1,0 +1,30 @@
+{
+  "id": "gothic-architecture-wiki",
+  "title": "Gothic Architecture",
+  "filename": "corpus/gothic-architecture-wiki.md",
+  "source_url": "https://en.wikipedia.org/wiki/Gothic_architecture",
+  "source_name": "wikipedia",
+  "content_type": "wikipedia-article",
+  "domain": "architecture",
+  "tags": [
+    "architecture",
+    "medieval",
+    "cathedrals",
+    "europe"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

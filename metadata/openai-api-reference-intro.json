@@ -1,0 +1,32 @@
+{
+  "id": "openai-api-reference-intro",
+  "title": "OpenAI API Reference - Introduction",
+  "filename": "corpus/openai-api-reference-intro.md",
+  "source_url": "https://platform.openai.com/docs/api-reference/introduction",
+  "source_name": "openai-docs",
+  "author": "OpenAI",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "openai",
+    "api",
+    "llm",
+    "gpt",
+    "reference"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

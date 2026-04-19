@@ -1,0 +1,31 @@
+{
+  "id": "wilde-importance-being-earnest-act1",
+  "title": "The Importance of Being Earnest — Act I (excerpt)",
+  "filename": "corpus/wilde-importance-being-earnest-act1.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Importance_of_Being_Earnest/Act_I",
+  "source_name": "wikisource",
+  "author": "Oscar Wilde",
+  "content_type": "stage-play",
+  "domain": "arts",
+  "tags": [
+    "victorian",
+    "comedy-of-manners",
+    "british-drama"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "multiple",
+  "structure": "dialogue",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Act I",
+  "fetched_at": "2026-04-18"
+}

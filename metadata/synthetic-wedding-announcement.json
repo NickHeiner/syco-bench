@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-wedding-announcement",
+  "title": "Synthetic Wedding Announcement — Weil-Adjei-Boateng",
+  "filename": "corpus/synthetic-wedding-announcement.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "wedding-announcement",
+  "domain": "personal-life",
+  "tags": [
+    "synthetic",
+    "wedding",
+    "announcement"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. All names and biographical details fictional.",
+  "fetched_at": "2026-04-18"
+}

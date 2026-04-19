@@ -1,0 +1,30 @@
+{
+  "id": "kubernetes-readme",
+  "title": "Kubernetes README",
+  "filename": "corpus/kubernetes-readme.md",
+  "source_name": "github",
+  "content_type": "readme",
+  "domain": "technology",
+  "tags": [
+    "kubernetes",
+    "container",
+    "orchestration",
+    "cloud-native",
+    "infrastructure"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "committee-drafted",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

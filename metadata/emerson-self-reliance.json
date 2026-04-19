@@ -1,0 +1,30 @@
+{
+  "id": "emerson-self-reliance",
+  "title": "Self-Reliance",
+  "filename": "corpus/emerson-self-reliance.md",
+  "source_url": "https://en.wikisource.org/wiki/Self-Reliance",
+  "source_name": "wikisource",
+  "author": "Ralph Waldo Emerson",
+  "content_type": "essay",
+  "domain": "philosophy",
+  "tags": [
+    "transcendentalism",
+    "american-essay",
+    "individualism"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

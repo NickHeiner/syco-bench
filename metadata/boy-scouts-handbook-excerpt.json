@@ -1,0 +1,33 @@
+{
+  "id": "boy-scouts-handbook-excerpt",
+  "title": "Boy Scouts Handbook (Excerpt)",
+  "filename": "corpus/boy-scouts-handbook-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/29558/pg29558.txt",
+  "source_name": "project-gutenberg",
+  "author": "Boy Scouts of America",
+  "content_type": "instruction-manual",
+  "domain": "education",
+  "tags": [
+    "scouting",
+    "youth",
+    "historical",
+    "manual",
+    "handbook"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "children",
+  "era": "1900-1950",
+  "perspective": "second-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "1911 first BSA handbook, excerpt",
+  "fetched_at": "2026-04-18"
+}

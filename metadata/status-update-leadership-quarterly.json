@@ -1,0 +1,30 @@
+{
+  "id": "status-update-leadership-quarterly",
+  "title": "Status Update — Quarterly Update to Executive Leadership",
+  "filename": "corpus/status-update-leadership-quarterly.md",
+  "author": "syco-bench synthetic",
+  "content_type": "status-update",
+  "domain": "business",
+  "tags": [
+    "status-update",
+    "leadership",
+    "quarterly",
+    "customer-ops"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "formal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written example. Quarterly status update from a senior operator to an executive team.",
+  "fetched_at": "2026-04-18"
+}

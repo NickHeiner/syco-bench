@@ -1,0 +1,33 @@
+{
+  "id": "html-spec-introduction",
+  "title": "HTML Living Standard - Introduction",
+  "filename": "corpus/html-spec-introduction.md",
+  "source_url": "https://html.spec.whatwg.org/multipage/introduction.html",
+  "source_name": "whatwg",
+  "author": "WHATWG",
+  "content_type": "technical-spec",
+  "domain": "technology",
+  "tags": [
+    "html",
+    "standard",
+    "web",
+    "whatwg",
+    "specification"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "committee-drafted",
+  "excerpted": true,
+  "notes": "Introduction section of HTML Living Standard",
+  "fetched_at": "2026-04-18"
+}

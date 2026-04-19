@@ -1,0 +1,30 @@
+{
+  "id": "personal-statement-medical-school",
+  "title": "Personal Statement — AMCAS Medical School Application",
+  "filename": "corpus/personal-statement-medical-school.md",
+  "author": "syco-bench synthetic",
+  "content_type": "personal-statement",
+  "domain": "medicine",
+  "tags": [
+    "personal-statement",
+    "medical-school",
+    "amcas",
+    "graduate-application"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "narrative",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. AMCAS-length personal statement for a medical school applicant. Fictional.",
+  "fetched_at": "2026-04-18"
+}

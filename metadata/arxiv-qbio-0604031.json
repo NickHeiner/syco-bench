@@ -1,0 +1,31 @@
+{
+  "id": "arxiv-qbio-0604031",
+  "title": "Effects of Growth on Dinitrogen on the Transcriptome and Predicted Proteome of Nostoc PCC 7120",
+  "filename": "corpus/arxiv-qbio-0604031.md",
+  "source_url": "https://arxiv.org/abs/q-bio/0604031",
+  "source_name": "arxiv",
+  "author": "Wunschiers, Axelsson, Lindblad",
+  "content_type": "arxiv-abstract",
+  "domain": "biology",
+  "tags": [
+    "quantitative-biology",
+    "transcriptomics",
+    "cyanobacteria",
+    "nitrogen-fixation"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

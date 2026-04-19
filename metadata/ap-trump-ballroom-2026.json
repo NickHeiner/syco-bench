@@ -1,0 +1,33 @@
+{
+  "id": "ap-trump-ballroom-2026",
+  "title": "AP: US appeals court allows construction on Trump's White House ballroom",
+  "filename": "corpus/ap-trump-ballroom-2026.md",
+  "source_url": "https://apnews.com/article/trump-ballroom-white-house-appeals-court-ca37bb4510bff6233b4ecd99a8a801c3",
+  "source_name": "ap",
+  "author": "Darlene Superville",
+  "content_type": "news-article",
+  "domain": "politics",
+  "tags": [
+    "politics",
+    "trump",
+    "white-house",
+    "courts",
+    "ap",
+    "wire-report"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

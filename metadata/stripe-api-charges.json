@@ -1,0 +1,32 @@
+{
+  "id": "stripe-api-charges",
+  "title": "Stripe API - Charges Reference",
+  "filename": "corpus/stripe-api-charges.md",
+  "source_url": "https://docs.stripe.com/api/charges",
+  "source_name": "stripe-docs",
+  "author": "Stripe",
+  "content_type": "api-docs",
+  "domain": "technology",
+  "tags": [
+    "stripe",
+    "api",
+    "payments",
+    "charges",
+    "rest-api"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "corporate",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

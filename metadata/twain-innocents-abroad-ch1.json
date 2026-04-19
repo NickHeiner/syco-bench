@@ -1,0 +1,31 @@
+{
+  "id": "twain-innocents-abroad-ch1",
+  "title": "The Innocents Abroad — Chapter 1",
+  "filename": "corpus/twain-innocents-abroad-ch1.md",
+  "source_url": "https://en.wikisource.org/wiki/The_Innocents_Abroad/Chapter_I",
+  "source_name": "wikisource",
+  "author": "Mark Twain",
+  "content_type": "travelogue",
+  "domain": "travel",
+  "tags": [
+    "american-literature",
+    "19th-century-travel",
+    "humor"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "satirical",
+  "register": "literary",
+  "audience": "general",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "entertain",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Chapter 1",
+  "fetched_at": "2026-04-18"
+}

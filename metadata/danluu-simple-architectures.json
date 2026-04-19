@@ -1,0 +1,31 @@
+{
+  "id": "danluu-simple-architectures",
+  "title": "Simple Architectures That Scale",
+  "filename": "corpus/danluu-simple-architectures.md",
+  "source_url": "https://danluu.com/simple-architectures/",
+  "source_name": "danluu.com",
+  "author": "Dan Luu",
+  "content_type": "engineering-blog-post",
+  "domain": "engineering",
+  "tags": [
+    "architecture",
+    "scalability",
+    "engineering",
+    "danluu"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nietzsche-beyond-good-evil-excerpt",
+  "title": "Nietzsche: Beyond Good and Evil — Preface and Part I",
+  "filename": "corpus/nietzsche-beyond-good-evil-excerpt.md",
+  "source_url": "https://www.gutenberg.org/cache/epub/2130/pg2130.txt",
+  "source_name": "project-gutenberg",
+  "author": "Friedrich Nietzsche (trans. Helen Zimmern)",
+  "content_type": "philosophy-text",
+  "domain": "philosophy",
+  "tags": [
+    "nietzsche",
+    "continental-philosophy",
+    "moral-philosophy",
+    "german",
+    "19th-century"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "argumentative",
+  "register": "literary",
+  "audience": "experts",
+  "era": "1800-1900",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "critique",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": true,
+  "notes": "Preface and Part I",
+  "fetched_at": "2026-04-18"
+}

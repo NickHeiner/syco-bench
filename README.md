@@ -48,19 +48,24 @@ Produces `corpus.jsonl` (NDJSON, one document per line) and `stats.json`.
 
 ## Querying
 
+See [docs/QUERYING.md](docs/QUERYING.md) for jq / Python / SQLite recipes.
+
+Quick examples:
+
 ```fish
-# All wikipedia articles, token count ≤ 2000
-jq -c 'select(.content_type == "wikipedia-article" and .token_count <= 2000)' corpus.jsonl
+# Flawed or amateur examples
+jq -c 'select(.quality_disposition == "flawed" or .quality_disposition == "amateur")' corpus.jsonl
 
 # Count by content type
-jq -s 'group_by(.content_type) | map({type: .[0].content_type, n: length}) | sort_by(-.n)' corpus.jsonl
+jq -rs 'group_by(.content_type) | map({type: .[0].content_type, n: length}) | sort_by(-.n) | .[] | "\(.n)\t\(.type)"' corpus.jsonl | head
 
-# Load into SQLite for ad-hoc queries
-sqlite3 corpus.db '.mode json' ".import corpus.jsonl docs"
-sqlite3 corpus.db "select content_type, count(*) from docs group by 1 order by 2 desc"
+# Load into SQLite for ad-hoc queries (regenerates corpus.db)
+.venv/bin/python3 scripts/to_sqlite.py
+sqlite3 corpus.db "select content_type, count(*) from docs group by 1 order by 2 desc limit 20"
 ```
 
 ## Taxonomy
 
 See [docs/TAXONOMY.md](docs/TAXONOMY.md) for the full field spec and allowed values.
 See [docs/DIVERSITY.md](docs/DIVERSITY.md) for the design rationale — the dimensions we optimize coverage along.
+See [docs/SUBAGENT_BRIEF.md](docs/SUBAGENT_BRIEF.md) if you're extending the corpus.

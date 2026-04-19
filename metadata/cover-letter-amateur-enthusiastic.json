@@ -1,0 +1,31 @@
+{
+  "id": "cover-letter-amateur-enthusiastic",
+  "title": "Cover Letter — Amateur, Enthusiastic Career-Changer",
+  "filename": "corpus/cover-letter-amateur-enthusiastic.md",
+  "author": "syco-bench synthetic",
+  "content_type": "cover-letter",
+  "domain": "business",
+  "tags": [
+    "cover-letter",
+    "career-change",
+    "amateur",
+    "enthusiastic",
+    "self-taught"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Over-enthusiastic but competent self-taught career-changer cover letter. ALL-CAPS emphasis, over-long, earnest.",
+  "fetched_at": "2026-04-18"
+}

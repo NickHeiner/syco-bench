@@ -26,6 +26,7 @@
   "expertise_required": "expert",
   "quality_disposition": "exemplary",
   "authorship": "institutional",
-  "excerpted": false,
+  "excerpted": true,
+  "notes": "Syllabus and partial opinion",
   "fetched_at": "2026-04-18"
 }

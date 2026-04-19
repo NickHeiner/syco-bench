@@ -1,0 +1,31 @@
+{
+  "id": "pitch-deck-amateur-bake-shop",
+  "title": "Pitch Deck — Amateur Small-Business Pitch (Bake Shop)",
+  "filename": "corpus/pitch-deck-amateur-bake-shop.md",
+  "author": "syco-bench synthetic",
+  "content_type": "pitch-deck-text",
+  "domain": "business",
+  "tags": [
+    "pitch-deck",
+    "small-business",
+    "bakery",
+    "micro-loan",
+    "amateur"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Friends-and-family / micro-loan pitch from a first-time retiree entrepreneur. Earnest and honest rather than polished.",
+  "fetched_at": "2026-04-18"
+}

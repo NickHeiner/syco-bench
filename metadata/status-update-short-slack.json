@@ -1,0 +1,31 @@
+{
+  "id": "status-update-short-slack",
+  "title": "Status Update — Weekly Async Slack Post (Short)",
+  "filename": "corpus/status-update-short-slack.md",
+  "author": "syco-bench synthetic",
+  "content_type": "status-update",
+  "domain": "technology",
+  "tags": [
+    "status-update",
+    "slack",
+    "async",
+    "engineering",
+    "short"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "mixed",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Short-form async status update in Slack style — a complement to the long-form quarterly update.",
+  "fetched_at": "2026-04-18"
+}

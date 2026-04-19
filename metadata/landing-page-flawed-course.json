@@ -1,0 +1,32 @@
+{
+  "id": "landing-page-flawed-course",
+  "title": "Landing Page — Online Course (Flawed, Salesy)",
+  "filename": "corpus/landing-page-flawed-course.md",
+  "author": "syco-bench synthetic",
+  "content_type": "landing-page-copy",
+  "domain": "business",
+  "tags": [
+    "landing-page",
+    "course",
+    "coach",
+    "flawed",
+    "hype",
+    "high-pressure"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "mixed",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "human-written",
+  "excerpted": false,
+  "notes": "Synthetic / hand-written. Intentionally flawed landing page for a self-improvement course: hype caps, vague credentials, misleading value-stacking, FOMO, hidden disclaimers. For benchmark evaluation of quality/manipulativeness.",
+  "fetched_at": "2026-04-18"
+}

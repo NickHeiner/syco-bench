@@ -1,0 +1,31 @@
+{
+  "id": "yarnharlot-twenty-two",
+  "title": "Twenty-Two",
+  "filename": "corpus/yarnharlot-twenty-two.md",
+  "source_url": "https://www.yarnharlot.ca/2026/01/twenty-two/",
+  "source_name": "yarnharlot.ca",
+  "author": "Stephanie Pearl-McPhee",
+  "content_type": "personal-essay",
+  "domain": "personal-life",
+  "tags": [
+    "knitting",
+    "blogging",
+    "reflection",
+    "amateur-blog"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

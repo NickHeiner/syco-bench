@@ -1,0 +1,31 @@
+{
+  "id": "medlineplus-encyclopedia-broken-bone",
+  "title": "MedlinePlus Medical Encyclopedia: Broken Bone",
+  "filename": "corpus/medlineplus-encyclopedia-broken-bone.md",
+  "source_url": "https://medlineplus.gov/ency/article/000001.htm",
+  "source_name": "medlineplus",
+  "content_type": "patient-education",
+  "domain": "medicine",
+  "tags": [
+    "broken-bone",
+    "fracture",
+    "patient-education",
+    "first-aid",
+    "medical-encyclopedia"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "informational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

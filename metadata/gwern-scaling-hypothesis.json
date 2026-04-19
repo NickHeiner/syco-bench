@@ -1,0 +1,32 @@
+{
+  "id": "gwern-scaling-hypothesis",
+  "title": "The Scaling Hypothesis",
+  "filename": "corpus/gwern-scaling-hypothesis.md",
+  "source_url": "https://gwern.net/scaling-hypothesis",
+  "source_name": "gwern.net",
+  "author": "Gwern Branwen",
+  "content_type": "essay",
+  "domain": "technology",
+  "tags": [
+    "ai",
+    "scaling",
+    "gpt-3",
+    "ml",
+    "gwern"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "jargon-heavy",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

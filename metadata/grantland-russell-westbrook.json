@@ -1,0 +1,30 @@
+{
+  "id": "grantland-russell-westbrook",
+  "title": "Russell the Creator",
+  "filename": "corpus/grantland-russell-westbrook.md",
+  "source_url": "https://grantland.com/features/russell-the-creator-westbrook-nba-oklahoma-city-thunder-western-conference-kevin-durant-serge-ibaka-kevin-love/",
+  "source_name": "grantland.com",
+  "content_type": "feature-article",
+  "domain": "sports",
+  "tags": [
+    "nba",
+    "basketball",
+    "westbrook",
+    "sports"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

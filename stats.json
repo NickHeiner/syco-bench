@@ -1,0 +1,59 @@
+{
+  "total_documents": 1,
+  "total_tokens": 6110,
+  "total_words": 4266,
+  "mean_tokens": 6110,
+  "median_tokens": 6110,
+  "by_length_bucket": {
+    "long": 1
+  },
+  "by_content_type": {
+    "wikipedia-article": 1
+  },
+  "by_domain": {
+    "food": 1
+  },
+  "by_tone": {
+    "informational": 1
+  },
+  "by_register": {
+    "plain": 1
+  },
+  "by_audience": {
+    "general": 1
+  },
+  "by_era": {
+    "2000-2025": 1
+  },
+  "by_perspective": {
+    "third-person": 1
+  },
+  "by_structure": {
+    "hierarchical-sections": 1
+  },
+  "by_purpose": {
+    "inform": 1
+  },
+  "by_expertise_required": {
+    "generalist": 1
+  },
+  "by_quality_disposition": {
+    "professional": 1
+  },
+  "by_authorship": {
+    "committee-drafted": 1
+  },
+  "by_license": {
+    "cc-by-sa": 1
+  },
+  "by_source_name": {
+    "wikipedia": 1
+  },
+  "by_tags": {
+    "baking": 1,
+    "fermentation": 1,
+    "bread": 1
+  },
+  "compiled_at": "2026-04-18",
+  "errors": []
+}

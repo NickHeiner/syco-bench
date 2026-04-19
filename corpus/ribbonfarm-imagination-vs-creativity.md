@@ -1,17 +1,6 @@
 # Imagination vs. Creativity
 
-*   [Home](https://www.ribbonfarm.com/)
-*   [Ribbonfarm Studio Substack](https://www.ribbonfarm.com/studio/)
-*   [For New Readers](https://www.ribbonfarm.com/for-new-readers/)
-*   [Now Reading](https://www.ribbonfarm.com/now-reading/)
-*   [About](https://www.ribbonfarm.com/about/)
-*   [Books](https://www.ribbonfarm.com/books/)
-
-[ribbonfarm](https://www.ribbonfarm.com/)
-
-constructions in magical thinking
-
-# Imagination vs. Creativity
+By Venkatesh Rao
 
 July 14, 2024 By [Venkatesh Rao](https://www.ribbonfarm.com/author/admin/)
 
@@ -83,69 +72,3 @@ Get new post updates by email
 
 New post updates are sent out once a week
 
-**About Venkatesh Rao**
-
-Venkat is the founder and editor-in-chief of ribbonfarm. Follow him [on Twitter](http://twitter.com/vgr)
-
-### Comments
-
-1.   Tim N says  [July 14, 2024 at 8:21 pm](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298468)  That was thought-provoking. Thank you.  
-2.   [Crul](https://forum.summerofprotocols.com/u/crul/summary) says  [July 14, 2024 at 10:47 pm](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298471)  I like the distinction, it also fits with my experiences and perceptions.  
-3.   George Supreeth says  [July 15, 2024 at 2:36 am](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298474)  I know you’ve been experimenting with drawing. Did you try drawing to first design your vision of a model before building it, or did you jump straight into construction?
-
-Drawing may act as an intermediate creative process between having an idea to fleshing it out with lego. or do you see the act of building itself as the creative process.  
-4.   Logan Underwood says  [July 15, 2024 at 4:29 pm](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298484)  This makes me think of the recent book by Scott h young, Get better at anything. While the title is somewhat click bait-y, it’s a fantastic review of the literature on learning in unbounded and bounded problem spaces, creativity, and general transferability of expertise (very low)  
-5.   Jack says  [July 16, 2024 at 9:03 am](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298500)  Err nope, it’s the other way around.
-
-You imagine things that don’t exist. Could never exist, maybe.
-
-You create new things from old.  
-6.   Kyle Mathews says  [July 19, 2024 at 3:55 pm](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298560)  It seems creativity at one level is aided by imagination at a higher level. I.e. in tech lots of engineers can build stuff but don’t have any idea what’s worthwhile to build. You figure that out by developing experience/skills in higher level fields of business, tech history, etc. that help identify valuable niches to exploit.  
-7.   [Ned Twigg](https://thecontextwindow.ai/) says  [July 21, 2024 at 10:51 am](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298574)  Apparently Hideo Kojima uses Lego to block out levels and camera angles.
-
-[https://x.com/jadel4w/status/1814653040261021995?s=46&t=MxjKGZ0xcO_edQX0W4Soig](https://x.com/jadel4w/status/1814653040261021995?s=46&t=MxjKGZ0xcO_edQX0W4Soig)  
-    *   ST says  [July 25, 2024 at 3:51 pm](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#comment-298620)  In chemistry, we have mixtures and compounds. Imagination, to some extent, is like a mixture where past ideas and future possibilities exist in an emulsion type state where the constituents are distinguishable. But when you “work’ on this mixture by chopping off part of the original constitution of each constituent and compensating for it by generating new “bonds” between the constituents, you arrive at a result that has very little in common with the individual constituents you started off with. In chemistry speak, this would be the compound. That to me is creativity.  
-
-#### Blogchains
-
-    *   [Lunchtime Leadership](https://www.ribbonfarm.com/series/lunchtime-leadership/ "Lunchtime Leadership")
-    *   [Ribbonfarm Lab](https://www.ribbonfarm.com/series/ribbonfarm-lab/ "Ribbonfarm Lab")
-    *   [Psychohistory](https://www.ribbonfarm.com/series/psychohistory/ "Psychohistory")
-    *   [Zemser](https://www.ribbonfarm.com/series/zemser/ "Zemser")
-    *   [Into the Pluriverse](https://www.ribbonfarm.com/series/into-the-pluriverse/ "Into the Pluriverse")
-    *   [Lexicon](https://www.ribbonfarm.com/series/lexicon/ "Lexicon")
-    *   [Mystifications](https://www.ribbonfarm.com/series/mystifications/ "Mystifications")
-    *   [Narrativium](https://www.ribbonfarm.com/series/narrativium/ "Narrativium")
-    *   [Fiction](https://www.ribbonfarm.com/series/fiction/ "Fiction")
-    *   [Clockmaking](https://www.ribbonfarm.com/series/clockmaking/ "Clockmaking")
-
-#### Subscribe
-
-Get new post updates by email
-
-#### Crash Early, Crash Often
-
-[](http://amzn.to/2urEgEQ)
-
-#### Be Slightly Evil
-
-[](http://www.amazon.com/gp/product/B00F8JTYH8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F8JTYH8&linkCode=as2&tag=ribbonfarmcom-20)
-
-#### Gervais Principle
-
-[](http://www.amazon.com/gp/product/B00F9IV64W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F9IV64W&linkCode=as2&tag=ribbonfarmcom-20)
-
-#### Tempo
-
-[](http://tempobook.com/)
-
-#### Meta
-
-*   [Log in](https://www.ribbonfarm.com/wp-login.php)
-*   [Entries feed](https://www.ribbonfarm.com/feed/)
-*   [Comments feed](https://ribbonfarm.com/comments/feed/)
-*   [WordPress.org](https://wordpress.org/)
-
-[Return to top of page](https://www.ribbonfarm.com/2024/07/14/imagination-vs-creativity/#wrap)
-
-Copyright ©2026 · [Prose](http://www.studiopress.com/themes/prose) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://www.ribbonfarm.com/wp-login.php)

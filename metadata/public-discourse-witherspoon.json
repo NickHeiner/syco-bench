@@ -1,0 +1,32 @@
+{
+  "id": "public-discourse-witherspoon",
+  "title": "John Witherspoon and the Spirit of 1776",
+  "filename": "corpus/public-discourse-witherspoon.md",
+  "source_url": "https://www.thepublicdiscourse.com/2026/04/100753/",
+  "source_name": "thepublicdiscourse.com",
+  "author": "Kevin DeYoung",
+  "content_type": "op-ed",
+  "domain": "religion",
+  "tags": [
+    "history",
+    "religion",
+    "patriotism",
+    "witherspoon",
+    "conservative"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "reverent",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

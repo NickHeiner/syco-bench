@@ -1,0 +1,32 @@
+{
+  "id": "danluu-ballmer",
+  "title": "Steve Ballmer Was an Underrated CEO",
+  "filename": "corpus/danluu-ballmer.md",
+  "source_url": "https://danluu.com/ballmer/",
+  "source_name": "danluu.com",
+  "author": "Dan Luu",
+  "content_type": "blog-post",
+  "domain": "business",
+  "tags": [
+    "ceo",
+    "microsoft",
+    "ballmer",
+    "leadership",
+    "danluu"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

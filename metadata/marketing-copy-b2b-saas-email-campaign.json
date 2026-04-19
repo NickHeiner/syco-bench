@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Four-email B2B SaaS outbound nurture sequence. Fictional company (Corvidge, Opsilon).",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

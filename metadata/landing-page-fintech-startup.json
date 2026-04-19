@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Fictional fintech (Keelsend). Mimics a well-crafted SaaS landing page.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

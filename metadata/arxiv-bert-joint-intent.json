@@ -1,0 +1,30 @@
+{
+  "id": "arxiv-bert-joint-intent",
+  "title": "Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model",
+  "filename": "corpus/arxiv-bert-joint-intent.md",
+  "source_name": "arxiv",
+  "author": "Castellucci, Bellomaria, Favalli, Romagnoli",
+  "content_type": "arxiv-abstract",
+  "domain": "technology",
+  "tags": [
+    "nlu",
+    "bert",
+    "intent-detection",
+    "multilingual"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written example. Fictional academic CV. ORCID and grant numbers are placeholders.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

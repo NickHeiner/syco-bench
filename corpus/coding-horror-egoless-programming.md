@@ -1,22 +1,7 @@
 # The Ten Commandments of Egoless Programming
 
-[](https://blog.codinghorror.com/)
+By Jeff Atwood
 
-*   [Archive](https://blog.codinghorror.com/page/2/)
-*   [Discourse](https://www.discourse.org/)
-*   [Stack](https://www.stackexchange.com/)
-*   [RGMII](https://rgmii.org/)
-*   [Reading](https://blog.codinghorror.com/recommended-reading-for-developers/)
-*   [About](https://blog.codinghorror.com/about-me/)
-*   [Shop](https://blog.codinghorror.com/own-a-coding-horror/)
-
-[](https://infosec.exchange/@codinghorror)[](https://blog.codinghorror.com/rss)
-
-# The Ten Commandments of Egoless Programming
-
-[](https://blog.codinghorror.com/author/jeff-atwood/)
-
-#### [Jeff Atwood](https://blog.codinghorror.com/author/jeff-atwood/)
 
 09 May 2006— 2 min read[— Comments (37 replies)](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/#discourse-comments)
 
@@ -49,68 +34,3 @@ The human principles of software are truly timeless;[The Psychology of Computer 
 [](https://blog.codinghorror.com/author/jeff-atwood/)
 
 #### Written by Jeff Atwood
-
-Indoor enthusiast. Co-founder of [Stack Overflow](https://stackoverflow.com/), [Discourse](https://www.discourse.org/), and [RGMII](https://rgmii.org/). Disclaimer: I have no idea what I'm talking about. Let's be kind to each other. Find me [https://infosec.exchange/@codinghorror](https://infosec.exchange/@codinghorror)
-
- ✉️ Subscribe 
-⏲️ Busy signing you up.
-
-❗ Something's gone wrong. Please try again.
-
-✅ Success! Check your inbox (and your spam folder, just in case).
-
-[← Previous Post ## Invisible Formatting Tags are Evil](https://blog.codinghorror.com/invisible-formatting-tags-are-evil/)[Next Post → ## Power, Influence, and Copywriting](https://blog.codinghorror.com/power-influence-and-copywriting/)
-
-## Recent Posts
-
-[](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)
-
-### [Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)
-
-It's been a year since I invited Americans to join us in a pledge to Share the American Dream: 1. Support organizations you feel are effectively helping those most in need across America right now. 2. Within the next five years, also contribute public dedications of time or
-
-By Jeff Atwood · 03 Feb 2026
-
-[Comments (3 replies)](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/#discourse-comments)
-
-[](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
-
-### [The Road Not Taken is Guaranteed Minimum Income](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/)
-
-The dream is incomplete until we share it with our fellow Americans.
-
-By Jeff Atwood · 20 Mar 2025
-
-[Comments (3 replies)](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/#discourse-comments)
-
-[](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
-
-### [Let's Talk About The American Dream](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)
-
-A few months ago I wrote about what it means to stay gold — to hold on to the best parts of ourselves, our communities, and the American Dream itself. But staying gold isn’t passive. It takes work. It takes action. It takes hard conversations that ask us to confront
-
-By Jeff Atwood · 05 Mar 2025
-
-[Comments (3 replies)](https://blog.codinghorror.com/lets-talk-about-the-american-dream/#discourse-comments)
-
-[](https://blog.codinghorror.com/stay-gold-america/)
-
-### [Stay Gold, America](https://blog.codinghorror.com/stay-gold-america/)
-
-We are at an unprecedented point in American history, and I'm concerned we may lose sight of the American Dream.
-
-By Jeff Atwood · 06 Jan 2025
-
-[Comments (3 replies)](https://blog.codinghorror.com/stay-gold-america/#discourse-comments)
-
-[I’m feeling unlucky... 🎲](https://blog.codinghorror.com/random)[See All Posts](https://blog.codinghorror.com/page/2/)
-
-[](https://blog.codinghorror.com/)
-*   [Archive](https://blog.codinghorror.com/page/2/)
-*   [Reading](https://blog.codinghorror.com/recommended-reading-for-developers/)
-*   [About](https://blog.codinghorror.com/about-me/)
-*   [Shop](https://blog.codinghorror.com/own-a-coding-horror/)
-
-[](https://blog.codinghorror.com/rss)[](https://infosec.exchange/@codinghorror)
-
- Powered by [Ghost](https://ghost.org/) · Themed by [Obox](https://oboxthemes.com/)

@@ -1,21 +1,7 @@
-# 202111 - apenwarr
+# 10 years of... whatever this has been
 
- The wonderful thing about
+November 17, 2021
 
-[](https://apenwarr.ca/)
-
- ...is I'm the only one 
-
-_Everything here is my opinion. I do not speak for your employer._
-
-_← [October 2021](https://apenwarr.ca/log/?m=202110)_
-
-_[December 2021](https://apenwarr.ca/log/?m=202112) →_
-
-[](https://apenwarr.ca/log/20211129)
-## [2021-11-17](https://apenwarr.ca/log/20211129)[»](https://apenwarr.ca/log/20211117)
-
-**10 years of... whatever this has been**
 
 I guess I know something about train wrecks.
 
@@ -142,22 +128,3 @@ Nowadays if someone picks XML for a new design, we look at them like they’re f
 So, too, it was for the [gold standard for international trade](https://en.wikipedia.org/wiki/Gold_standard).
 
 But it took more than 50 years.
-
-**Related**
-
-[XML, blockchains, and the strange shapes of progress](https://apenwarr.ca/log/20180914)(2018)
-
-[Why bitcoin will fail](https://apenwarr.ca/log/20110508)(2011)
-
-**Unrelated**
-
-[I was getting tired of ssh'ing through bastion hosts to get to](https://apenwarr.ca/log/20160303)(2016) 
-
-_← [October 2021](https://apenwarr.ca/log/?m=202110)_
-
-_[December 2021](https://apenwarr.ca/log/?m=202112) →_
-
- I'm CEO at **[Tailscale](https://tailscale.com/)**, where we make network problems disappear. 
-**Why would you follow [me on twitter](https://twitter.com/apenwarr)? Use [RSS](https://apenwarr.ca/log/rss.php).**
-
- apenwarr on gmail.com

@@ -25,5 +25,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Hand-written informal agreement between friends for dog sitting",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

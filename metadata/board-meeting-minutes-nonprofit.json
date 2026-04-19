@@ -25,5 +25,6 @@
   "authorship": "institutional",
   "excerpted": false,
   "notes": "Hand-written realistic nonprofit board meeting minutes",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

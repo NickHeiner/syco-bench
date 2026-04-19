@@ -26,5 +26,6 @@
   "authorship": "corporate",
   "excerpted": false,
   "notes": "Hand-written realistic SaaS company earnings call transcript",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

@@ -25,5 +25,6 @@
   "authorship": "corporate",
   "excerpted": false,
   "notes": "Hand-written realistic internal memo from VP Eng about layoffs",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

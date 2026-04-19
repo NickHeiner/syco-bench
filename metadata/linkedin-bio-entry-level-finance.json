@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. First-person LinkedIn About + Experience for a finance new-grad seeking analyst roles.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

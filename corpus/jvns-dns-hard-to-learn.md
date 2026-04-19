@@ -1,22 +1,5 @@
 # Why is DNS still hard to learn?
 
-[Skip to main content](https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/#main)
-
-# [Julia Evans](https://jvns.ca/)
-
-*   [About](https://jvns.ca/about)
-*   [Talks](https://jvns.ca/talks)
-*   [Projects](https://jvns.ca/projects/)
-*   [Mastodon](https://social.jvns.ca/@b0rk)
-*   [Bluesky](https://bsky.app/profile/b0rk.jvns.ca)
-*   [Github](https://github.com/jvns)
-
-*   [Favorites](https://jvns.ca/categories/favorite/)
-*   [TIL](https://jvns.ca/til/)
-*   [Zines](https://wizardzines.com/)
-*   [RSS](https://jvns.ca/atom.xml "subscribe via RSS")
-
-# Why is DNS still hard to learn?
 
  • [dns](https://jvns.ca/categories/dns) • 
 
@@ -238,9 +221,3 @@ DNS can be scary to experiment with – you don’t want to mess up your domain.
 I’d love to hear other thoughts about what makes DNS (or your favourite mysterious technology) hard to learn.
 
  Want a weekly digest of this blog?Subscribe
-
-[Lima: a nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/ "Previous Post: Lima: a nice way to run Linux VMs on Mac")[Behind "Hello World" on Linux](https://jvns.ca/blog/2023/08/03/behind--hello-world/ "Next Post: Behind \"Hello World\" on Linux")
-
-[Archives](https://jvns.ca/)© Julia Evans. If you like this, you may like [Ulia Ea](https://web.archive.org/web/20181228051203/http://www.uliaea.ca/) or, more seriously, this list of [blogs I love](https://jvns.ca/blogroll) or some [books I've read](https://jvns.ca/bookshelf). 
-
-You might also like the [Recurse Center](https://www.recurse.com/scout/click?t=546ea46360584b522270b8c3e5d830f8), my very favorite programming community [(my posts about it)](https://jvns.ca/categories/hackerschool/)

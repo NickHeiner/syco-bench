@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Executive summary for a small-business SBA microloan application. Fictional operator and numbers consistent with 2026 Richmond market.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

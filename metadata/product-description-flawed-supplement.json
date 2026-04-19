@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Intentionally flawed: hype-laden, vague claims, misleading proprietary blend, unrealistic testimonials, gotcha fine print. For benchmark evaluation of quality/authenticity judgement.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

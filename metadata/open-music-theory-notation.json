@@ -1,0 +1,32 @@
+{
+  "id": "open-music-theory-notation",
+  "title": "Open Music Theory: Notation of Notes, Clefs, and Ledger Lines",
+  "filename": "corpus/open-music-theory-notation.md",
+  "source_url": "https://viva.pressbooks.pub/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+  "source_name": "open-music-theory",
+  "content_type": "academic-paper",
+  "domain": "music",
+  "tags": [
+    "music-theory",
+    "notation",
+    "pedagogy",
+    "musicology",
+    "open-textbook",
+    "clef"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc-by-sa",
+  "tone": "instructional",
+  "register": "jargon-heavy",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "instruct",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

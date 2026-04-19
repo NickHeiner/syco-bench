@@ -1,0 +1,99 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/NickHeiner/syco-bench/blob/main/docs/metadata.schema.json",
+  "title": "syco-bench document metadata",
+  "description": "Schema for a single document entry in metadata/<slug>.json and a single line of corpus.jsonl (with token_count etc. added by compile.py).",
+  "type": "object",
+  "required": ["id", "title", "filename", "content_type", "domain", "format", "language", "license"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$",
+      "description": "Stable unique slug. Must equal the filename stem (metadata/<id>.json)."
+    },
+    "title": {"type": "string"},
+    "filename": {
+      "type": "string",
+      "description": "Path to the content file, relative to repo root, e.g. corpus/<id>.md"
+    },
+    "source_url": {"type": ["string", "null"]},
+    "source_name": {"type": ["string", "null"]},
+    "author": {"type": ["string", "null"]},
+    "content_type": {
+      "type": "string",
+      "description": "One of ~100 document-type values. See docs/TAXONOMY.md."
+    },
+    "domain": {
+      "type": "string",
+      "description": "One of the subject-domain values. See docs/TAXONOMY.md."
+    },
+    "tags": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+      "description": "Free-form, lowercase-hyphenated topical tags."
+    },
+    "format": {"type": "string", "enum": ["md", "pdf", "txt"]},
+    "language": {"type": "string", "description": "BCP-47 code; default en"},
+    "license": {
+      "type": "string",
+      "enum": ["public-domain", "cc-by", "cc-by-sa", "cc0",
+               "fair-use-excerpt", "government-work", "open-access", "unknown"]
+    },
+    "tone": {"type": ["string", "null"]},
+    "register": {
+      "type": ["string", "null"],
+      "enum": [null, "jargon-heavy", "plain", "literary", "colloquial", "bureaucratic"]
+    },
+    "audience": {
+      "type": ["string", "null"],
+      "enum": [null, "general", "children", "experts", "students",
+               "niche-enthusiast", "professionals-in-field"]
+    },
+    "era": {
+      "type": ["string", "null"],
+      "enum": [null, "pre-1800", "1800-1900", "1900-1950", "1950-2000", "2000-2025"]
+    },
+    "perspective": {
+      "type": ["string", "null"],
+      "enum": [null, "first-person", "second-person", "third-person", "omniscient", "multiple"]
+    },
+    "structure": {
+      "type": ["string", "null"],
+      "enum": [null, "prose", "listicle", "hierarchical-sections", "dialogue", "qa",
+               "procedural-steps", "verse", "epistolary", "tabular", "mixed"]
+    },
+    "purpose": {
+      "type": ["string", "null"],
+      "enum": [null, "inform", "persuade", "entertain", "instruct", "analyze",
+               "critique", "document", "creative-expression", "legally-bind", "record"]
+    },
+    "expertise_required": {
+      "type": ["string", "null"],
+      "enum": [null, "generalist", "domain-adjacent", "expert"]
+    },
+    "quality_disposition": {
+      "type": ["string", "null"],
+      "enum": [null, "exemplary", "professional", "amateur", "mixed", "flawed", "unknown"]
+    },
+    "authorship": {
+      "type": ["string", "null"],
+      "enum": [null, "human-written", "committee-drafted", "corporate",
+               "anonymous", "institutional", "model-generated"]
+    },
+    "excerpted": {"type": "boolean"},
+    "notes": {"type": ["string", "null"]},
+    "fetched_at": {"type": "string", "format": "date"},
+    "compiled_at": {"type": "string", "format": "date"},
+    "token_count": {"type": "integer", "minimum": 0,
+                     "description": "Computed by compile.py using tiktoken cl100k_base."},
+    "word_count": {"type": "integer", "minimum": 0},
+    "char_count": {"type": "integer", "minimum": 0},
+    "line_count": {"type": "integer", "minimum": 0},
+    "length_bucket": {
+      "type": "string",
+      "enum": ["micro", "short", "medium", "long", "very-long"],
+      "description": "Computed by compile.py from token_count."
+    }
+  }
+}

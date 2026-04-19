@@ -28,5 +28,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Intentionally flawed landing page for a self-improvement course: hype caps, vague credentials, misleading value-stacking, FOMO, hidden disclaimers. For benchmark evaluation of quality/manipulativeness.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

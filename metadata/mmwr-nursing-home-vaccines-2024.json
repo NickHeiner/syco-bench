@@ -1,0 +1,33 @@
+{
+  "id": "mmwr-nursing-home-vaccines-2024",
+  "title": "MMWR: Vaccine Coverage Among Nursing Home Residents, November 2024",
+  "filename": "corpus/mmwr-nursing-home-vaccines-2024.md",
+  "source_url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7346a2.htm",
+  "source_name": "cdc-mmwr",
+  "content_type": "medical-case-report",
+  "domain": "medicine",
+  "tags": [
+    "epidemiology",
+    "vaccination",
+    "covid-19",
+    "influenza",
+    "rsv",
+    "nursing-home",
+    "cdc"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

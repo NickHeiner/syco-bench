@@ -27,6 +27,7 @@
   "expertise_required": "expert",
   "quality_disposition": "exemplary",
   "authorship": "human-written",
-  "excerpted": false,
+  "excerpted": true,
+  "notes": "First two sections (Meta-Learning, Flexing GPT, Baking the Cake, Blessings of Scale) extracted; footnotes, backlinks, and appendix stripped.",
   "fetched_at": "2026-04-18"
 }

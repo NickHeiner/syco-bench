@@ -1,18 +1,19 @@
 {
-  "id": "mmwr-listeriosis-outbreak-2023",
-  "title": "MMWR: Multistate Listeriosis Outbreak Linked to Enoki Mushrooms (2023)",
-  "filename": "corpus/mmwr-listeriosis-outbreak-2023.md",
-  "source_url": "https://www.cdc.gov/mmwr/volumes/72/wr/mm7236a1.htm",
+  "id": "mmwr-measles-update-2025",
+  "title": "MMWR: Measles Update \u2014 United States, January 1\u2013April 17, 2025",
+  "filename": "corpus/mmwr-measles-update-2025.md",
+  "source_url": "https://www.cdc.gov/mmwr/volumes/74/wr/mm7414a1.htm",
   "source_name": "cdc-mmwr",
   "content_type": "medical-case-report",
   "domain": "medicine",
   "tags": [
     "epidemiology",
-    "listeriosis",
+    "measles",
     "outbreak",
     "cdc",
-    "foodborne",
-    "enoki-mushrooms"
+    "mmwr",
+    "vaccination",
+    "surveillance"
   ],
   "format": "md",
   "language": "en",

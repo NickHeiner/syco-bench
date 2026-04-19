@@ -1,0 +1,30 @@
+{
+  "id": "asterisk-medicine-cabinet",
+  "title": "The Mystery in the Medicine Cabinet",
+  "filename": "corpus/asterisk-medicine-cabinet.md",
+  "source_url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+  "source_name": "asteriskmag.com",
+  "content_type": "feature-article",
+  "domain": "medicine",
+  "tags": [
+    "medicine",
+    "pharmacy",
+    "mystery",
+    "asterisk"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "journalistic",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "inform",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

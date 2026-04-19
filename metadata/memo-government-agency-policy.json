@@ -27,5 +27,6 @@
   "authorship": "institutional",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Municipal public-works memo announcing an SOP revision with regulatory context. Fictional city.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "yarnharlot-security",
+  "title": "Security",
+  "filename": "corpus/yarnharlot-security.md",
+  "source_url": "https://www.yarnharlot.ca/2026/02/security/",
+  "source_name": "yarnharlot.ca",
+  "author": "Stephanie Pearl-McPhee",
+  "content_type": "personal-essay",
+  "domain": "personal-life",
+  "tags": [
+    "knitting",
+    "hobbyist",
+    "amateur-blog",
+    "mittens",
+    "community"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "creative-expression",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

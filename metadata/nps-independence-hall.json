@@ -1,0 +1,33 @@
+{
+  "id": "nps-independence-hall",
+  "title": "National Park Service: Independence Hall History",
+  "filename": "corpus/nps-independence-hall.md",
+  "source_url": "https://www.nps.gov/inde/learn/historyculture/places-independencehall.htm",
+  "source_name": "nps",
+  "content_type": "historical-document",
+  "domain": "architecture",
+  "tags": [
+    "architecture",
+    "history",
+    "nps",
+    "philadelphia",
+    "independence-hall",
+    "colonial",
+    "georgian"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "academic",
+  "register": "plain",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

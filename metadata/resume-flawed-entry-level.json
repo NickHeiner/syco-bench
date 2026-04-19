@@ -27,5 +27,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written example. Contains intentional typos (buisness, proffesional), buzzword pileup, irrelevant detail, and unprofessional closings — for benchmark evaluation of quality judgement.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

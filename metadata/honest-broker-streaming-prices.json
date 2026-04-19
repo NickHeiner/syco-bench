@@ -1,0 +1,32 @@
+{
+  "id": "honest-broker-streaming-prices",
+  "title": "Did Streaming Subscription Prices Just Peak?",
+  "filename": "corpus/honest-broker-streaming-prices.md",
+  "source_url": "https://www.honest-broker.com/p/did-streaming-subscription-prices",
+  "source_name": "substack",
+  "author": "Ted Gioia",
+  "content_type": "substack-article",
+  "domain": "business",
+  "tags": [
+    "streaming",
+    "subscription",
+    "music",
+    "business",
+    "honest-broker"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "analyze",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

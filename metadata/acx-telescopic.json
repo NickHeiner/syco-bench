@@ -1,0 +1,31 @@
+{
+  "id": "acx-telescopic",
+  "title": "Against the Concept of Telescopic Morality",
+  "filename": "corpus/acx-telescopic.md",
+  "source_url": "https://www.astralcodexten.com/p/against-the-concept-of-telescopic",
+  "source_name": "substack",
+  "author": "Scott Alexander",
+  "content_type": "substack-article",
+  "domain": "philosophy",
+  "tags": [
+    "morality",
+    "philosophy",
+    "ethics",
+    "acx"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "analytical",
+  "register": "plain",
+  "audience": "niche-enthusiast",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

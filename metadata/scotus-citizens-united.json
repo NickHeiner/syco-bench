@@ -1,0 +1,32 @@
+{
+  "id": "scotus-citizens-united",
+  "title": "SCOTUS: Citizens United v. FEC (2010)",
+  "filename": "corpus/scotus-citizens-united.md",
+  "source_url": "https://supreme.justia.com/cases/federal/us/558/310/",
+  "source_name": "supreme-court",
+  "content_type": "court-opinion",
+  "domain": "law",
+  "tags": [
+    "campaign-finance",
+    "first-amendment",
+    "corporate-speech",
+    "roberts-court",
+    "2010"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "public-domain",
+  "tone": "formal",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "document",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Syllabus and opening of Kennedy's majority opinion",
+  "fetched_at": "2026-04-18"
+}

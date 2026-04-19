@@ -27,5 +27,6 @@
   "authorship": "committee-drafted",
   "excerpted": false,
   "notes": "Synthetic / hand-written. Formal board-meeting minutes with motions, votes, and executive session. Fictional (Whetstone Literacy Coalition).",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

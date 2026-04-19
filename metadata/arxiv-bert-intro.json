@@ -1,0 +1,33 @@
+{
+  "id": "arxiv-bert-intro",
+  "title": "BERT: Pre-training of Deep Bidirectional Transformers (intro)",
+  "filename": "corpus/arxiv-bert-intro.md",
+  "source_url": "https://arxiv.org/pdf/1810.04805",
+  "source_name": "arxiv",
+  "author": "Devlin, Chang, Lee, Toutanova",
+  "content_type": "arxiv-paper-intro",
+  "domain": "technology",
+  "tags": [
+    "bert",
+    "pre-training",
+    "nlp",
+    "transformer",
+    "paper-intro"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "open-access",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "hierarchical-sections",
+  "purpose": "analyze",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "institutional",
+  "excerpted": true,
+  "notes": "Abstract, intro, and background/methods sections",
+  "fetched_at": "2026-04-18"
+}

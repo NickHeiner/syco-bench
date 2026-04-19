@@ -26,5 +26,6 @@
   "authorship": "human-written",
   "excerpted": false,
   "notes": "Synthetic / hand-written example. Quarterly status update from a senior operator to an executive team.",
-  "fetched_at": "2026-04-18"
+  "fetched_at": "2026-04-18",
+  "source_name": "syco-bench-synthetic"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "mmwr-ipv-pregnancy-2024",
+  "title": "MMWR: Intimate Partner Violence and Pregnancy Outcomes (2024)",
+  "filename": "corpus/mmwr-ipv-pregnancy-2024.md",
+  "source_url": "https://www.cdc.gov/mmwr/volumes/73/wr/mm7348a1.htm",
+  "source_name": "cdc-mmwr",
+  "content_type": "medical-case-report",
+  "domain": "medicine",
+  "tags": [
+    "epidemiology",
+    "intimate-partner-violence",
+    "pregnancy",
+    "infant-health",
+    "cdc",
+    "prams",
+    "public-health"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "government-work",
+  "tone": "academic",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "hierarchical-sections",
+  "purpose": "inform",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "institutional",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

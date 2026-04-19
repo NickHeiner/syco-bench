@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-review-product-one-star-blender-flawed",
+  "title": "Synthetic Review — One-Star Blender (flawed/ranty)",
+  "filename": "corpus/synthetic-review-product-one-star-blender-flawed.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-product",
+  "domain": "personal-life",
+  "tags": [
+    "synthetic",
+    "consumer-review",
+    "amateur",
+    "one-star"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately ranty/flawed example. Synthetic. Brand fictional.",
+  "fetched_at": "2026-04-18"
+}

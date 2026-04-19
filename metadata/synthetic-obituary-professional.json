@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-obituary-professional",
+  "title": "Synthetic Obituary — Dr. Marjorie Alvarado",
+  "filename": "corpus/synthetic-obituary-professional.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "obituary",
+  "domain": "medicine",
+  "tags": [
+    "synthetic",
+    "obituary",
+    "biography"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "reverent",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic obituary. Person, hospital, and city fictional.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "roadsandkingdoms-athens",
+  "title": "The Fix: Athens with Fotis Vallatos",
+  "filename": "corpus/roadsandkingdoms-athens.md",
+  "source_url": "https://roadsandkingdoms.com/2026/the-fix-athens-with-fotis-vallatos/",
+  "source_name": "roadsandkingdoms.com",
+  "author": "Fotis Vallatos",
+  "content_type": "feature-article",
+  "domain": "travel",
+  "tags": [
+    "travel",
+    "athens",
+    "food",
+    "greece"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "fair-use-excerpt",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "document",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "human-written",
+  "excerpted": false,
+  "fetched_at": "2026-04-18"
+}

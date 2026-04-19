@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-review-movie-exemplary-critic",
+  "title": "Synthetic Movie Review — The Summer That Never Ended",
+  "filename": "corpus/synthetic-review-movie-exemplary-critic.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-movie",
+  "domain": "film",
+  "tags": [
+    "synthetic",
+    "film-criticism",
+    "exemplary"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic film-criticism example. Film, director, and actors fictional.",
+  "fetched_at": "2026-04-18"
+}

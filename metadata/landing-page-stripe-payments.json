@@ -1,6 +1,6 @@
 {
   "id": "landing-page-stripe-payments",
-  "title": "Landing Page Copy — Stripe Payments",
+  "title": "Landing Page Copy — Stripe Payments (excerpt)",
   "filename": "corpus/landing-page-stripe-payments.md",
   "source_url": "https://stripe.com/payments",
   "source_name": "stripe",
@@ -27,7 +27,7 @@
   "expertise_required": "domain-adjacent",
   "quality_disposition": "exemplary",
   "authorship": "corporate",
-  "excerpted": false,
-  "notes": "Fetched from stripe.com/payments — actual landing-page copy. Fair-use excerpt.",
+  "excerpted": true,
+  "notes": "Fetched from stripe.com/payments. UI mockups, code samples, and locale-selector lists removed; marketing prose and customer quotes retained.",
   "fetched_at": "2026-04-18"
 }

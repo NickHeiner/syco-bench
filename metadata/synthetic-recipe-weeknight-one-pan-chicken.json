@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-recipe-weeknight-one-pan-chicken",
+  "title": "Synthetic Recipe — One-Pan Crispy-Skin Chicken Thighs",
+  "filename": "corpus/synthetic-recipe-weeknight-one-pan-chicken.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "recipe",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "chicken",
+    "weeknight",
+    "one-pan"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "instructional",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic recipe written for corpus.",
+  "fetched_at": "2026-04-18"
+}

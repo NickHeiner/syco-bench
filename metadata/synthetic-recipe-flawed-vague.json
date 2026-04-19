@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-recipe-flawed-vague",
+  "title": "Synthetic Recipe — Dad's Chili (deliberately vague/flawed)",
+  "filename": "corpus/synthetic-recipe-flawed-vague.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "recipe",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "flawed",
+    "amateur",
+    "chili"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately vague / flawed recipe — no measurements, no times. Synthetic.",
+  "fetched_at": "2026-04-18"
+}

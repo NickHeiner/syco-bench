@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-review-product-noise-cancelling-headphones-exemplary",
+  "title": "Synthetic Review — Noise-Cancelling Headphones (exemplary)",
+  "filename": "corpus/synthetic-review-product-noise-cancelling-headphones-exemplary.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-product",
+  "domain": "technology",
+  "tags": [
+    "synthetic",
+    "consumer-electronics",
+    "long-form-review"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Product and brand fictional.",
+  "fetched_at": "2026-04-18"
+}

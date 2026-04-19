@@ -1,6 +1,6 @@
 {
   "id": "landing-page-linear-homepage",
-  "title": "Landing Page Copy — Linear Homepage",
+  "title": "Landing Page Copy — Linear Homepage (excerpt)",
   "filename": "corpus/landing-page-linear-homepage.md",
   "source_url": "https://linear.app/homepage",
   "source_name": "linear",
@@ -26,7 +26,7 @@
   "expertise_required": "generalist",
   "quality_disposition": "exemplary",
   "authorship": "corporate",
-  "excerpted": false,
-  "notes": "Fetched from linear.app — landing-page copy. Fair-use excerpt.",
+  "excerpted": true,
+  "notes": "Fetched from linear.app/homepage. Heavy UI-mockup and nav chrome removed; prose marketing copy and customer quotes retained.",
   "fetched_at": "2026-04-18"
 }

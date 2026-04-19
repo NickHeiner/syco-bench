@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-review-software-dev-tool-mixed",
+  "title": "Synthetic Software Review — IDE Plugin (mixed)",
+  "filename": "corpus/synthetic-review-software-dev-tool-mixed.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-software",
+  "domain": "technology",
+  "tags": [
+    "synthetic",
+    "dev-tools",
+    "mixed-review"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "expert",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Product name redacted; fictional.",
+  "fetched_at": "2026-04-18"
+}

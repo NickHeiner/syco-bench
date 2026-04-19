@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-recipe-pro-pastry-croissant",
+  "title": "Synthetic Recipe — Professional Laminated Croissant",
+  "filename": "corpus/synthetic-recipe-pro-pastry-croissant.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "recipe",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "pastry",
+    "expert",
+    "professional"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "technical",
+  "register": "jargon-heavy",
+  "audience": "experts",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "procedural-steps",
+  "purpose": "instruct",
+  "expertise_required": "expert",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic professional-pastry-school-style recipe.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-review-book-goodreads-style",
+  "title": "Synthetic Book Review — Goodreads-style 4-star",
+  "filename": "corpus/synthetic-review-book-goodreads-style.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-book",
+  "domain": "literature",
+  "tags": [
+    "synthetic",
+    "goodreads-style",
+    "casual-review"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Book and characters fictional.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-marketing-copy-flawed-buzzword-soup",
+  "title": "Synthetic Marketing Copy — Buzzword Soup (flawed)",
+  "filename": "corpus/synthetic-marketing-copy-flawed-buzzword-soup.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "marketing-copy",
+  "domain": "business",
+  "tags": [
+    "synthetic",
+    "buzzword",
+    "flawed",
+    "parody-adjacent"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "jargon-heavy",
+  "audience": "professionals-in-field",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "prose",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "flawed",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately flawed corporate-buzzword example. Synthetic; product fictional.",
+  "fetched_at": "2026-04-18"
+}

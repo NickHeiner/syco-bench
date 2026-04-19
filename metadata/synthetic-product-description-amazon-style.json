@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-product-description-amazon-style",
+  "title": "Synthetic Product Description — Bamboo Cutting Board",
+  "filename": "corpus/synthetic-product-description-amazon-style.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "product-description",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "e-commerce",
+    "kitchenware"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "persuasive",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "third-person",
+  "structure": "listicle",
+  "purpose": "persuade",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Brand fictional. One-tree claim only half-joking.",
+  "fetched_at": "2026-04-18"
+}

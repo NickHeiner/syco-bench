@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-advice-column-workplace",
+  "title": "Synthetic Advice Column — Workplace Fish Odor",
+  "filename": "corpus/synthetic-advice-column-workplace.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "advice-column",
+  "domain": "business",
+  "tags": [
+    "synthetic",
+    "workplace",
+    "advice",
+    "qa"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "plain",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "second-person",
+  "structure": "qa",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "professional",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic advice-column example. Names fictional.",
+  "fetched_at": "2026-04-18"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "synthetic-recipe-blog-post-sourdough-amateur",
+  "title": "Synthetic Recipe Blog Post — Sourdough (amateur chatty style)",
+  "filename": "corpus/synthetic-recipe-blog-post-sourdough-amateur.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "recipe-blog-post",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "blog-style",
+    "sourdough",
+    "amateur",
+    "chatty"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "conversational",
+  "register": "colloquial",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "mixed",
+  "purpose": "instruct",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately chatty blog-style recipe — shows the genre. Synthetic.",
+  "fetched_at": "2026-04-18"
+}

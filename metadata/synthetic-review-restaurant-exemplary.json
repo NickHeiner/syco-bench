@@ -1,0 +1,29 @@
+{
+  "id": "synthetic-review-restaurant-exemplary",
+  "title": "Synthetic Review — Restaurant 'Loam' (exemplary)",
+  "filename": "corpus/synthetic-review-restaurant-exemplary.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-restaurant",
+  "domain": "food",
+  "tags": [
+    "synthetic",
+    "food-writing",
+    "exemplary-style"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "narrative",
+  "register": "literary",
+  "audience": "general",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "domain-adjacent",
+  "quality_disposition": "exemplary",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Synthetic. Restaurant fictional.",
+  "fetched_at": "2026-04-18"
+}

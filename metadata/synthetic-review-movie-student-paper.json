@@ -1,0 +1,30 @@
+{
+  "id": "synthetic-review-movie-student-paper",
+  "title": "Synthetic Movie Review — 2001 (student paper style)",
+  "filename": "corpus/synthetic-review-movie-student-paper.md",
+  "source_name": "syco-bench-synthetic",
+  "content_type": "review-movie",
+  "domain": "film",
+  "tags": [
+    "synthetic",
+    "student-writing",
+    "amateur",
+    "film-review"
+  ],
+  "format": "md",
+  "language": "en",
+  "license": "cc0",
+  "tone": "informal",
+  "register": "colloquial",
+  "audience": "students",
+  "era": "2000-2025",
+  "perspective": "first-person",
+  "structure": "prose",
+  "purpose": "critique",
+  "expertise_required": "generalist",
+  "quality_disposition": "amateur",
+  "authorship": "model-generated",
+  "excerpted": false,
+  "notes": "Deliberately amateur student-essay style. Synthetic.",
+  "fetched_at": "2026-04-18"
+}
